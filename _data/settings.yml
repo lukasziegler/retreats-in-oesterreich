@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Retreats in Deutschland
+title: Retreats in Österreich
 logo: # You can add own logo. For example "/images/logo.png".
 description: Multipurpose Jekyll Blog Theme
 
@@ -8,8 +8,8 @@ description: Multipurpose Jekyll Blog Theme
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Dann Kanigan
-  author__bio: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
+  author__name: Lukas Ziegler
+  author__bio: Hallo! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
   author__avatar: /images/01-1.jpg
 
 
