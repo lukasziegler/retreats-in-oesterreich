@@ -3,7 +3,7 @@ layout: post
 title: Do what you can, with what you have, where you are
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-12 15:01:35 +0300
-author: alfonso
+author: admin
 image: '/images/07.jpg'
 image_caption: 'Photo by [Alexandr Bormotin](https://unsplash.com/photos/-TUYQ8vF0Ks) on [Unsplash](https://unsplash.com/)'
 tags: [lifestyle, travel, story]

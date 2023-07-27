@@ -3,7 +3,7 @@ layout: post
 title: You only live once, but if you do it right, once is enough
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-22 15:01:35 +0300
-author: hanna
+author: admin
 image: '/images/16.jpg'
 image_caption: 'Photo by [Jamakassi](https://unsplash.com/photos/wejxKZ-9IZg) on [Unsplash](https://unsplash.com/)'
 tags: [study, motivation, story]

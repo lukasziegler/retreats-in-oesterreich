@@ -3,7 +3,7 @@ layout: post
 title: Strive not to be a success, but rather to be of value
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-10 15:01:35 +0300
-author: hanna
+author: admin
 image: '/images/09.jpg'
 image_caption: 'Photo by [Febe Vanermen](https://unsplash.com/photos/qApQOlM30sM) on [Unsplash](https://unsplash.com/)'
 tags: [travel, rest, story]

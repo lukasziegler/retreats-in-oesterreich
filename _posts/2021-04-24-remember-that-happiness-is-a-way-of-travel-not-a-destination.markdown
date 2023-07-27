@@ -3,7 +3,7 @@ layout: post
 title: Remember that happiness is a way of travel, not a destination
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-24 15:01:35 +0300
-author: ryan
+author: admin
 image: '/images/14.jpg'
 image_caption: 'Photo by [Redcharlie](https://unsplash.com/photos/QFlD2f7E0i4) on [Unsplash](https://unsplash.com/)'
 tags: [travel, rest]

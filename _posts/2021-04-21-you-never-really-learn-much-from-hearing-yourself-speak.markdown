@@ -3,7 +3,7 @@ layout: post
 title: You never really learn much from hearing yourself speak
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-21 15:01:35 +0300
-author: craig
+author: admin
 image: '/images/17.jpg'
 image_caption: 'Photo by [Aaron Burden](https://unsplash.com/photos/yFnX8DaC3UM) on [Unsplash](https://unsplash.com/)'
 tags: [technology, hobby, motivation]

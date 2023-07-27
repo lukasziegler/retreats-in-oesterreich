@@ -3,7 +3,7 @@ layout: post
 title: Don't be afraid to give up the good to go for the great
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-09 15:01:35 +0300
-author: miracle
+author: lukas
 image: '/images/06.jpg'
 video_embed: 'https://www.youtube.com/embed/CyL7R_1wbHQ'
 tags: [travel, story, rest]

@@ -3,7 +3,7 @@ layout: post
 title: If you cannot do great things, do small things in a great way
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-11 15:01:35 +0300
-author: craig
+author: admin
 image: '/images/04.jpg'
 image_caption: 'Photo by [Surface](https://unsplash.com/photos/tYOjcQ9NzHY) on [Unsplash](https://unsplash.com/)'
 tags: [lifestyle, rest, notes]

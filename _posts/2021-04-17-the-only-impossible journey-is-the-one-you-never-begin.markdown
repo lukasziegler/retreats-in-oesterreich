@@ -3,7 +3,7 @@ layout: post
 title: The only impossible journey is the one you never begin
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-19 15:01:35 +0300
-author: alfonso
+author: admin
 image: '/images/21.jpg'
 image_caption: 'Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)'
 tags: [stydy, notes, motivation]

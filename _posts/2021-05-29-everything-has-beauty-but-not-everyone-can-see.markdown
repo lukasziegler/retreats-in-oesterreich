@@ -3,7 +3,7 @@ layout: post
 title: Everything has beauty, but not everyone can see
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-05-29 18:05:55 +0300
-author: miracle
+author: lukas
 image: '/images/12.jpg'
 image_caption: 'Photo by [Kristin Wilson](https://unsplash.com/photos/MLdBupMri0g) on [Unsplash](https://unsplash.com/)'
 tags: [travel, lifestyle]

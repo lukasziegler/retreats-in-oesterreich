@@ -3,7 +3,7 @@ layout: post
 title: You must be the change you wish to see in the world
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. 
 date: 2021-11-06 15:01:35 +0300
-author: ryan
+author: admin
 image: '/images/05.jpg'
 image_caption: 'Photo by [Oliver Sjöström](https://unsplash.com/photos/m-qps7eYZl4) on [Unsplash](https://unsplash.com/)'
 tags: [lifestyle, hobby]
