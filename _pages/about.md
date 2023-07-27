@@ -32,13 +32,9 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02.jpg" loading="lazy">
     <img src="/images/07.jpg" loading="lazy">
     <img src="/images/04.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
     <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/21.jpg" loading="lazy">
     <img src="/images/03-2.jpg" loading="lazy">
     <img src="/images/16-2.jpg" loading="lazy">
   </div>
