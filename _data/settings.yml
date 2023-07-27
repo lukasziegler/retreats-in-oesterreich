@@ -10,7 +10,7 @@ description: Multipurpose Jekyll Blog Theme
 author:
   author__name: Lukas Ziegler
   author__bio: Hallo! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
-  author__avatar: /images/01-1.jpg
+  author__avatar: /images/01-lukas.jpg
 
 
 #-------------------------------
@@ -23,12 +23,14 @@ menu__settings:
       url: '/retreats/'
     - title: 'Retreat-Anbieter'
       url: '/retreat-anbieter/'
-    - title: 'Pages'
+    - title: 'Über uns'
       submenu:
       - url: '/authors/'
-        title: 'Authors'
+        title: 'Was sind Retreats'
+      - url: '/was-und-warum/'
+        title: 'Wer steckt dahinter'
       - url: '/elements/'
-        title: 'Elements'
+        title: 'Bausteine'
     - title: 'Kontakt'
       url: '/kontakt/'
 
@@ -42,7 +44,7 @@ hero:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Blog & Resources
+  blog__title: Die nächsten Retreats in Österreich
   blog__description: Find out how to set up a successful blog or how to make yours even better!
 
 
@@ -50,7 +52,7 @@ blog:
 # Recommended Tag Settings
 tag:
   enable: true
-  tag__title: Recommended
+  tag__title: Veranstaltungsorte unserer Kooperationspartner
   tag__name: Motivation
 
 
