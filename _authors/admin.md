@@ -1,7 +1,7 @@
 ---
 username: admin
 name: Retreats Near You
-image: '/images/01-lukas.jpg'
+image: ''
 website: https://lukasziegler.com/
 instagram: https://www.instagram.com/lukasziegler/
 facebook: https://www.facebook.com/lukaszieglercom
