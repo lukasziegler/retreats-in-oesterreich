@@ -1,53 +1,18 @@
-# Dann – Multipurpose Jekyll Blog Theme
+# Retreats in Österreich
 
-Dann is a multi-purpose, creative, and modern theme for Jekyll. The main features of the theme are full compatibility with Github Pages, featured post slider, video post support, multiple authors support, and high performance. This theme is perfectly suitable for blogging and personal website.
+Welcome to the project of [Lukas Ziegler](https://lukasziegler.com/)
+This GitHub repo is still in the making and the goal is to have a simple one-pager up and running, that can be used to validate the business case and the product-market-fit, before spending more design and engineering efforts.
 
-* * *
+If you are interested and equally as passionate, then reach out to me via the [contact form](https://retreats-in-oesterreich.at/kontakt/).
 
-### Demo
-
-Check the theme in action [Live Demo](https://dann-jekyll.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+The code base is based on the Jekyll blog theme "Dann" built by [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko). Here is the [live demo](https://dann-jekyll.netlify.app/) where you can see the original theme.
 
 * * *
 
-### Theme features
-
-- Works with GitHub Pages (host it for free)
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Optimized for mobile devices
-- Compatible with modern browsers
-- Super fast performance ⚡⚡⚡
-- Featured posts slider
-- Social sharing buttons
-- Syntax highlighting (supports the Jekyll syntax highlighter)
-- Instant search
-- Medium style image zoom
-- Image lazy loading
-- Image gallery
-- Tag page
-- Author page
-- Custom logo support
-- Supports video posts
-- Supports for multiple authors
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
-- Free Updates & Support
-
-* * *
-
-### Installation
-
-#### Installing Ruby & Jekyll
+## Installation
 
 If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
-* * *
 
 ### Deployment
 
@@ -55,14 +20,14 @@ To run the theme locally, navigate to the theme directory and run `bundle instal
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-* * *
 
-### Documentation
+### GitHub Codespaces
 
-Before using the Dann theme, please read the attached documentation.
+To get this project up and running on GitHub Codespances online, run the following commands
 
-* * *
-
-### Support
-
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+```
+rvm install "ruby-3.0.5"
+gem install bundler jekyll
+bundle update
+bundle exec jekyll serve
+```
