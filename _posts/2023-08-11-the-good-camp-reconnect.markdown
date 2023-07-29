@@ -7,7 +7,7 @@ author: the-good-camp
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
 image_caption: 'Foto von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
 tags: [mindset, nature]
-featured: true
+featured:
 ---
 
 Die Intention des THE GOOD CAMP® RECONNECT ist es, dir auch nach unseren gemeinsamen Tagen in den Bergen, Tools an die Hand zu geben, die du im Alltag nutzen kannst. Neben einfachen Routinen die glücklich machen, Bewegungsmustern die dein ganzes System positiv beeinflussen, geht es darum dich wieder mit dir selbst (auf allen Ebenen) zu verbinden. 
@@ -36,6 +36,8 @@ Beim THE GOOD CAMP® RECONNECT wird es außerdem die Gelegenheit für Einzelsess
 ## Bist du neugierig geworden?
 
 Dann schau rüber zu [THE GOOD CAMP®](https://www.thegoodcamp.net/reconnect-camp.html).
+
+<a href="https://www.thegoodcamp.net/reconnect-camp.html" target="_blank" class="button button--primary"></a>
 
 Sei gespannt und freu dich auf eine einmalige Zeit in einer traumhaften Kulisse, in der du dich wieder bewusst mit dir und der Welt in dir und um dich herum verbindest. 
 
