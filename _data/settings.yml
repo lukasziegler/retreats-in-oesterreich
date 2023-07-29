@@ -17,8 +17,6 @@ author:
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Start'
-      url: '/'
     - title: 'Retreat-Suchende'
       url: '/retreats/'
     - title: 'Retreat-Anbieter'
