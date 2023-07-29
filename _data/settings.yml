@@ -17,20 +17,22 @@ author:
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Start'
       url: '/'
     - title: 'Retreat-Suchende'
       url: '/retreats/'
     - title: 'Retreat-Anbieter'
       url: '/retreat-anbieter/'
-    - title: 'Über uns'
+    - title: 'Was, wie, warum?'
       submenu:
       - url: '/authors/'
         title: 'Was sind Retreats'
       - url: '/was-und-warum/'
         title: 'Wer steckt dahinter'
+      - url: '/philosophie/'
+        title: 'Philosophie'
       - url: '/elements/'
-        title: 'Bausteine'
+        title: 'Baukasten'
     - title: 'Kontakt'
       url: '/kontakt/'
 
@@ -45,7 +47,7 @@ hero:
 # Blog Settings
 blog:
   blog__title: Die nächsten Retreats in Österreich
-  blog__description: Hier unsere Empfehlungen für dich. <a hreF="/kontakt/">Melde dich liebend gerne</a>, solltest du dir nicht sicher sein was genau zu dir passt.
+  blog__description: Hier unsere Empfehlungen für dich. Solltest du dir nicht sicher sein was genau zu dir passt, <a hreF="/kontakt/">melde dich liebend gerne</a> bei uns, wir helfen dir gerne weiter.
 
 
 #-------------------------------
@@ -62,8 +64,8 @@ mailchimp:
   enable: true
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__title: Bleibe auf dem Laufenden
-  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp__input__text: Deine Email-Adresse...
+  mailchimp__description: Bist du genauso begeistert wie wir von dem unglaublichen Potential, das hinter der passenden Auszeit liegt, um die eigenen Weichen neu zu stellen? Dann trage dich in unsere Mailing List ein. Du wirst ein paar Mal im Jahr von uns hören.
+  mailchimp__input__text: Deine E-Mail
   mailchimp__button__text: Abonnieren
   mailchimp__background__image: "/images/110.jpg"
 
