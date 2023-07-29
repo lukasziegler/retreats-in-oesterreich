@@ -62,6 +62,7 @@
   
     @media (max-width: $desktop) {
       padding: 40px $base-spacing-unit;
+      align-items: center;
     }
 
     @media (max-width: $mobile) {
