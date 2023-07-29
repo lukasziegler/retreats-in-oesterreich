@@ -110,7 +110,7 @@
   align-items: center;
   margin-left: auto;
 
-  @media (max-width: $desktop) {
+  @media (max-width: $menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
     position: absolute;
     top: 80px;
     right: $base-spacing-unit;
@@ -374,7 +374,7 @@
   color: var(--link-color);
   cursor: pointer;
 
-  @media (max-width: $desktop) {
+  @media (max-width: $menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
     display: flex;
     justify-content: end;
     margin-top: 4px;
