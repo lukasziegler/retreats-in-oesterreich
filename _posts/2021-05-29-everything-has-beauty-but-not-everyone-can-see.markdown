@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything has beauty, but not everyone can see
+title: Reconect
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-05-29 18:05:55 +0300
 author: lukas
@@ -9,29 +9,25 @@ image_caption: 'Photo by [Kristin Wilson](https://unsplash.com/photos/MLdBupMri0
 tags: [travel, lifestyle]
 featured: true
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Die Intention des THE GOOD CAMP® RECONNECT ist es, dir auch nach unseren gemeinsamen Tagen in den Bergen, Tools an die Hand zu geben, die du im Alltag nutzen kannst. Neben einfachen Routinen die glücklich machen, Bewegungsmustern die dein ganzes System positiv beeinflussen, geht es darum dich wieder mit dir selbst (auf allen Ebenen) zu verbinden. 
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Die Erfahrungen und Methoden die du im THE GOOD CAMP® Reconnect kennenlernen wirst, werden dir die Sicherheit geben um auch im Alltag dir neue Routinen aufzubauen und deinen eigenen authentischen Weg weiter zu gehen.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+> ​Erfolg bedeutet, sein Leben so zu leben, dass man es gar nicht erwarten kann am nächsten Morgen aufzustehen.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+Beim RECONNECT Camp dreht sich alles um das Wiederherstellen der Verbindung mit dir auf den fünf Ebenen:
 
+* reconnect to your body: Auf der Körperebene werden wir mit verschiedenen Übungen dein Bewusstsein für das was bei dir gerade präsent ist schulen. Du wirst von unseren Coaches durch Yoga-, Embodiment- und Atemübungen begleitet um deine Sinne zu schärfen und im vollen Einklang mit dir selbst zu sein.
 
-![Sea]({{site.baseurl}}/images/12-1.jpg){:loading="lazy"}
-*Photo by [Lacie Slezak](https://unsplash.com/photos/7yqyQQXgOT8) on [Unsplash](https://unsplash.com/)*
+* reconnect to your truth: Auf der Mindset-Ebene werden wir dir dabei helfen deine innere Stimme wieder klarer zu hören. Du lernst mit Techniken wie Manifestation, Visualisierung, Journaling, Mindset-Übungen und Human Design dich mit deiner Wahrheit zu verbinden.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+* reconnect to your heart & emotions: it´s time to dive deeper: lass uns gemeinsam in die Welt deiner Emotionen eintauchen. Lerne auf sanfte Art und Weise mit ihnen umzugehen damit du Schritt für Schritt aus alten Mustern aussteigen kannst und dir mit Leichtigkeit neue Routinen erschaffst. Freu dich auf Breathwork-Sessions, Meditationen, Embodiment Übungen und eine Kakaozeremonie.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+* reconnect to nature: Mitten in den Alpen, am Fuße des höchsten Gipfel Tirols, verbinden wir uns bewusst mit der Kraft der Natur: bei gemütlichen Wanderungen, Eisbaden, Grounding Sessions und der ein oder anderen Überraschung, auf die du dich freuen kannst.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+* reconnect with each other: Durch gemeinsame Aktivitäten und inspirierende Gespräche schaffen wir einen Raum für tiefere Verbindungen und wertvolle zwischenmenschliche Beziehungen. Freue dich auf eine unvergessliche Erfahrung, die persönliches Wachstum und Gemeinschaft in den Fokus stellt. 
 
-![Woman]({{site.baseurl}}/images/12-2.jpg){:loading="lazy"}
-*Photo by [Drew Dau](https://unsplash.com/photos/eFWzKPXaC1I) on [Unsplash](https://unsplash.com/)*
+![Es dreht sich alles darum, dich wieder neu mit dir un deinem Umfeld zu verbinden.]({{site.baseurl}}/images/retreats/the-good-camp/tgc-reconnect-to-nature.jpg){:loading="lazy"}
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
+Beim THE GOOD CAMP® RECONNECT wird es außerdem die Gelegenheit für Einzelsessions geben, um bei dem Thema deiner Wahl tiefer zu gehen. Du wirst dir bei den vier Coaches eine der folgenden Behandlungen gratis dazu buchen können: Shiatsu-Behandlung, Körperarbeit/Embodiment (Arbeit mit Emotionen), YESolution (Arbeit an dem Unterbewusstsein), Theta Healing (Arbeit an deinen Glaubenssätzen), Klangschalenmassage, Human Design Reading oder eine 1:1-Yoga-Einheit.
