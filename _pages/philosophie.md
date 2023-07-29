@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Über uns
-description: Hey! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
-permalink: /ueber-uns/
+title: Was, wie, warum?
+description: Dir ist noch nicht ganz klar, warum wir das machen? Dann bist du auf dieser Seite genau richtig.  
+permalink: /philosophie/
 image: '/images/pool/passion-ian_schneider.jpg'
 image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
@@ -18,8 +18,7 @@ lorem ipsum.
 <img src="/images/pool/passion-ian_schneider.jpg" loading="lazy">
 <em>Ian Schneider / <a href="https://unsplash.com/de/fotos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a></em>
 
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+placeholder text.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -31,6 +30,4 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
   </div>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
+placeholder text.
