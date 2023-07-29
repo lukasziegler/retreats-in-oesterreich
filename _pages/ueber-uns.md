@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Über uns
-description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
-permalink: /about/
+description: Hey! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
+permalink: /ueber-uns/
 image: '/images/pool/passion-ian_schneider.jpg'
 image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---

@@ -23,14 +23,12 @@ menu__settings:
       url: '/retreats/'
     - title: 'Retreat-Anbieter'
       url: '/retreat-anbieter/'
-    - title: 'Was, wie, warum?'
+    - title: 'Über uns'
       submenu:
-      - url: '/authors/'
-        title: 'Was sind Retreats'
-      - url: '/was-und-warum/'
-        title: 'Wer steckt dahinter'
       - url: '/philosophie/'
-        title: 'Philosophie'
+        title: 'Was, wie, warum?'
+      - url: '/ueber-uns/'
+        title: 'Wer steckt dahinter'
       - url: '/elements/'
         title: 'Baukasten'
     - title: 'Kontakt'
@@ -78,19 +76,15 @@ footer__menu__settings:
   menu__items:
     - title: 'Start'
       url: '/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Über uns'
+      url: '/ueber-uns/'
     - title: 'Kontakt'
       url: '/kontakt/'
-    - title: 'Über uns'
-      url: '/authors/'
-    - title: 'Elements'
-      url: '/elements/'
-
+    
 
 # Social Links
-social:
-- {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://instagram.com"}
+# social:
+# - {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://instagram.com"}
 
 
 #-------------------------------
