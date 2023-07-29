@@ -18,15 +18,15 @@ Die Erfahrungen und Methoden die du im THE GOOD CAMP® Reconnect kennenlernen wi
 
 Beim RECONNECT Camp dreht sich alles um das Wiederherstellen der Verbindung mit dir auf den fünf Ebenen:
 
-* 🔥 reconnect to your body: Auf der Körperebene werden wir mit verschiedenen Übungen dein Bewusstsein für das was bei dir gerade präsent ist schulen. Du wirst von unseren Coaches durch Yoga-, Embodiment- und Atemübungen begleitet um deine Sinne zu schärfen und im vollen Einklang mit dir selbst zu sein.
+* reconnect to your body: Auf der Körperebene werden wir mit verschiedenen Übungen dein Bewusstsein für das was bei dir gerade präsent ist schulen. Du wirst von unseren Coaches durch Yoga-, Embodiment- und Atemübungen begleitet um deine Sinne zu schärfen und im vollen Einklang mit dir selbst zu sein.
 
-* 💭 reconnect to your truth: Auf der Mindset-Ebene werden wir dir dabei helfen deine innere Stimme wieder klarer zu hören. Du lernst mit Techniken wie Manifestation, Visualisierung, Journaling, Mindset-Übungen und Human Design dich mit deiner Wahrheit zu verbinden.
+* reconnect to your truth: Auf der Mindset-Ebene werden wir dir dabei helfen deine innere Stimme wieder klarer zu hören. Du lernst mit Techniken wie Manifestation, Visualisierung, Journaling, Mindset-Übungen und Human Design dich mit deiner Wahrheit zu verbinden.
 
-* ♥️ reconnect to your heart & emotions: it´s time to dive deeper: lass uns gemeinsam in die Welt deiner Emotionen eintauchen. Lerne auf sanfte Art und Weise mit ihnen umzugehen damit du Schritt für Schritt aus alten Mustern aussteigen kannst und dir mit Leichtigkeit neue Routinen erschaffst. Freu dich auf Breathwork-Sessions, Meditationen, Embodiment Übungen und eine Kakaozeremonie.
+* reconnect to your heart & emotions: it´s time to dive deeper: lass uns gemeinsam in die Welt deiner Emotionen eintauchen. Lerne auf sanfte Art und Weise mit ihnen umzugehen damit du Schritt für Schritt aus alten Mustern aussteigen kannst und dir mit Leichtigkeit neue Routinen erschaffst. Freu dich auf Breathwork-Sessions, Meditationen, Embodiment Übungen und eine Kakaozeremonie.
 
-* 🏔️ reconnect to nature: Mitten in den Alpen, am Fuße des höchsten Gipfel Tirols, verbinden wir uns bewusst mit der Kraft der Natur: bei gemütlichen Wanderungen, Eisbaden, Grounding Sessions und der ein oder anderen Überraschung, auf die du dich freuen kannst.
+* reconnect to nature: Mitten in den Alpen, am Fuße des höchsten Gipfel Tirols, verbinden wir uns bewusst mit der Kraft der Natur: bei gemütlichen Wanderungen, Eisbaden, Grounding Sessions und der ein oder anderen Überraschung, auf die du dich freuen kannst.
 
-* ✨ reconnect with each other: Durch gemeinsame Aktivitäten und inspirierende Gespräche schaffen wir einen Raum für tiefere Verbindungen und wertvolle zwischenmenschliche Beziehungen. Freue dich auf eine unvergessliche Erfahrung, die persönliches Wachstum und Gemeinschaft in den Fokus stellt. 
+* reconnect with each other: Durch gemeinsame Aktivitäten und inspirierende Gespräche schaffen wir einen Raum für tiefere Verbindungen und wertvolle zwischenmenschliche Beziehungen. Freue dich auf eine unvergessliche Erfahrung, die persönliches Wachstum und Gemeinschaft in den Fokus stellt. 
 
 ![Es dreht sich alles darum, dich wieder neu mit dir un deinem Umfeld zu verbinden.]({{site.baseurl}}/images/retreats/the-good-camp/tgc-reconnect-to-nature.jpg){:loading="lazy"}
 *Foto von [Vanessa Blankenagel](https://unsplash.com/photos/vn59e-3J2oo)*
