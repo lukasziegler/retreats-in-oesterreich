@@ -29,8 +29,6 @@ menu__settings:
         title: 'Wer steckt dahinter'
       - url: '/team/'
         title: 'Unser Netzwerk'
-      - url: '/elements/'
-        title: 'Baukasten'
     - title: 'Kontakt'
       url: '/kontakt/'
 
@@ -78,6 +76,8 @@ footer__menu__settings:
       url: '/'
     - title: 'Über uns'
       url: '/ueber-uns/'
+    - title: 'Impressum'
+      url: '/impressum/'
     - title: 'Kontakt'
       url: '/kontakt/'
     
