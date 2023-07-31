@@ -2,7 +2,7 @@
 layout: post
 title: The Good Camp Reconnect
 description: Dieses 3-Tages-Retreat ist genau darauf ausgelegt, die gelungene Balance aus Entspannung und Anspannung (Input, Austausch und Bewegung) zu haben. Du wirst von vier Coaches durch das Wochenende begleitet und es besteht genügend Raum, um auf jeden Einzelnen individuell einzugehen.
-date: 2023-08-11 13:13:13 +0300
+date: 2021-08-11 13:13:13 +0300
 author: lukas
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
 image_caption: 'Foto von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reconect
+title: Reconcect
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-05-29 18:05:55 +0300
 author: lukas
