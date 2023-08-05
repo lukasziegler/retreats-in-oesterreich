@@ -24,7 +24,7 @@ Lukas
 
 Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
 
-<img src="/images/pool/passion-ian_schneider.jpg" loading="lazy">
+<img src="/images/stockphotos/passion-ian_schneider.jpg" loading="lazy">
 <em>Ian Schneider / <a href="https://unsplash.com/de/fotos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a></em>
 
 

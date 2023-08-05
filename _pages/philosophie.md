@@ -3,7 +3,7 @@ layout: page
 title: Was, wie, warum?
 description: Dir ist noch nicht ganz klar, warum wir das machen? Dann bist du auf dieser Seite genau richtig.  
 permalink: /philosophie/
-image: '/images/pool/passion-ian_schneider.jpg'
+image: '/images/stockphotos/passion-ian_schneider.jpg'
 image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
 
@@ -15,7 +15,7 @@ Falls du neugierig geworden bist und dich fragst, worum es hier geht, dann bist 
 
 lorem ipsum.
 
-<img src="/images/pool/passion-ian_schneider.jpg" loading="lazy">
+<img src="/images/stockphotos/passion-ian_schneider.jpg" loading="lazy">
 <em>Ian Schneider / <a href="https://unsplash.com/de/fotos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a></em>
 
 placeholder text.
