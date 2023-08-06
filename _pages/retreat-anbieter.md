@@ -13,5 +13,7 @@ Bist du neugierig geworden? Dann melde dich [bei Lukas über WhatsApp](https://w
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appyfpS45hXxis9w3/shrRu0jbV2l9YhM36?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+***
+
 <img src="/images/stockphotos/austria/retreats-in-the-woods cara-fuller.jpg" loading="lazy">
 *Foto von [Cara Fuller](https://unsplash.com/de/fotos/BeHRkALwXIw)*

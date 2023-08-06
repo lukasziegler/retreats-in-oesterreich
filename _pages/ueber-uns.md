@@ -3,8 +3,6 @@ layout: page
 title: Über uns
 description: Hey! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
 permalink: /ueber-uns/
-image: '/images/pool/passion-ian_schneider.jpg'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
 
 Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.
