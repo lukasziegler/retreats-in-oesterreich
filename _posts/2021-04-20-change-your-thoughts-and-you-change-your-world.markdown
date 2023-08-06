@@ -4,17 +4,15 @@ title: Change your thoughts and you change your world
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-20 15:01:35 +0300
 author: admin
-image: '/images/18.jpg'
-image_caption: 'Photo by [River Fx](https://unsplash.com/photos/NaU8k9emQMI) on [Unsplash](https://unsplash.com/)'
-tags: [motivation, hobby, notes]
-featured:
+image: '/images/stockphotos/generic/yogi-mudra pixie-sYbt7ekL418-unsplash.jpg'
+tags: [placeholder, inspriation]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ![Bikes]({{site.baseurl}}/images/18-1.jpg){:loading="lazy"}
-*Photo by [Collin Hardy](https://unsplash.com/photos/aELVjL1a5Zw) on [Unsplash](https://unsplash.com/)*
+*Foto von [Collin Hardy](https://unsplash.com/photos/aELVjL1a5Zw) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -25,7 +23,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Bike]({{site.baseurl}}/images/18-2.jpg){:loading="lazy"}
-*Photo by [Clem Onojeghuo](https://unsplash.com/photos/G-HxYbCf4x4) on [Unsplash](https://unsplash.com/)*
+*Foto von [Clem Onojeghuo](https://unsplash.com/photos/G-HxYbCf4x4) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

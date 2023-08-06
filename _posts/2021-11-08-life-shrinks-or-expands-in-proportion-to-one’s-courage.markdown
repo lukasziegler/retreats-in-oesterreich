@@ -4,16 +4,15 @@ title: Life shrinks or expands in proportion to one’s courage
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-08 15:01:35 +0300
 author: admin
-image: '/images/03.jpg'
-image_caption: 'Photo by [Patrick Hendry](https://unsplash.com/photos/eDgUyGu93Yw) on [Unsplash](https://unsplash.com/)'
-tags: [notes, travel]
+image: '/images/stockphotos/generic/buddha-with-crystals samuel-austin-S_TIOyYuiJI-unsplash.jpg'
+tags: [placeholder, inspiration]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ![Woman]({{site.baseurl}}/images/03-1.jpg){:loading="lazy"}
-*Photo by [Chris Neumann](https://unsplash.com/photos/vAl_1cff2kY) on [Unsplash](https://unsplash.com/)*
+*Foto von [Chris Neumann](https://unsplash.com/photos/vAl_1cff2kY) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -24,7 +23,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Dog]({{site.baseurl}}/images/03-2.jpg){:loading="lazy"}
-*Photo by [Patrick Hendry](https://unsplash.com/photos/GZ1hc6Jvbrg) on [Unsplash](https://unsplash.com/)*
+*Foto von [Patrick Hendry](https://unsplash.com/photos/GZ1hc6Jvbrg) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

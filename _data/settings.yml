@@ -2,14 +2,14 @@
 # Site Settings
 title: Retreats in Österreich
 logo: # You can add own logo. For example "/images/logo.png".
-description: Multipurpose Jekyll Blog Theme
+description: Finde dein nächstes Retreat ganz in deiner Nähe. Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Lukas Ziegler
-  author__bio: Hallo! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
+  author__name: Hallo, ich bin Lukas.
+  author__bio: Und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
   author__avatar: /images/01-lukas.jpg
 
 

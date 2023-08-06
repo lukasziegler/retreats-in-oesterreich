@@ -5,7 +5,7 @@ description: Leverage agile frameworks to provide a robust synopsis for high lev
 date: 2021-11-12 15:01:35 +0300
 author: admin
 image: '/images/07.jpg'
-image_caption: 'Photo by [Alexandr Bormotin](https://unsplash.com/photos/-TUYQ8vF0Ks) on [Unsplash](https://unsplash.com/)'
+image_caption: 'Foto von [Alexandr Bormotin](https://unsplash.com/photos/-TUYQ8vF0Ks) on [Unsplash](https://unsplash.com/)'
 tags: [lifestyle, travel, story]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -13,7 +13,7 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ![Bikes]({{site.baseurl}}/images/07-1.jpg){:loading="lazy"}
-*Photo by [Realaxer](https://unsplash.com/photos/eZJiq4IVlwY) on [Unsplash](https://unsplash.com/)*
+*Foto von [Realaxer](https://unsplash.com/photos/eZJiq4IVlwY) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -24,7 +24,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Man and Bike]({{site.baseurl}}/images/07-2.jpg){:loading="lazy"}
-*Photo by [Clem Onojeghuo](https://unsplash.com/photos/bq-1seg1cPI) on [Unsplash](https://unsplash.com/)*
+*Foto von [Clem Onojeghuo](https://unsplash.com/photos/bq-1seg1cPI) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

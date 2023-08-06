@@ -4,9 +4,9 @@ title: The way to get started is to quit talking and begin doing
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-04-23 15:01:35 +0300
 author: admin
-image: '/images/15.jpg'
-image_caption: 'Photo by [Lisha Riabinina](https://unsplash.com/photos/stj-A6E6II8) on [Unsplash](https://unsplash.com/)'
-tags: [hobby, story, rest]
+image: '/images/stockphotos/generic/journaling alexis-brown-omeaHbEFlN4-unsplash.jpg'
+image_caption: 'Foto von [Alexis Brown](https://unsplash.com/de/fotos/omeaHbEFlN4)'
+tags: [Inspiration]
 featured: true
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -20,7 +20,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
 ![Surfer]({{site.baseurl}}/images/15-1.jpg){:loading="lazy"}
-*Photo by [Sincerely Media](https://unsplash.com/photos/oC32cy4x-ZA) on [Unsplash](https://unsplash.com/)*
+*Foto von [Sincerely Media](https://unsplash.com/photos/oC32cy4x-ZA) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -29,7 +29,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Beach]({{site.baseurl}}/images/15-2.jpg){:loading="lazy"}
-*Photo by [Juliette Contin](https://unsplash.com/photos/T-nr2QEbab0) on [Unsplash](https://unsplash.com/)*
+*Foto von [Juliette Contin](https://unsplash.com/photos/T-nr2QEbab0) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

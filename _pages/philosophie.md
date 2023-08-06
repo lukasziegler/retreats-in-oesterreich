@@ -22,11 +22,9 @@ placeholder text.
     <img src="/images/stockphotos/generic/lotus jay-castor-7AcMUSYRZpU-unsplash.jpg" loading="lazy">
     <img src="/images/stockphotos/generic/mindfulness lesly-juarez-DFtjXYd5Pto-unsplash.jpg" loading="lazy">
     <img src="/images/stockphotos/generic/singing-bowl conscious-design-Hn4wYHOaeIc-unsplash.jpg" loading="lazy">
-    <img src="/images/stockphotos/generic/yogi-class erik-brolin-ZARfCYDaVg0-unsplash.jpg" loading="lazy">
+    <img src="/images/stockphotos/generic/yogi-sunrise-in-the-mountains eneko-urunuela-I2YSmEUAgDY-unsplash.jpg" loading="lazy">
     <img src="/images/stockphotos/generic/singing-bowls-crystal frames-for-your-heart-rHMyYDmZq2A-unsplash.jpg" loading="lazy">
     <img src="/images/stockphotos/generic/yogi-mudra pixie-sYbt7ekL418-unsplash.jpg" loading="lazy">
-    <img src="/images/stockphotos/generic/yogi-sunrise-in-the-mountains eneko-urunuela-I2YSmEUAgDY-unsplash.jpg" loading="lazy">
+    <img src="/images/stockphotos/generic/breathe tim-goedhart-vnpTRdmtQ30-unsplash.jpg" loading="lazy">
   </div>
 </div>
-
-placeholder text.

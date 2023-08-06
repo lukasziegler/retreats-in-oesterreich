@@ -110,7 +110,7 @@ li {
 ## Images
 
 ![Man]({{site.baseurl}}/images/21.jpg#wide)
-*Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)*
+*Foto von [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)*
 
 <div class="gallery-box">
   <div class="gallery">
@@ -128,7 +128,7 @@ li {
 </div>
 
 ![Man]({{site.baseurl}}/images/01-2.jpg)
-*Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
+*Foto von [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
 
 ***
 

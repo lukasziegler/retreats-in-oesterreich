@@ -79,7 +79,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-position: center;
+    // background-position: center; // ADJUSTMENTS (LZ FIX)
+    background-position: center 88%;
     background-size: cover;
 
     &::after {

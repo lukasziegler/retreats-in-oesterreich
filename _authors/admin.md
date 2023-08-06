@@ -1,7 +1,7 @@
 ---
 username: admin
 name: Retreats Near You
-image: ''
+image: '/images/stockphotos/austria/mountain-like-with-yogi mikita-karasiou-mMzVTy2V1Do-unsplash.jpg'
 website: https://retreatsnearyou.com/
 ---
 

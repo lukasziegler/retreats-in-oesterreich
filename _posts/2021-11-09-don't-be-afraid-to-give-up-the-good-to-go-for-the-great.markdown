@@ -4,9 +4,9 @@ title: Don't be afraid to give up the good to go for the great
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 date: 2021-11-09 15:01:35 +0300
 author: lukas
-image: '/images/06.jpg'
+image: '/images/stockphotos/generic/journaling alexis-brown-omeaHbEFlN4-unsplash.jpg'
 video_embed: 'https://www.youtube.com/embed/CyL7R_1wbHQ'
-tags: [travel, story, rest]
+tags: [Placeholder, Inspiration]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -19,7 +19,7 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Travel]({{site.baseurl}}/images/06-1.jpg){:loading="lazy"}
-*Photo by [Jesse Callahan](https://unsplash.com/photos/MNtnaKks2n8) on [Unsplash](https://unsplash.com/)*
+*Foto von [Jesse Callahan](https://unsplash.com/photos/MNtnaKks2n8) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 
