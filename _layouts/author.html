@@ -12,7 +12,7 @@ layout: default
       <div class="author__image"><img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}"></div>
       <h1 class="author__name">{{ page.name }}</h1>
       {% if post_count.size >= 1 %}
-        <div class="author__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Post{% else %}Posts{% endif %}</div>
+        <div class="author__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Retreat{% else %}Retreats{% endif %}</div>
       {% endif %}
 
       <div class="author__info">
@@ -22,11 +22,14 @@ layout: default
       {% if page.website %}
         <a class="author__social__item" href="{{ page.website }}" aria-label="Website link"><i class="ion ion-ios-link"></i></a>
       {% endif %}
-      {% if page.twitter %}
-        <a class="author__social__item" href="{{ page.twitter }}" aria-label="Twitter link"><i class="ion ion-logo-twitter"></i></a>
+      {% if page.instagram %}
+        <a class="author__social__item" href="{{ page.instragram }}" aria-label="Instagram link"><i class="ion ion-logo-instagram"></i></a>
       {% endif %}
       {% if page.facebook %}
         <a class="author__social__item" href="{{ page.facebook }}" aria-label="Facebook link"><i class="ion ion-logo-facebook"></i></a>
+      {% endif %}
+      {% if page.twitter %}
+        <a class="author__social__item" href="{{ page.twitter }}" aria-label="Twitter link"><i class="ion ion-logo-twitter"></i></a>
       {% endif %}
       </div>
 
