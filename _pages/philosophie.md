@@ -9,6 +9,8 @@ image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0)
 
 Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.
 
+
+
 Falls du neugierig geworden bist und dich fragst, worum es hier geht, dann bist du auf dieser Seite genau richtig.
 
 ## Was sind Retreats?

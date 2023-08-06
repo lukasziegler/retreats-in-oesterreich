@@ -9,13 +9,13 @@ image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0)
 
 Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.
 
-Hinter Retreats in Österreich steckt Lukas. Mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen. 
+Hinter Retreats in Österreich steckt Lukas. Sein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen. 
 
-Als Teil dessen sehe ich es als große Chance Synergien zu schaffen und die Retreat-Organisatoren, welhce ihrer Tätigkeit meist im Nebenberuf nachgehen, bei ihrer Arbeit zu unterstützen. Dadurch profitiert nicht nur der Einzelne, sondern das gesamte Netz.
+Als Teil dessen sehe ich es als große Chance Synergien zu schaffen und die Retreat-Organisatoren, welche ihrer Tätigkeit meist im Nebenberuf nachgehen, bei ihrer Arbeit zu unterstützen. Dadurch profitiert nicht nur der Einzelne, sondern das gesamte Netz(werk) und somit die Gemeinschaft.
 
-Treibt dich ewtas ähnliches an oder bist du einfach neugierig und möchtest dich austauschen? Dann melde dich bei mir und lass uns über deine Vision(en) unterhalten. Wer weiß wohin die Reise uns führt.
+Treibt dich ewtas ähnliches an oder bist du einfach neugierig und möchtest dich austauschen? Dann [melde dich bei mir](/kontakt/) und lass uns über deine Vision(en) unterhalten. Wer weiß wohin die Reise uns führt.
 
-Du erreichst mich am besten über das Kontaktformular.
+Du erreichst mich am besten über das [Kontaktformular](/kontakt/).
 
 Alles Liebe,
 Lukas

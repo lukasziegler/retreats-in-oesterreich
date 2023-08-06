@@ -3,10 +3,10 @@ layout: post
 title: The Good Camp Reconnect
 description: Dieses 3-Tages-Retreat ist genau darauf ausgelegt, die gelungene Balance aus Entspannung und Anspannung (Input, Austausch und Bewegung) zu haben. Du wirst von vier Coaches durch das Wochenende begleitet und es besteht genügend Raum, um auf jeden Einzelnen individuell einzugehen.
 date: 2021-08-11 13:13:13 +0300
-author: lukas
+author: the-good-camp
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
-image_caption: 'Foto von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
-tags: [workflow, hobby, study]
+image_caption: 'Fotos von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
+tags: [Tirol, Mindset]
 featured: true
 ---
 
@@ -29,7 +29,7 @@ Beim RECONNECT Camp dreht sich alles um das Wiederherstellen der Verbindung mit 
 * reconnect with each other: Durch gemeinsame Aktivitäten und inspirierende Gespräche schaffen wir einen Raum für tiefere Verbindungen und wertvolle zwischenmenschliche Beziehungen. Freue dich auf eine unvergessliche Erfahrung, die persönliches Wachstum und Gemeinschaft in den Fokus stellt. 
 
 ![Es dreht sich alles darum, dich wieder neu mit dir un deinem Umfeld zu verbinden.]({{site.baseurl}}/images/retreats/the-good-camp/tgc-reconnect-to-nature.jpg){:loading="lazy"}
-*Foto von [Vanessa Blankenagel](https://unsplash.com/photos/vn59e-3J2oo)*
+*Foto von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)*
 
 Beim THE GOOD CAMP® RECONNECT wird es außerdem die Gelegenheit für Einzelsessions geben, um bei dem Thema deiner Wahl tiefer zu gehen. Du wirst dir bei den vier Coaches eine der folgenden Behandlungen gratis dazu buchen können: Shiatsu-Behandlung, Körperarbeit/Embodiment (Arbeit mit Emotionen), YESolution (Arbeit an dem Unterbewusstsein), Theta Healing (Arbeit an deinen Glaubenssätzen), Klangschalenmassage, Human Design Reading oder eine 1:1-Yoga-Einheit.
 
@@ -40,4 +40,4 @@ Dann schau rüber zu [THE GOOD CAMP®](https://www.thegoodcamp.net/reconnect-cam
 Sei gespannt und freu dich auf eine einmalige Zeit in einer traumhaften Kulisse, in der du dich wieder bewusst mit dir und der Welt in dir und um dich herum verbindest. 
 
 ![Feine Yoga-Einheiten werden nicht zu kurz kommen, damit du wieder gut bei dir ankommst.]({{site.baseurl}}/images/retreats/the-good-camp/tgc-yoga.jpg){:loading="lazy"}
-*Foto von [Vanessa Blankenagel](https://unsplash.com/photos/vn59e-3J2oo)*
+*Foto von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)*

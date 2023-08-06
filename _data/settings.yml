@@ -59,8 +59,8 @@ tag:
 mailchimp:
   enable: true
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__title: Bleibe auf dem Laufenden
-  mailchimp__description: Bist du genauso begeistert wie wir von dem unglaublichen Potential, das hinter der passenden Auszeit liegt, um die eigenen Weichen neu zu stellen? Dann trage dich in unsere Mailing List ein. Du wirst ein paar Mal im Jahr von uns hören.
+  mailchimp__title: Interesse geweckt?
+  mailchimp__description: Dann trage dich in unseren E-Mail Verteiler ein. Du wirst ein paar Mal im Jahr von uns hören.
   mailchimp__input__text: Deine E-Mail
   mailchimp__button__text: Abonnieren
   mailchimp__background__image: "/images/stockphotos/generic/yogi-sunrise-in-the-mountains eneko-urunuela-I2YSmEUAgDY-unsplash.jpg"
