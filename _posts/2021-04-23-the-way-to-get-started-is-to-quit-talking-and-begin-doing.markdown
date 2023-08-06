@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The way to get started is to quit talking and begin doing
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+description: 
 date: 2021-04-23 15:01:35 +0300
 author: admin
 image: '/images/stockphotos/generic/journaling alexis-brown-omeaHbEFlN4-unsplash.jpg'
 image_caption: 'Foto von [Alexis Brown](https://unsplash.com/de/fotos/omeaHbEFlN4)'
-tags: [Inspiration]
+tags: [inspiration]
 featured: true
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.

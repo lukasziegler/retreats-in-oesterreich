@@ -1,43 +1,41 @@
 ---
 layout: page
 title: Über uns
-description: Hey! Mein Name ist Lukas und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
+description: Hi! Mein Name ist Lukas, und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
 permalink: /ueber-uns/
 ---
 
-Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.
+Die Vision von Retreats in Österreich ist es Retreats leichter auffindbar zu machen, Retreat-Anbieter den Einstieg in diese Domäne zu erleichtern und bestehende Organisatoren die Arbeit zu erleichtern. 
 
 Hinter Retreats in Österreich steckt Lukas. Sein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen. 
 
+<!-- Nachhaltigkeit / SDG -->
+
+<!-- Synergien -->
 Als Teil dessen sehe ich es als große Chance Synergien zu schaffen und die Retreat-Organisatoren, welche ihrer Tätigkeit meist im Nebenberuf nachgehen, bei ihrer Arbeit zu unterstützen. Dadurch profitiert nicht nur der Einzelne, sondern das gesamte Netz(werk) und somit die Gemeinschaft.
 
-Treibt dich ewtas ähnliches an oder bist du einfach neugierig und möchtest dich austauschen? Dann [melde dich bei mir](/kontakt/) und lass uns über deine Vision(en) unterhalten. Wer weiß wohin die Reise uns führt.
+Treibt dich ewtas ähnliches an oder bist du einfach neugierig und möchtest dich austauschen? Dann [melde dich bei mir](/kontakt/) und lass uns über deine Vision(en) unterhalten. Wer weiß wohin uns die Reise uns führt.
 
-Du erreichst mich am besten über das [Kontaktformular](/kontakt/).
+Du erreichst Lukas am besten über das [Kontaktformular](/kontakt/).
 
 Alles Liebe,
 Lukas
 
-> Mut steht am Anfang des Handelns, Glück am Ende.
+## Wer ist Lukas
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
+Lukas ist ein neugieriger, leidenschaftlicher und aufgeschlossener Mensch. Seine Liebe zur Achtsamkeit und Meditation begann im Jahr 2012. Seitdem begibt er sich auf seiner Reise der Selbstentdeckung und erforscht verschiedene Wege, wie Achtsamkeit und Sinnhaftigkeit alle Facetten des Lebens berühren und bereichern kann. Nachdem er mehrere Jahre als Webentwickler und UX-Designer gearbeitet hat, erkannte er seine wahre Berufung: eine positive Wirkung auf sein Umfeld und somit auf die Welt zu haben und dabei ein gesundes und freudvolles Leben zu führen.
+
+Mit diesem Projekt möchte sich Lukas mit gleichgesinnten Change-Maker in Österreich vernetzen, Synergien bilden und dadurch zu einer starken lokalen Gemeinschaft beitragen und somit im Kleinen wie im Großen zu einer positiven Veränderungen etwas beitragen.
+
 
 <img src="/images/stockphotos/passion-ian_schneider.jpg" loading="lazy">
 <em>Ian Schneider / <a href="https://unsplash.com/de/fotos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a></em>
 
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+<!-- Passender Platz um nach Mitwirkende zu suchen (collaborative effort, finding synergies, rising together) -->
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/07.jpg" loading="lazy">
     <img src="/images/04.jpg" loading="lazy">
     <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
   </div>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.

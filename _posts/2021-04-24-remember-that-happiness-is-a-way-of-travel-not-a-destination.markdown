@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Remember that happiness is a way of travel, not a destination
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+description: 
 date: 2021-04-24 15:01:35 +0300
 author: admin
 image: '/images/stockphotos/generic/yogi-sunrise-in-the-mountains eneko-urunuela-I2YSmEUAgDY-unsplash.jpg'
 image_caption: 'Foto von [Eneko Uruñuela](https://unsplash.com/de/fotos/I2YSmEUAgDY)'
-tags: [Inspiration]
+tags: [inspiration]
 featured: true
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.

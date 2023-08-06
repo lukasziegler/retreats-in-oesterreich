@@ -6,7 +6,7 @@ date: 2021-11-09 15:01:35 +0300
 author: lukas
 image: '/images/stockphotos/generic/journaling alexis-brown-omeaHbEFlN4-unsplash.jpg'
 video_embed: 'https://www.youtube.com/embed/CyL7R_1wbHQ'
-tags: [Placeholder, Inspiration]
+tags: [placeholder, inspiration]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

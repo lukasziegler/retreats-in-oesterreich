@@ -6,7 +6,7 @@ date: 2021-11-11 15:01:35 +0300
 author: admin
 image: '/images/04.jpg'
 image_caption: 'Foto von [Surface](https://unsplash.com/photos/tYOjcQ9NzHY) on [Unsplash](https://unsplash.com/)'
-tags: [lifestyle, rest, notes]
+tags: [inspiration]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

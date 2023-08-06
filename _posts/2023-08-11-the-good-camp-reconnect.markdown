@@ -6,7 +6,7 @@ date: 2021-08-11 13:13:13 +0300
 author: the-good-camp
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
 image_caption: 'Fotos von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
-tags: [Tirol, Mindset]
+tags: [tirol, mindset]
 featured: true
 ---
 
