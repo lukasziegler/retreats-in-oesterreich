@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über uns
-description: Hi! Mein Name ist Lukas, und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir hier in Österreich haben, leichter auffindbar zu machen.
+description: Hi! Mein Name ist Lukas, und mein Ziel ist es, die Retreat-Szene in Österreich besser zu vernetzen und die tollen regionalen Retreats, die wir haben, leichter auffindbar zu machen.
 permalink: /ueber-uns/
 ---
 
