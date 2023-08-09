@@ -2,12 +2,12 @@
 layout: post
 title: Life is what happens when you’re busy making other plans
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-date: 2024-04-19 15:01:35 +0300
+startDate: 2024-04-19
+endDate: 2024-04-25
 author: admin
 image: '/images/20.jpg'
 image_caption: 'Foto von [Lucas Lenzi](https://unsplash.com/photos/4-VgrP9SgQw) on [Unsplash](https://unsplash.com/)'
-tags: [placeholder, notes]
-featured:
+tags: [placeholder, eventdate test]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
