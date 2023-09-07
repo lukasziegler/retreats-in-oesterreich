@@ -13,7 +13,22 @@ Falls du neugierig geworden bist und dich fragst, worum es hier geht, dann bist 
 
 ## Was sind Retreats?
 
-placeholder text.
+Unter einem Retreat versteht man meist eine Auszeit vom Alltag, bei der man sich von seiner gewohnten Umgebung zurück zieht, um sich selbst wieder besser zu spüren und den Blick für das Wesentliche zu schärfen.
+
+Während eines Retreats können verschiedene Aktivitäten wie Meditation, Yoga, spirituelle Praktiken, Wellness-Angebote oder kreative Workshops angeboten werden. Ziel eines Retreats ist es, den Teilnehmern eine Pause vom Alltag(sstress) zu ermöglichen, die Möglichkeit zur Selbstreflexion zu bieten und persönliches Wachstum zu fördern. Retreats sind oft auf eine bestimmte Zielgruppe oder ein spezifisches Thema ausgerichtet und bieten eine ruhige und entspannte Umgebung, in der die Teilnehmer neue Energie tanken können.
+
+
+## Unterschied: Retreats, Seminar, Camp, ...
+
+Wenn man eine Auszeit vom Alltag sucht, stößt man auch häufig auf (spirituelle bzw. Persönlichkeitsentwicklungs-) Seminare oder auf Camps. Häufig sind ähnliche Komponenten dabei, die wesentlichen Unterscheidungsmerkmale sind aber:
+
+- **Camps:** Bei Camps steht meist das Gemeinschaftserlebnis im Vordergrund.
+
+- Ein Camp ist ein Ort, an dem Menschen zusammenkommen, um gemeinschaftliche Aktivitäten zu erleben, Abenteuer zu teilen und oft in der Natur zu sein. Camps fördern meist die Teamarbeit, soziale Interaktion und die Entwicklung von Fähigkeiten wie Outdoor-Sportarten, Kunsthandwerk oder Musik. Camps sind eine großartige Gelegenheit, neue Freundschaften zu schließen und das Gemeinschaftgefühl zu stärken.
+
+- **Seminare:** Bei Seminaren geht es oft um die Wissensvermittlung bzw. um den Erfahrungsaustausch der Teilnehmer:innen zu einem Thema. Häufig wird bei Seminaren Expertenwissen zu einem Thema vermitteln und interaktive Lernmöglichkeiten angeboten, um Fähigkeiten zu entwickeln und um dein Wissen zu erweitern. Seminare sind in der Regel interaktiv, um den Teilnehmern die Möglichkeit zu geben, das Gelernte anzuwenden und Fragen zu stellen.
+
+- **Retreats:** Ein Retreat ist eine intensive Erfahrung, bei der du dich aus deinem gewohnten Umfeld zurückziehst, um Körper, Geist und Seele zu regenerieren. Retreats sind oft darauf ausgerichtet, Entspannung und inneres Gleichgewicht zu fördern. Sie können spirituell ausgerichtet sein oder sich auf Wellness, Meditation, Yoga oder sogar kreatives Schaffen konzentrieren. Retreats bieten eine ruhige und abgeschiedene Umgebung, in der du Zeit für Selbstreflexion und persönliches Wachstum findest.
 
 <div class="gallery-box">
   <div class="gallery">
