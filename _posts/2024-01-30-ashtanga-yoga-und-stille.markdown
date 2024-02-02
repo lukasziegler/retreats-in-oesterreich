@@ -2,7 +2,7 @@
 layout: post
 title: Ashtanga Yoga & Stille
 description: Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abgestimmte Praxis aus Meditation, Yoga und genügend Zeit für dich, widmen wir uns unserem Inneren.  Aufatmen und einfach zu sein. Erlebe die heilende Wirkung von Kräftigung und Entspannung in der Natur und der Gemeinschaft. 
-date: 2021-11-09 15:01:35 +0300
+date: 2024-02-02 15:01:35 +0300
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
 tags: [tirol, yoga]
@@ -18,30 +18,33 @@ Im Mai machen wir uns gemeinsam auf den Weg in die Berge! Ashtanga Yoga und Stil
 
 Alle Level sind willkommen!
 
-> Ein Raum, in dem du dich deiner Yogapraxis voll hingeben kannst.
+> Ein Raum, in dem du dich dir, deiner Yogapraxis und der Stille voll hingeben kannst.
 
 
 ### Unser Zeitplan:
 
 *Mittwoch (Anreise)*
-15:00 Ankommen 
-17:00 Gemeinsamer Beginn: Geführte Meditation + Kennenlernen 
-19:00 Abendessen
+
+- 15:00 Ankommen 
+- 17:00 Gemeinsamer Beginn: Geführte Meditation + Kennenlernen 
+- 19:00 Abendessen
 
 *Donnerstag / Freitag / Samstag*
-8:00 Morgenmeditation + Pranayama 
-8:30 Yoga Mysore Style 
-10:30-12:00 Brunch 
-12:00-15:00 Zeit für dich 
-15:00-17:00 Nachmittagsblock (1x Workshop, 1x Einzelbehandlung, 1x ausgiebig Zeit in der Natur) 
-18:00-19:00 Abendessen 
-19:0-21:00 Abendprogramm (Klangschalenmeditation // Sauna mit Klangschalen // Hot tub)
+
+- 8:00 Morgenmeditation + Pranayama 
+- 8:30 Yoga Mysore Style 
+- 10:30-12:00 Brunch 
+- 12:00-15:00 Zeit für dich 
+- 15:00-17:00 Nachmittagsblock (1x Workshop, 1x Einzelbehandlung, 1x ausgiebig Zeit in der Natur) 
+- 18:00-19:00 Abendessen 
+- 19:00-21:00 Abendprogramm (Klangschalenmeditation // Sauna mit Klangschalen // Hot tub)
 
 *Sonntag (Abreise)*
-8:00 Morgenmeditation + Pranayama
-8:30 Yoga Mysore Style 
-10:30-12:00 Brunch 
-14:00 Offizielles Ende
+
+- 8:00 Morgenmeditation + Pranayama
+- 8:30 Yoga Mysore Style 
+- 10:30-12:00 Brunch 
+- 14:00 Offizielles Ende
 
 <div class="gallery-box">
   <div class="gallery">
