@@ -2,7 +2,7 @@
 layout: post
 title: Ashtanga Yoga & Stille
 description: Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abgestimmte Praxis aus Meditation, Yoga und genügend Zeit für dich, widmen wir uns unserem Inneren.  Aufatmen und einfach zu sein. Erlebe die heilende Wirkung von Kräftigung und Entspannung in der Natur und der Gemeinschaft. 
-date: 2024-02-02 15:01:35 +0300
+date: 2024-02-02 12:12:12 +0300
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
 tags: [tirol, yoga]
@@ -76,6 +76,11 @@ Stornobedingungen:
 - Bei Storno vor dem 31. März 2024, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2024), erfolgt keine Rückerstattung. Außer der TN kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
 - Mindestteilnehmerzahl: 8 Personen. 
 Sollten sich nicht genügend TN für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (4-6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+
+
+### Anmeldung
+
+Zur Anmeldung oder für Fragen schreibe Lukas via WhatsApp (+49 1707901902) oder per Email (<a href="mailto:lukas@lukasziegler.com" target="_blank">lukas@lukasziegler.com</a>).
 
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
