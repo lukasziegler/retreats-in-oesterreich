@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ashtanga Yoga & Stille
+title: Ashtanga Yoga & Stille 2025
 description: Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abgestimmte Praxis aus Meditation, Yoga und genügend Zeit für dich, widmen wir uns unserem Inneren.  Aufatmen und einfach zu sein. Erlebe die heilende Wirkung von Kräftigung und Entspannung in der Natur und der Gemeinschaft. 
-date: 2024-02-02 12:12:12 +0300
+date: 2024-11-02 12:12:12 +0300
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
-tags: [tirol, yoga]
+tags: [kärnten, yoga]
 featured: true
 ---
 
-## 1. - 5. Mai 2024
-**5 Tage Auszeit im Navis, Tirol**
+## 13. - 18. April 2025
+**6 Tage Auszeit in der Yogafarm in Kärnten**
 **mit-Magda & Lukas**
 
 Träumst du auch davon? Von dem Eintauchen in Ashtanga Yoga und Stille in den Bergen. It´s on! 
@@ -23,28 +23,29 @@ Alle Level sind willkommen!
 
 ### Unser Zeitplan:
 
-*Mittwoch (Anreise)*
+*Sonntag (Anreise)*
 
-- 15:00 Ankommen 
-- 17:00 Gemeinsamer Beginn: Geführte Meditation + Kennenlernen 
-- 19:00 Abendessen
+- ab 14:00 bis 17:00 Ankommen 
+- 17:00 spätester Check-in in Unterkunft
+- 18:00 Gemeinsames Abendessen
+- 19:00 gemeinsamer Start in den Abend +  Meditation
 
-*Donnerstag / Freitag / Samstag*
+*Montag / Dienstag / Mittwoch / Donnerstag*
 
-- 8:00 Morgenmeditation + Pranayama 
-- 8:30 Yoga Mysore Style 
-- 10:30-12:00 Brunch 
+- 7:30 Morgenmeditation + Pranayama
+- 8:00 Yoga Mysore Style / Led Class
+- 10:00-12:00 Brunch 
 - 12:00-15:00 Zeit für dich 
-- 15:00-17:00 Nachmittagsblock (1x Workshop, 1x Einzelbehandlung, 1x ausgiebig Zeit in der Natur) 
-- 18:00-19:00 Abendessen 
-- 19:00-21:00 Abendprogramm (Klangschalenmeditation // Sauna mit Klangschalen // Hot tub)
+- 15:00-17:00 Nachmittagsblock (Workshops 2x) 
+- 17:30-19:00 Abendessen 
+- 19:30-21:00 Abendprogramm (Klangschalenmeditation)
 
-*Sonntag (Abreise)*
+*Freitag (Abreise)*
 
-- 8:00 Morgenmeditation + Pranayama
-- 8:30 Yoga Mysore Style 
-- 10:30-12:00 Brunch 
-- 14:00 Offizielles Ende
+- 8:00 Morgenmeditation 
+- 8:30 – 10:00 Yoga Einheit 
+- 10:00-12:00 Brunch + Abschlusskreis
+- 12:00 Abreise
 
 <div class="gallery-box">
   <div class="gallery">
