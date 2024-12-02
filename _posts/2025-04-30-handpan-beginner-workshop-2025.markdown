@@ -10,11 +10,10 @@ featured: true
 ---
 
 ## 30. April - 4. Mai 2025
-**5 Tage im wunderschönen Navistal in Tirol**
-**mit Lukas**
+**5 Tage im wunderschönen Navistal mit Lukas**
 
-Träumst du auch davon? Von dem Eintauchen in Ashtanga Yoga und Stille in den Bergen. It´s on! 
-Im Mai machen wir uns gemeinsam auf den Weg in die Berge! Ashtanga Yoga und Stille in den Bergen. Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abgestimmte Praxis aus Meditation, Yoga und genügend Zeit für dich, widmen wir uns unserem Inneren.  Aufatmen und einfach zu sein. Erlebe die heilende Wirkung von Kräftigung und Entspannung in der Natur und der Gemeinschaft. 
+Träumst du auch davon? Vom Eintauchen in die Welt der Handpan in den Tiroler Bergen. It’s on!
+Im Mai machen wir uns gemeinsam auf den Weg in die Berge! Ein Handpan-Beginner-Kurs inmitten der Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen und genügend Zeit für dich selbst widmen wir uns deinem inneren Klang. Aufatmen, loslassen und einfach sein. Erlebe die harmonisierende Wirkung von Musik, Natur und Gemeinschaft – eine Reise zu dir selbst, begleitet vom Klang der Handpan.
 
 Was dieses Event besonders macht:
 - Handpan spielen lernen
@@ -22,7 +21,7 @@ Was dieses Event besonders macht:
 - Das Lernen nach der Malte Marten Method
 - Handpans werden dir auf Wunsch zur Verfügung gestellt, ganz ohne ...
 
-### Wissenswertes
+### Weitere Infos
 
 Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet.
 
@@ -33,11 +32,11 @@ Alle Level sind willkommen!
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-zustieg.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte.jpeg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas Ziegler</a></em>
@@ -48,27 +47,27 @@ Alle Level sind willkommen!
 
 *Mittwoch (Anreise)*
 
-- 15:00 Ankommen 
-- 17:00 Gemeinsamer Beginn: Kennenlernen + Ausgabe der Handpans
-- 19:00 Abendessen
+- **15:00** Ankommen 
+- **17:00** Gemeinsamer Beginn: Kennenlernen + Ausgabe der Handpans
+- **19:00** Abendessen
 
 *Donnerstag / Freitag / Samstag*
 
-- 8:00 Morgenmeditation + Pranayama 
-- 9:00 Handpan Workshop (Teil 1)
-- 10:00-11:00 Brunch 
-- 11:00-15:00 Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- 15:00-17:00 Variabler Nachmittagsblock (1x Sauna, 1x 1x ausgiebig Zeit in der Natur, Q&A,) 
-- 17:00-18:30 Handpan Workshop (Teil 2)
-- 18:30-20:00 Abendessen 
-- 20:00-21:00 Abendprogramm (Klangreise, geselliges Beisammensein oder Hot Tub)
+- **8:00** Morgenmeditation + Pranayama 
+- **9:00** Handpan Workshop (Teil 1)
+- **10:00-11:00** Brunch 
+- **11:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
+- **15:00-17:00** Variabler Nachmittagsblock (1x Sauna, 1x 1x ausgiebig Zeit in der Natur, Q&A,) 
+- **17:00-18:30** Handpan Workshop (Teil 2)
+- **18:30-20:00** Abendessen 
+- **20:00-21:00** Abendprogramm (Klangreise, geselliges Beisammensein oder Hot Tub)
 
 *Sonntag (Abreise)*
 
-- 8:00 Morgenmeditation + Pranayama
-- 10:00 Rückgbabe der geliehenen Handpans
-- 11:00-12:00 Brunch 
-- 13:00 Offizielles Ende
+- **8:00** Morgenmeditation + Pranayama
+- **10:00** Rückgbabe der geliehenen Handpans
+- **11:00-12:00** Brunch 
+- **13:00** Offizielles Ende
 
 <div class="gallery-box">
   <div class="gallery">
@@ -83,11 +82,13 @@ Alle Level sind willkommen!
 
 ### Preis
 
-ca. 800 Euro im Mehrbettzimmer
+Frühbucher: 779 Euro (bis 15.01.2025)
+Regulär: 850 Euro (ab 16.01.2025)
 
 *Optional:*
-- ca. 150 Euro für Handpan (für die 5 Tage)
-- Versicherung 
+- ca. 150 Euro für Handpan (Miete für die 5 Tage)
+- Versicherung (falls gewünscht, ansonst private Haftung)
+- auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
 
 
 **Im Preis beinhaltet:**
@@ -101,8 +102,8 @@ Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
 
 > Bist du neugierig geworden? 
 
-Dann schau dir gerne ein Recap vom letzten Jahr an: 
-https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==
+Hier unser **Recap von 2024**, als wir das "Ashtanga Yoga & Stille Retreat" am selben Ort organisiert haben:
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">Schau dir die Eindrücke von 2024 an</a>
 
 
 ### Organisatorisches
@@ -111,7 +112,7 @@ https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=
 
 - Stornobedingungen: Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der TN kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
 
-- Mindestteilnehmerzahl: 8 Personen.  Sollten sich nicht genügend TN für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (4-6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+- Mindestteilnehmerzahl: 8 Personen.  Sollten sich nicht genügend TN für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
 
 
