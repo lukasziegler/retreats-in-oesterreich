@@ -29,9 +29,19 @@ Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet.
 Falls du keine eigene Handpan in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops deine Leih-Pan (von der Marke Patera) ausleihen, welche du anschließend vergünstigt zum Workshop-Preis erwerben kannst.
 
 Alle Level sind willkommen!
-Dieses R
 
-> Ein Raum, in dem du dich dir, deiner Yogapraxis und der Stille voll hingeben kannst.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-zustieg.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte.jpeg" loading="lazy">
+  </div>
+  <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas Ziegler</a></em>
+</div>
 
 
 ### Unser Ablauf
@@ -111,4 +121,4 @@ Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZW
 
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Fotos von [Manuela Clemens](https://manuelaclemens.de)*
+*Foto von [Manuela Clemens](https://manuelaclemens.de)*
