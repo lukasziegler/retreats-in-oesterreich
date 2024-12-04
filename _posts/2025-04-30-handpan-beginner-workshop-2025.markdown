@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handpan Beginner-Days (Mai 2025)
+title: Handpan Beginner-Days 2025
 description: Tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen wie du mit der Handpan in deinen musikalischen Flow-State findest und wie du dich spielerisch leicht damit ausdrücken kannst. Und all das in traumhafter Kulisse in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
 date: 2024-11-20 12:12:12 +0300
 author: lukas
@@ -16,10 +16,10 @@ Träumst du auch davon? Vom Eintauchen in die Welt der Handpan in den Tiroler Be
 Im Mai machen wir uns gemeinsam auf den Weg in die Berge! Ein Handpan-Beginner-Kurs inmitten der Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen und genügend Zeit für dich selbst widmen wir uns deinem inneren Klang. Aufatmen, loslassen und einfach sein. Erlebe die harmonisierende Wirkung von Musik, Natur und Gemeinschaft – eine Reise zu dir selbst, begleitet vom Klang der Handpan.
 
 Was dieses Event besonders macht:
-- Handpan spielen lernen
-- Auszeit in den Bergen
-- Das Lernen nach der Malte Marten Method
-- Handpans werden dir auf Wunsch zur Verfügung gestellt, ganz ohne ...
+- **Handpan spielen lernen**
+- **Auszeit in den Bergen**, in der perfekten Retreat-Location in Tirol
+- Du lernst nach der <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>
+- Handpans werden dir auf Wunsch zur Verfügung gestellt, mit der Option deine Leih-Pan danach zum reduzierten Workshop-Preis zu erwerben
 
 ### Weitere Infos
 
@@ -102,7 +102,24 @@ Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
 > Bist du neugierig geworden? 
 
 Hier unser **Recap von 2024**, als wir das "Ashtanga Yoga & Stille Retreat" am selben Ort organisiert haben:
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">Schau dir die Eindrücke von 2024 an</a>
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">Schau dir die Insta-Story mit den Highlights von 2024 an!</a>
+
+### Über Lukas
+
+**Wer dich begleitet**
+Lukas ...
+- leitet seit 1,5 Jahren Klangreisen in Österreich und Bayern
+- hat über den Online Kurs von Malte Marten das Handpan spielen gelernt und möchte die Faszination für dieses Instrument nun mit anderen teilen
+- Er absolviert derzeit das Handpan Teacher Training von Malte und unterrichtet bereits an erste Schüler das Handpan spielen.
+- Mehr über Lukas auf <a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/lukasziegler">Linktree</a>.
+
+### FAQs
+
+Q: Ich habe null Vorerfahrung
+Q: Ich bin nicht musikalisch
+Q: 5 Tage sind mir zu viel
+Q: Ich habe keine eigene Handpan
+Q: Ich habe keine D-Kurd
 
 
 ### Organisatorisches
