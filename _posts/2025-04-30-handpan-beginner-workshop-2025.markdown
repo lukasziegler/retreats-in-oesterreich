@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handpan Beginner-Workshop (Mai 2025)
+title: Handpan Beginner-Days (Mai 2025)
 description: Tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen wie du mit der Handpan in deinen musikalischen Flow-State findest und wie du dich spielerisch leicht damit ausdrücken kannst. Und all das in traumhafter Kulisse in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
 date: 2024-11-20 12:12:12 +0300
 author: lukas
@@ -32,12 +32,11 @@ Alle Level sind willkommen!
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/navis-2024-zustieg.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-zustieg.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas Ziegler</a></em>
 </div>
