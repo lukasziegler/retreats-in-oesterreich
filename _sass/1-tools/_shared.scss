@@ -25,8 +25,5 @@ dd {
 ul, ol {
   li {
     margin-bottom: 8px;
-    @media (max-width: $mobile) {
-      margin-bottom: 6px;
-    }
   }
 }
