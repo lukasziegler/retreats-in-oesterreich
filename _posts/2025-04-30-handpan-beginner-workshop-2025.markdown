@@ -81,12 +81,12 @@ Alle Level sind willkommen!
 
 ### Preis
 
-Frühbucher: 779 Euro (bis 15.01.2025)
-Regulär: 850 Euro (ab 16.01.2025)
+- Frühbucher: **779 Euro** (bis 31.01.2025)
+- Regulär: **850 Euro** (ab 1.02.2025)
+
 
 *Optional:*
-- ca. 150 Euro für Handpan (Miete für die 5 Tage)
-- Versicherung (falls gewünscht, ansonst private Haftung)
+- zzgl. 150 Euro für Handpan-Miete (für die 5 Tage inkl. Versicherung)
 - auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
 
 
@@ -131,7 +131,7 @@ Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZW
 
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Foto von [Manuela Clemens](https://manuelaclemens.de)*
+*Unser Ausblick vom Hubird (Foto von [Manuela Clemens](https://manuelaclemens.de))*
 
 
 
@@ -151,27 +151,31 @@ Dieses Retreat bietet weit mehr als nur ein Handpan-Workshop: Es ist eine Auszei
 ...
 
 
+> Noch Fragen? 
 
 ### FAQs
 
 Falls du noch zweifelst und dich fragst...
 
 
-**Q: Ich habe null (musikalische) Vorerfahrung**
+<p>**Q: Ich habe null (musikalische) Vorerfahrung**</p>
 A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.
 
 
 **Q: Ich bin nicht musikalisch**
+
 A: Viele Teilnehmer denken, sie seien "nicht musikalisch", bis sie die Handpan ausprobieren. Dieses Instrument ist intuitiv und leicht zugänglich – du brauchst keine Vorkenntnisse oder besonderes Talent. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
 
 **Q: Warum so lange? 5 Tage sind mir zu viel**
+
 A: Dieses Programm beinhaltet 2 halbe Tage (An- und Abreise-Tag) und 3 ganze Tage (mit je 2 Workshops und freiem Spielen). Es ist genau darauf ausgelegt, dir in einer entspannten malerisch schönen Umgebung all die Basics mitzugeben, damit du danach klar weißt, ob du danach selbst weitermachen möchtest mit dem Handpan spielen. Aber ich verstehe, dass 5 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/lukasziegler" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
 
 **Q: Ich habe keine eigene Handpan**
+
 Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-Email.
 
 
-Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?
+**Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
 
 Für diese Veranstaltung verwenden wir bewusst Handpans in der D-Kurd-Stimmung, da eine einheitliche Tonleiter das gemeinsame Spielen erleichtert und eine harmonische Klangwelt schafft. Besonders für Anfänger ist dies wichtig, da es die kognitive Last reduziert und ein schnelleres sowie effektiveres Lernen ermöglicht.
 
