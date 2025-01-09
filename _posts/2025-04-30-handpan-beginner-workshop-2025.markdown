@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handpan Beginner Days – Tirol 2025
-description: Tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen des Handpan-Spielens und wie du dich spielerisch leicht damit ausdrücken kannst. Und all das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
+description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst. Und all das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
 date: 2024-01-09 12:12:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
@@ -9,17 +9,20 @@ tags: [tirol, handpan]
 featured: true
 ---
 
-## 30. April - 4. Mai 2025
-**5 Tage im wunderschönen Navistal mit Lukas**
 
-Träumst du auch davon? Vom Eintauchen in die Welt der Handpan in den Tiroler Bergen. It’s on!
-Im Mai machen wir uns gemeinsam auf den Weg in die Berge! Ein Handpan-Beginner-Kurs inmitten der Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen und genügend Zeit für dich selbst widmen wir uns deinem inneren Klang. Aufatmen, loslassen und einfach sein. Erlebe die harmonisierende Wirkung von Musik, Natur und Gemeinschaft – eine Reise zu dir selbst, begleitet vom Klang der Handpan.
+
+## 30. April - 4. Mai 2025
+**5 Tage im wunderschönen Navistal mit Alex & Lukas**
+
+Träumst du auch davon? Vom Eintauchen in die Welt der Handpan-Spielens? Ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das in traumhafter Kulisse des Navistals in Tirol. 
+
+Im Mai machen wir uns den Weg. 5 Tage Handpan, Yoga und Meditation im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird im Navistal</a>! Ein Handpan-Beginner-Kurs inmitten malerisch schöner kraftvoller Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen und genügend Zeit für dich selbst widmen wir uns deinem inneren Klang. Aufatmen, loslassen und einfach sein. Erlebe die harmonisierende Wirkung von Musik, Natur und Gemeinschaft – eine Reise zu dir selbst, begleitet vom Klang der Handpan.
 
 Was dieses Event besonders macht:
 - **Handpan spielen lernen**
 - **Auszeit in den Bergen**, in der perfekten Retreat-Location in Tirol
-- Du lernst nach der <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>
-- Handpans werden dir auf Wunsch zur Verfügung gestellt, mit der Option deine Leih-Pan danach zum reduzierten Workshop-Preis zu erwerben
+- Du lernst nach der bewährten <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a> von Malte Marten
+- Handpans von der Marke <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> werden dir auf Wunsch zur Verfügung gestellt, mit der Option deine Leih-Pan danach zum reduzierten Workshop-Preis zu erwerben
 
 ### Weitere Infos
 
@@ -129,7 +132,7 @@ Lukas ...
 
 ### Anmeldung
 
-Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> oder per Email (<a href="mailto:anmeldung@lukasziegler.com" target="_blank">anmeldung@lukasziegler.com</a>).
+Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>).
 
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
