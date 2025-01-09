@@ -110,14 +110,6 @@ Dieser Preis besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegun
 Hier unser **Recap von 2024**, als wir das "Ashtanga Yoga & Stille Retreat" am selben Ort organisiert haben:
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">Schau dir die Insta-Story mit den Highlights von 2024 an!</a>
 
-### Über Lukas
-
-**Wer dich begleitet**
-Lukas ...
-- leitet seit 1,5 Jahren Klangreisen in Österreich und Bayern
-- hat über den Online Kurs von Malte Marten das Handpan spielen gelernt und möchte die Faszination für dieses Instrument nun mit anderen teilen
-- Er absolviert derzeit das Handpan Teacher Training von Malte und unterrichtet bereits an erste Schüler das Handpan spielen.
-- Mehr über Lukas auf <a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/lukasziegler">Linktree</a>.
 
 
 ### Organisatorisches
@@ -138,12 +130,14 @@ Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZW
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
 *Unser Ausblick vom Hubird (Foto von [Manuela Clemens](https://manuelaclemens.de))*
 
+---
 
 
 ### Wer dich begleitet
 
 #### Lukas
 
+<img src="/images/people/lukas/lukas-handpan-pop-up-yoga-close-up.jpg" alt="Lukas Ziegler Handpan" style="width: 250px; float: left; margin: 0 20px 10px 0">
 Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zur Handpan zu finden. Auch er ist noch auf seinem Weg beim Handpan-Spielen besser zu werden, was seine Herangehensweise authentisch und nahbar macht.
 
 Seine Klangarbeit verbindet Handpan, mit Achtsamkeit und einem bewussten Zugang zu Körperarbeit. Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, aufzutanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die das faszinierende Instrument der Handpan Schritt für Schritt erlernst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, über die er auch das dazugehörige <a href="https://handpanteachertraining.com/" target="_blank">Teacher Training</a> absolviert hat.
@@ -151,10 +145,21 @@ Seine Klangarbeit verbindet Handpan, mit Achtsamkeit und einem bewussten Zugang 
 Dieses Retreat bietet weit mehr als nur ein Handpan-Workshop: Es ist eine Auszeit vom Alltag – getragen von Natur und in Gemeinschaft. Sei dabei, entdecke deine neue Leidenschaft und erlebe, wie du durch Handpan-Spielen voll im Hier & Jetzt ankommst.
 
 
+
+<!-- Wer dich begleitet**
+Lukas ...
+- leitet seit 1,5 Jahren Klangreisen in Österreich und Bayern
+- hat über den Online Kurs von Malte Marten das Handpan spielen gelernt und möchte die Faszination für dieses Instrument nun mit anderen teilen
+- Er absolviert derzeit das Handpan Teacher Training von Malte und unterrichtet bereits an erste Schüler das Handpan spielen.
+- Mehr über Lukas auf <a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/lukasziegler">Linktree</a>. --> 
+
+
 #### Alex
 
 ...
 
+
+---
 
 > Noch Fragen? 
 
@@ -162,10 +167,10 @@ Dieses Retreat bietet weit mehr als nur ein Handpan-Workshop: Es ist eine Auszei
 
 Falls du noch zweifelst und dich fragst...
 
-
-<p>**Q: Ich habe keine Vorerfahrung**</p>
-A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.
-
+<dl>
+  <dt>Q: Ich habe keine Vorerfahrung</dt>
+  <dd>A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.</dd>
+</dl>
 
 **Q: Ich bin nicht musikalisch**
 
