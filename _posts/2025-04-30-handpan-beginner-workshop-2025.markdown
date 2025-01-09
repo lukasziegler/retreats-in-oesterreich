@@ -60,9 +60,9 @@ Yoga: keine Vorkenntnisse notwendig
 *Donnerstag / Freitag / Samstag*
 
 - **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
-- **10:00-11:00** Brunch 
-- **11:00-12:30** Handpan-Workshop (Vormittag) 
-- **12:30-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
+- **10:00-11:30** Brunch 
+- **11:30-13:00** Handpan-Workshop (Vormittag) 
+- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
 - **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
 - **16:30-18:00** Handpan-Workshop (Nachmittag)
 - **18:00-19:30** Abendessen 
