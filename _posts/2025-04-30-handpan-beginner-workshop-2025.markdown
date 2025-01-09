@@ -41,10 +41,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-zustieg.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas Ziegler</a></em>
@@ -82,6 +81,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
     <img src="/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-1--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-2--manuelaclemens.de.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-3--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-5--manuelaclemens.de.jpg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://manuelaclemens.de" target="_blank">Manuela Clemens</a></em>
@@ -129,17 +129,11 @@ Dann schau dir **Recap von 2024** an. Im Mai 2024 haben wir das "Ashtanga Yoga &
 ---
 
 
-### Anmeldung
+> Zur Anmeldung oder für Fragen
 
-Zur Anmeldung oder für Fragen schreibe Lukas:
-- <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
+- schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
-
----
-
-![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Unser Ausblick vom Hubird (Foto von [Manuela Clemens](https://manuelaclemens.de))*
 
 ---
 
@@ -174,7 +168,7 @@ Alex begeistert sich für Yoga in all seinen Facetten und teilt seine Leidenscha
 
 Lorem ipsum dolor sit amet, Yoga-Asanas consectetur adipiscing elit. Pranayama und Achtsamkeit lacus at Namasté bibendum. Vivamus vinyasa flow ligula laoreet Shavasana, id downward dog neque lorem non nulla. Curabitur Yoga-Stil und Meditation convallis tempus. Ashtanga potenti. Nam wohltuend, stabilisierend et stretchend.
 
-Erfahre mehr über Lukas auf
+Erfahre mehr über Alex auf
 <a href="https://www.instagram.com/alexpi.chler/" target="_blank">Instagram</a>.
 
 ---
@@ -225,20 +219,28 @@ Für diese Veranstaltung verwenden wir bewusst Handpans in der D-Kurd-Stimmung, 
 In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer – insbesondere in Beginner- und Online-Kursen – mit D-Kurd Handpans spielen. Fortgeschrittene Kurse gehen später auf andere Skalen ein. Falls du keine eigene Handpan in D-Kurd-Stimmung besitzt, kannst du für das Retreat ganz unkompliziert eine leihen. So kannst du dich voll auf die Musik und das gemeinsame Erlebnis konzentrieren.
 
 
-Q: Wie läuft das mit dem Yoga?
-Ist das optional? Welchen Stil?
+**Q: Wie läuft das mit dem Yoga? Ist das optional? Welcher Stil wird unterrichtet?**
+
+Antwort in the making @Alex :)
 
 ---
+
+## Sonst noch was?
+
+> Zur Anmeldung oder bei Fragen schreibe Lukas per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>) oder <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>.
+
+---
+
+*Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
+
+Es ist eine Auszeit vom Alltag – getragen von Natur und in Gemeinschaft. Sei dabei, entdecke deine neue Leidenschaft und erlebe, wie du durch Handpan-Spielen voll im Hier & Jetzt ankommen kannst.
+
+Wir freuen uns auf die Tage mit dir.
 
 ## Komm mit!
 
-*Diese 5 Tage bieten dir weit mehr als nur ein Handpan-Workshop:*
-Es ist eine Auszeit vom Alltag – getragen von Natur und in Gemeinschaft. Sei dabei, entdecke deine neue Leidenschaft und erlebe, wie du durch Handpan-Spielen voll im Hier & Jetzt ankommen kannst.
-
-> Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>).
-
-
-Wir freuen uns auf die Tage mit dir!
-
 
 ---
+
+![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
+*Unser Ausblick vom Hubird (Foto von [Manuela Clemens](https://manuelaclemens.de))*
