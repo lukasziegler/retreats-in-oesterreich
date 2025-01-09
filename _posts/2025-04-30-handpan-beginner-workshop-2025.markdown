@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Handpan Beginner Days – Tirol 2025
-description: Tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen wie du mit der Handpan in deinen musikalischen Flow findest und wie du dich spielerisch leicht damit ausdrücken kannst. Und all das in traumhafter Kulisse in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
-date: 2024-11-20 12:12:12 +0300
+description: Tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen des Handpan-Spielens und wie du dich spielerisch leicht damit ausdrücken kannst. Und all das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften.
+date: 2024-01-09 12:12:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [tirol, handpan]
@@ -84,20 +84,22 @@ Alle Level sind willkommen!
 - Frühbucher: **779 Euro** (bis 31.01.2025)
 - Regulär: **850 Euro** (ab 1.02.2025)
 
-
 *Optional:*
 - zzgl. 150 Euro für Handpan-Miete (für die 5 Tage inkl. Versicherung)
 - auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
 
+*Wissenswertes:* 
+Dieser Preis besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
+
 
 **Im Preis beinhaltet:**
 
-- 4 Übernachtungen mit Feel Good Atmosphäre
+- 4 Übernachtungen mit Feel Good Atmosphäre im Hubird
 - Vollpension mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen 18:30 Uhr)
 - Das gesamte Kursprogramm (mit täglicher Meditationen und Yoga/Körperübungen)
 - Sauna, Hot Tub
 
-Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
+*Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.*
 
 
 > Bist du neugierig geworden? 
@@ -139,7 +141,7 @@ Zur Anmeldung oder für Fragen schreibe Lukas <a href="https://wa.me/qr/OHNIKZZW
 
 #### Lukas
 
-Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zur Handpan zu finden. Auch er ist noch auf seinem Weg, was seine Herangehensweise authentisch und nahbar macht.
+Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zur Handpan zu finden. Auch er ist noch auf seinem Weg beim Handpan-Spielen besser zu werden, was seine Herangehensweise authentisch und nahbar macht.
 
 Seine Klangarbeit verbindet Handpan, mit Achtsamkeit und einem bewussten Zugang zu Körperarbeit. Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, aufzutanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die das faszinierende Instrument der Handpan Schritt für Schritt erlernst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, über die er auch das dazugehörige <a href="https://handpanteachertraining.com/" target="_blank">Teacher Training</a> absolviert hat.
 
@@ -158,7 +160,7 @@ Dieses Retreat bietet weit mehr als nur ein Handpan-Workshop: Es ist eine Auszei
 Falls du noch zweifelst und dich fragst...
 
 
-<p>**Q: Ich habe null (musikalische) Vorerfahrung**</p>
+<p>**Q: Ich habe keine Vorerfahrung**</p>
 A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.
 
 
