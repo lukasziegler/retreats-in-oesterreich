@@ -28,9 +28,13 @@ Was dieses Event besonders macht:
 
 Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet.
 
-Falls du keine eigene Handpan in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops deine Leih-Pan (von der Marke Patera) ausleihen, welche du anschließend vergünstigt zum Workshop-Preis erwerben kannst.
+Falls du **keine eigene Handpan** in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops deine Leih-Pan ausleihen, welche du anschließend vergünstigt zum Workshop-Preis erwerben kannst.
 
-Alle Level sind willkommen!
+<!-- ÜBEN -->
+Handpan: keine Vorkenntnisse notwendig, es ist aber hilfreich, wenn du schon erste Erfahrungen gemacht hast. Wir werden von Basics anfangen und Schritt für Schritt die Basics der Malte Marten Method lernen.
+Yoga: keine Vorkenntnisse notwendig
+
+<!-- // Inhalte beschreiben // -->
 
 
 <div class="gallery-box">
@@ -58,16 +62,16 @@ Alle Level sind willkommen!
 - **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
 - **10:00-11:00** Brunch 
 - **11:00-12:30** Handpan-Workshop (Vormittag) 
-- **11:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
+- **12:30-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
+- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
 - **16:30-18:00** Handpan-Workshop (Nachmittag)
 - **18:00-19:30** Abendessen 
-- **ab 20:00** Abendprogramm (Klangreise, geselliges Beisammensein oder Hot Tub)
+- **ab 20:00** Abendprogramm (geselliges Beisammensein, Sauna, Hot Tub oder Klangreise)
 
 *Sonntag (Abreise)*
 
 - **8:00** Morgenmeditation + Pranayama
-- **10:00** Rückgbabe der geliehenen Handpans
+- **10:00** Rückgabe der geliehenen Handpans
 - **11:00-12:00** Brunch 
 - **13:00** Offizielles Ende
 
