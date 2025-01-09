@@ -55,14 +55,14 @@ Alle Level sind willkommen!
 
 *Donnerstag / Freitag / Samstag*
 
-- **8:00** Morgenmeditation + Pranayama 
-- **9:00** Handpan Workshop (Teil 1)
+- **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
 - **10:00-11:00** Brunch 
+- **11:00-12:30** Handpan-Workshop (Vormittag) 
 - **11:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- **15:00-17:00** Freies Spielen (mit Möglichkeit für Fragen) oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
-- **17:00-18:30** Handpan Workshop (Teil 2)
-- **18:30-20:00** Abendessen 
-- **20:00-21:00** Abendprogramm (Klangreise, geselliges Beisammensein oder Hot Tub)
+- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
+- **16:30-18:00** Handpan-Workshop (Nachmittag)
+- **18:00-19:30** Abendessen 
+- **ab 20:00** Abendprogramm (Klangreise, geselliges Beisammensein oder Hot Tub)
 
 *Sonntag (Abreise)*
 
@@ -161,9 +161,9 @@ Lukas ...
 
 ---
 
-> Noch Fragen? 
-
 ### FAQs
+
+> Noch Fragen? 
 
 Falls du noch zweifelst und dich fragst...
 
