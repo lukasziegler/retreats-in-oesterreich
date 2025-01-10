@@ -6,7 +6,6 @@ date: 2024-02-02 12:12:12 +0300
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
 tags: [tirol, yoga]
-featured: true
 ---
 
 ## 1. - 5. Mai 2024

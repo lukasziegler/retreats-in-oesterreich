@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – Tirol 2025
 description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst. Und all das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2024-01-09 12:12:12 +0100
+date: 2024-01-10 12:02:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [tirol, handpan]
@@ -28,6 +28,19 @@ Was dieses Event besonders macht:
 - 5-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Tirol
 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/retreats/hubird-navis/hubird-essen-suppe.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-landscape.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-ausblick.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
+  </div>
+  <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas</a></em>
+</div>
+
+
 ### Weitere Infos
 
 Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet. Bitte mit einer D-Kurd 440Hz kommen oder dir eine ausleihen.
@@ -38,15 +51,11 @@ Es sind **keine Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an den 
 
 Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex kombiniert klassische Yoga-Stunden mit dynamischen Einflüssen aus dem Animal Flow, um auch hier den spielerischen Aspekt mit in die Yoga-Praxis zu bringen. Sei gespannt!
 
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg" loading="lazy">
   </div>
-  <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas Ziegler</a></em>
+  <em>Foto von 2024, aufgenommen direkt hinter dem Haus (Foto von Weni)</em>
 </div>
 
 
@@ -76,16 +85,31 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - **11:30** Closing Circle
 - **13:00** Offizielles Ende
 
+---
+
+### Unsere Unterkunft
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-1--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-2--manuelaclemens.de.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/hubird-3--manuelaclemens.de.jpg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/hubird-5--manuelaclemens.de.jpg" loading="lazy">
   </div>
-  <em>Fotos von <a href="https://manuelaclemens.de" target="_blank">Manuela Clemens</a></em>
+  <em style="margin-bottom: 24px;">Fotos von <a href="https://manuelaclemens.de" target="_blank">Manuela Clemens</a></em>
+
+  <div class="gallery">
+    <img src="/images/retreats/hubird-navis/hubird-sauna.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/navis-jurte.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-hot-tub.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-essen-salate.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-essen-fruehstueck.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-essen-vegane-nachspeise.jpg" loading="lazy">
+  </div>
+  <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas</a></em>
 </div>
+
+
+---
 
 ### Preis
 
@@ -114,8 +138,10 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 > Bist du neugierig geworden? 
 
-Dann schau dir **Recap von 2024** an. Im Mai 2024 haben wir das "Ashtanga Yoga & Stille Retreat" mit Magda und mir am selben Ort organisiert:
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">Schau dir die Insta-Story mit den Highlights von 2024 an!</a>
+Dann schau dir auf Instagram die <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
+
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button">Highlights von 2024</a>
+
 
 ---
 
@@ -134,6 +160,7 @@ Dann schau dir **Recap von 2024** an. Im Mai 2024 haben wir das "Ashtanga Yoga &
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button">Zur Anmeldung</a>
 
 ---
 
@@ -182,7 +209,7 @@ Erfahre mehr über Alex auf
     <img src="/images/people/lukas-ziegler/lukas-handpan-orangerie--c-johannes.olszewski.jpg" loading="lazy">
     <img src="/images/people/alex-pichler/alex-tuning-in.jpg" loading="lazy">
   </div>
-  <em>Fotos von Lukas Ziegler, Alex Pichler und Johannes Olszewski</em>
+  <em>Fotos von Lukas Ziegler (von <a href="https://lumeestories.com/" target="_blank">Ivana Mirkovic</a> + <a href="https://www.instagram.com/johannes_olszewski/" target="_blank">Johannes Olszewski</a>) und von Alex Pichler (von <a href="https://www.instagram.com/saramith_/" target="_blank">Sarah Fritz</a>)</em>
 </div>
 
 
@@ -192,7 +219,7 @@ Erfahre mehr über Alex auf
 
 > Noch Fragen? 
 
-Falls du noch zweifelst und dich fragst...
+Falls du noch zögerst und dich fragst...
 
 <dl>
   <dt>Q: Ich habe keine Vorerfahrung</dt>
@@ -239,8 +266,11 @@ Wir freuen uns auf die Tage mit dir.
 
 ## Komm mit!
 
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button">Zur Anmeldung</a>
+
+
 
 ---
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Unser Ausblick vom Hubird (Foto von [Manuela Clemens](https://manuelaclemens.de))*
+*Unser Ausblick vom Hubird, direkt von der Jurte mit Blick Richtung Osten (Foto von [Manuela Clemens](https://manuelaclemens.de))*

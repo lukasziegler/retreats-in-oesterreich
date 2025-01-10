@@ -1,7 +1,7 @@
 ---
 username: lukas
 name: Lukas Ziegler
-image: '/images/01-lukas.jpg'
+image: '/images/people/lukas-ziegler/lukas-handpan-pop-up-yoga.jpg'
 website: https://www.lukasziegler.com/
 instagram: https://www.instagram.com/lukasziegler/
 facebook: https://www.facebook.com/lukaszieglercom/
