@@ -114,7 +114,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 - Frühbucher: **799 Euro** (bis 31.01.2025)
-- Regulär: **899 Euro** (ab 1.02.2025)
+- Regulär: **885 Euro** (ab 1.02.2025)
 
 *Optional:*
 - zzgl. **150 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
@@ -169,7 +169,7 @@ Dann schau dir auf Instagram die <a href="https://www.instagram.com/s/aGlnaGxpZ2
 
 #### Lukas
 
-<img src="/images/people/lukas-ziegler/lukas-handpan-im-energiezentrum.jpg" alt="Lukas Ziegler Handpan" loading="lazy" style="width: 250px; float: left; margin: 0 20px 10px 0">
+<img src="/images/people/lukas-ziegler/lukas-handpan-im-energiezentrum.jpg" alt="Lukas Ziegler Handpan" loading="lazy" class="inline-image--float-left">
 Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zum Handpan-Spielen zu finden. Auch er ist noch auf seinem Weg beim Handpan-Spielen besser zu werden, was seine Herangehensweise authentisch und nahbar macht.
 
 Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://handpanteachertraining.com/" target="_blank">Teacher Training</a> absolviert hat.
@@ -189,7 +189,7 @@ Lukas ...
 #### Alex
 
 
-<img src="/images/people/alex-pichler/alex-portrait.jpg" alt="Alex Pichler Yoga-Lehrer aus Traunstein" loading="lazy" style="width: 250px; float: left; margin: 0 20px 10px 0">
+<img src="/images/people/alex-pichler/alex-portrait.jpg" alt="Alex Pichler Yoga-Lehrer aus Traunstein" loading="lazy" class="inline-image--float-left">
 
 Alex begeistert sich für Yoga in all seinen Facetten und teilt seine Leidenschaft in seinen Stunden mit viel Herz und Achtsamkeit. Seine Yoga-Einheiten verbinden Bewegung, Atmung und Entspannung zu einem ganzheitlichen Erlebnis. Der endgültige Text folgt in Kürze und wird Alex’ Ansatz und Stil noch genauer beschreiben. Bis dahin dient dieser Platzhalter als kleine Vorschau.
 
