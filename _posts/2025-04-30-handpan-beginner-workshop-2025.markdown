@@ -47,7 +47,7 @@ Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet. Bitte mit einer 
 
 Falls du **keine eigene Handpan** in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops deine Leih-Pan ausleihen, welche du anschließend vergünstigt zum Workshop-Preis erwerben kannst.
 
-Es sind **keine Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an den Umgang und die Spielweise herangeführt. Dieser Workshop ist an Menschen gerichtet die seit 0 - 6 Monate Handpan spielen. Wir werden die Grundlagen der Malte Marten Method behandeln und dir die Tools für freies Spielen beibringen.
+Es sind **keine Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an den Umgang und die Spielweise herangeführt. Dieser Workshop ist ideal für alle, die noch keine Erfahrung mit der Handpan haben oder erst vor wenigen Monaten damit angefangen haben. Wir werden die Grundlagen der Malte Marten Method behandeln und dir die Tools für freies Spielen beibringen.
 
 Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex kombiniert klassische Yoga-Stunden mit dynamischen Einflüssen aus dem Animal Flow, um auch hier den spielerischen Aspekt mit in die Yoga-Praxis zu bringen. Sei gespannt!
 
@@ -122,7 +122,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 *Wissenswertes:* 
 - Der Preis besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
-- Falls du in Elternzeit / arbeitslos bist, können wir dir eine 5% Ermägßigung auf den regulären Preis geben.
+- Falls du in Elternzeit / arbeitslos bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 
 
 **Im Preis beinhaltet:**
@@ -191,9 +191,12 @@ Lukas ...
 
 <img src="/images/people/alex-pichler/alex-portrait.jpg" alt="Alex Pichler Yoga-Lehrer aus Traunstein" loading="lazy" class="inline-image--float-left">
 
-Alex begeistert sich für Yoga in all seinen Facetten und teilt seine Leidenschaft in seinen Stunden mit viel Herz und Achtsamkeit. Seine Yoga-Einheiten verbinden Bewegung, Atmung und Entspannung zu einem ganzheitlichen Erlebnis. Der endgültige Text folgt in Kürze und wird Alex’ Ansatz und Stil noch genauer beschreiben. Bis dahin dient dieser Platzhalter als kleine Vorschau.
+Alex ist ein engagierter Yogalehrer, der mit Leidenschaft Balance, Ausdauer, Kraft und innere Ruhe in seinen Unterricht bringt. Mit einer ganzheitlichen Herangehensweise kombiniert er traditionelles Hatha Yoga mit Praktiken aus dem Yin Yoga und Elementen aus Functional Fitness und Animal Flow. Dabei liegt der Fokus nicht nur auf körperlicher Stärke, sondern auch auf dem Finden der eigenen inneren Ruhe und dem spielerischen Erforschen neuer Bewegungsmuster.
 
-Lorem ipsum dolor sit amet, Yoga-Asanas consectetur adipiscing elit. Pranayama und Achtsamkeit lacus at Namasté bibendum. Vivamus vinyasa flow ligula laoreet Shavasana, id downward dog neque lorem non nulla. Curabitur Yoga-Stil und Meditation convallis tempus. Ashtanga potenti. Nam wohltuend, stabilisierend et stretchend.
+Sein Yoga-Unterricht lädt dazu ein, im Moment zu verweilen, den Atem bewusst wahrzunehmen und den Körper und seine Bewegungen achtsam zu spüren. Besonders die morgendliche Yoga-Praxis dient als energetisierender Einstieg in den Tag – ein Moment der Dankbarkeit, Selbstliebe und Achtsamkeit.
+
+Wir integrieren in den Stunden gezielte Atemtechniken, Mobilisationsübungen und eine ausgleichende Endentspannung, um den Körper zu harmonisieren und die Verbindung zwischen Körper und Geist zu stärken.
+
 
 Erfahre mehr über Alex auf
 <a href="https://www.instagram.com/alexpi.chler/" target="_blank">Instagram</a>.
@@ -221,10 +224,9 @@ Erfahre mehr über Alex auf
 
 Falls du noch zögerst und dich fragst...
 
-<dl>
-  <dt>Q: Ich habe keine Vorerfahrung</dt>
-  <dd>A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.</dd>
-</dl>
+**Q: Ich habe keine Vorerfahrung**
+
+A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.
 
 **Q: Ich bin nicht musikalisch**
 
@@ -248,7 +250,7 @@ In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer –
 
 **Q: Wie läuft das mit dem Yoga? Ist das optional? Welcher Stil wird unterrichtet?**
 
-Antwort in the making @Alex :)
+Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag und ist für alle Teilnehmer eine wertvolle Ergänzung. Es ist vollkommen optional, jeder kann mitmachen – Vorkenntnisse sind nicht erforderlich. Unterrichtet wird Hatha Yoga, kombiniert mit Elementen aus Animal Flow und Functional Fitness, um die Balance, Kraft und Mobilität zu fördern.
 
 ---
 
@@ -260,7 +262,7 @@ Antwort in the making @Alex :)
 
 *Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
 
-Es ist eine Auszeit vom Alltag – getragen von Natur und in Gemeinschaft. Sei dabei, entdecke deine neue Leidenschaft und erlebe, wie du durch Handpan-Spielen voll im Hier & Jetzt ankommen kannst.
+Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemeinschaft. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
 
 Wir freuen uns auf die Tage mit dir.
 
