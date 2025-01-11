@@ -138,7 +138,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 > Bist du neugierig geworden? 
 
-Dann schau dir auf Instagram die <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
+Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
 
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button">Highlights von 2024</a>
 
@@ -256,7 +256,7 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 ## Sonst noch was?
 
-> Zur Anmeldung oder bei Fragen schreibe Lukas per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>) oder <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>.
+> Schreibe Lukas gerne eine Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>) oder <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>.
 
 ---
 
