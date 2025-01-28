@@ -117,7 +117,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Regulär: **885 Euro** (ab 1.02.2025)
 
 *Optional:*
-- zzgl. **150 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
+- zzgl. **125 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
 - auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
 
 *Wissenswertes:* 
