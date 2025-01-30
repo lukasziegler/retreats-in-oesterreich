@@ -36,14 +36,14 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und Organisatoren dabei zu unterstützen.
+  hero__title: Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und Organisatoren bei der Umsetzung zu unterstützen.
 
 
 #-------------------------------
 # Blog Settings
 blog:
   blog__title: Unsere bisherigen Retreats
-  blog__description: Hier unsere Empfehlungen für dich. Solltest du dir nicht sicher sein was genau zu dir passt, <a hreF="/kontakt/">melde dich liebend gerne</a> bei uns, wir helfen dir gerne weiter.
+  blog__description: Wenn du dir unsicher bist, welches Retreat zu dir passt, melde dich gerne bei uns – wir helfen dir weiter.
 
 
 #-------------------------------
