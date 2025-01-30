@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – Tirol 2025
 description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst. Und all das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2024-01-10 12:02:12 +0100
+date: 2024-01-30 12:02:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [tirol, handpan]
@@ -117,17 +117,18 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Regulär: **885 Euro** (ab 1.02.2025)
 
 *Optional:*
-- zzgl. **125 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
-- auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
+- Zzgl. **125 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
+- Auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
 
 *Wissenswertes:* 
-- Der Preis besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
+- Der Gesamtpreis besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
+- Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du in Elternzeit / arbeitslos bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 
 
 **Im Preis beinhaltet:**
 
-- 4 Übernachtungen mit Feel Good Atmosphäre im Hubird
+- 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
 - Halbpension mit Snacks, mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
 - Das gesamte Kursprogramm (mit Sauna, Hot Tub und täglich Meditationen + Yoga)
 - Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier, Limo, usw.) sind selbst zu bezahlen
@@ -226,7 +227,7 @@ Falls du noch zögerst und dich fragst...
 
 **Q: Ich habe keine Vorerfahrung**
 
-A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit dem Malte Marten Method selbstständig weiterzulernen.
+A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit der Malte Marten Method selbstständig weiterzulernen.
 
 **Q: Ich bin nicht musikalisch**
 
