@@ -31,6 +31,16 @@ Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwende
 
 3. Falls du nicht teilnehmen kannst, aber selbst eine **Ersatzperson** stellst, wird dir der volle Betrag zurückerstattet.
 
+---
+
+## Sonstiges
+
+1. **Widerrufsrecht:**
+Verbraucher haben grundsätzlich ein 14-tägiges Widerrufsrecht. Bei Retreats mit festem Termin erlischt dieses jedoch, da es sich um eine Freizeitveranstaltung gemäß § 18 Abs. 1 Z 10 FAGG handelt. Deine Buchung ist daher verbindlich, eine Stornierung ist nur unter den angegebenen Stornobedingungen möglich.
+
+2. **Salvatorische Klausel:**
+Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Gültigkeit der übrigen Bestimmungen unberührt. An die Stelle der unwirksamen Bestimmung tritt dann die gesetzliche Regelung.
+
 
 ---
 
