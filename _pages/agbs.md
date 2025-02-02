@@ -19,7 +19,7 @@ Mit der Buchung erkläre ich mich damit einverstanden, dass der Veranstalter mei
 
 3. **Fotoerlaubnis:**
 Mit meiner Buchung erkläre ich mich damit einverstanden, dass während des Retreats Fotos und Videos von mir aufgenommen werden dürfen. Falls ich *nicht* mit der Aufnahme von Fotos/Videos einverstanden bin, teile ich dies dem Veranstalter vor Retreat-Beginn ausdrücklich mit. 
-Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwendet werden. Vor der Verwendung für Werbezwecke (z. B. auf der Webseite oder in sozialen Medien), bekomme ich die Fotos zur Durchsicht und kann der Veröffentlichung jederzeit widersprechen. 
+Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwendet werden. Vor der Verwendung für Werbezwecke (z. B. auf der Webseite oder in sozialen Medien), bekomme ich die Fotos von mir zur Durchsicht und kann der Veröffentlichung jederzeit widersprechen. 
 
 ---
 
@@ -27,7 +27,7 @@ Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwende
 
 1. Bei einer Stornierung **bis 4 Wochen vor Retreat-Beginn** wird der volle Betrag erstattet.
 
-2. Bei einer Stornierung **weniger als 4 Wochen vor Retreat-Beginn** erfolgt keine Rückerstattung, es sei denn, der Teilnehmer stellt selbst eine Ersatzperson. 
+2. Bei einer Stornierung **weniger als 4 Wochen vor Retreat-Beginn** erfolgt keine Rückerstattung, es sei denn, du stellt eine Ersatzperson. 
 
 3. Falls du nicht teilnehmen kannst, aber selbst eine **Ersatzperson** stellst, wird dir der volle Betrag zurückerstattet.
 
