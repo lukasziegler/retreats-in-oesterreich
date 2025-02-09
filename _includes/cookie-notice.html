@@ -34,11 +34,23 @@
         createCookie(name,"",-1);
     }
 
+    function loadGoogleAnalytics() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.data.settings.google-analytics }}';
+        document.head.appendChild(script);
+
+        script.onload = function() {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', '{{ site.data.settings.google-analytics }}');
+        };
+    }
+
     if(readCookie('cookie-notice-option')=='true') {
         alert("cookie accepted"); 
-        //{% if jekyll.environment == "production" and site.google_analytics %}
-            // {% include google-analytics.html %}
-        //{% endif %}
+        loadGoogleAnalytics();
     } else if (readCookie('cookie-notice-option')!='false'){
         alert("cookie still undefined"); 
         document.getElementById('cookie-notice').style.display = 'block';
@@ -47,13 +59,12 @@
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
         createCookie('cookie-notice-option','true',31);
         document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
+        loadGoogleAnalytics();
     });
 
     document.getElementById('cookie-notice-deny').addEventListener("click",function() {
         createCookie('cookie-notice-option','false',31);
         document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
     });
 
 </script>
