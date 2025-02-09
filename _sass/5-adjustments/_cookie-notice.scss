@@ -1,17 +1,23 @@
-// Variablen für wiederverwendbare Werte
+// variables for DRY code
 $primary-color: black;
 $secondary-color: white;
+
+$padding-mobile: 32px 28px 20px 28px;
+$padding-desktop: 52px 40px;
+$margin-mobile: 40px;
+
 $border-radius: 40px;
-$padding: 52px 40px;
-$font-size-large: 32px;
+$font-size-desktop: 32px;
+$font-size-mobile: $font-size-h2;
 $font-size-button: 1.1rem;
 $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
 
 #cookie-notice {
-  padding: $padding;
+  padding: $padding-mobile;
+  margin: 0 $margin-mobile;
+  width: calc(100% - 2 * $margin-mobile);
   position: fixed;
   bottom: 0;
-  width: 100%;
   height: fit-content;
   background: $secondary-color;
   border-radius: $border-radius $border-radius 0 0;
@@ -23,8 +29,8 @@ $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
     background: $secondary-color;
     color: $primary-color;
     padding: 1rem;
-    border-radius: 20px;
-    max-width: 500px;
+    border-radius: 0;
+    width: calc(100% - 2rem);
     margin: 0 auto;
   }
 
@@ -32,6 +38,8 @@ $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
     display: inline-block;
     cursor: pointer;
     margin-left: 0.5rem;
+    position: relative;
+    bottom: 4px;
   }
 
   .btn {
@@ -56,16 +64,16 @@ $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
   }
 
   .cookie-notice {
-    &__buttons {
-      margin: 32px 0 0 0;
-      text-align: center;
-    }
-
     &__headline {
-      font-size: $font-size-large;
+      font-size: $font-size-mobile;
       line-height: 1.4;
       font-weight: 800;
-      margin-bottom: 12px;
+      margin-bottom: 8px;
+    }
+
+    &__buttons {
+      margin: 24px 0 0 0;
+      text-align: center;
     }
   }
 
@@ -74,37 +82,44 @@ $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
     max-width: 400px;
   }
 
-  @media (max-width: 767px) {
-    padding: 40px 32px;
-
-    .cookie-content {
-      width: calc(100% - 2rem);
-      margin: 0 auto;
-      border-radius: 0;
-    }
-
-    span {
-      display: block;
-      padding-top: 3px;
-      margin-bottom: 1rem;
-    }
-
-    a {
-      position: relative;
-      bottom: 4px;
-    }
+  span {
+    display: block;
+    padding-top: 3px;
+    margin-bottom: 1rem;
   }
 
-  @media (min-width: 768px) {
-    top: 78%;
+  @media (min-width: $tablet) {
+    padding: $padding-desktop;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     max-width: 800px;
     min-width: 400px;
     border-radius: $border-radius;
 
+    & .cookie-notice {
+      &__headline {
+        font-size: $font-size-desktop;
+        margin-bottom: 12px;
+      }
+
+      &__buttons {
+        margin: 32px 0 0 0;
+      }
+    }
+
     .cookie-content {
       border-radius: 20px;
+      width: auto;
+    }
+
+    a {
+      position: static;
+      margin-left: 0.5rem;
     }
   }
+
+  // @media (min-width: 1020px) {
+  //   top: 70%;
+  // }
 }
