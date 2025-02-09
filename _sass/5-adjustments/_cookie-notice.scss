@@ -1,110 +1,110 @@
+// Variablen für wiederverwendbare Werte
+$primary-color: black;
+$secondary-color: white;
+$border-radius: 40px;
+$padding: 52px 40px;
+$font-size-large: 32px;
+$font-size-button: 1.1rem;
+$box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
+
 #cookie-notice {
-  padding: 52px 40px;
+  padding: $padding;
   position: fixed;
   bottom: 0;
   width: 100%;
   height: fit-content;
-  background: white;
-  border-radius: 40px 40px 0 0;
-  color: black;
+  background: $secondary-color;
+  border-radius: $border-radius $border-radius 0 0;
+  color: $primary-color;
   z-index: 1000;
-  box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
+  box-shadow: $box-shadow;
 
-  & .cookie-content {
-    background: #fff;
-    color: #000;
+  .cookie-content {
+    background: $secondary-color;
+    color: $primary-color;
     padding: 1rem;
     border-radius: 20px;
     max-width: 500px;
     margin: 0 auto;
   }
-}
 
-#cookie-notice a {
-  display: inline-block;
-  cursor: pointer;
-  margin-left: 0.5rem;
-}
+  a {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5rem;
+  }
 
-.cookie-notice {
-
-  &__buttons {
-    margin: 32px 0 0 0;
+  .btn {
+    background-color: $secondary-color;
+    color: $primary-color;
+    border: 2px solid $primary-color;
+    border-radius: $border-radius;
+    padding: 8px 24px;
+    font-size: $font-size-button;
     text-align: center;
+    margin: 8px 0;
+
+    &--primary {
+      background-color: $primary-color;
+      color: $secondary-color;
+    }
+
+    &--tertiary {
+      border: none;
+      text-decoration: underline;
+    }
   }
 
-  &__headline {
-    font-size: 32px;
-    line-height: 1.4;
-    font-weight: 800;
-    margin-bottom: 12px;
+  .cookie-notice {
+    &__buttons {
+      margin: 32px 0 0 0;
+      text-align: center;
+    }
+
+    &__headline {
+      font-size: $font-size-large;
+      line-height: 1.4;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
   }
 
-}
-
-#cookie-notice .btn {
-  background-color: white;
-  color: black;
-  border: 2px solid black;
-  border-radius: 40px;
-  padding: 8px 24px;
-  font-size: 1.1rem;
-  text-align: center;
-  margin: 8px 0;
-
-  &--primary {
-    background-color: black;
-    color: white;
+  .btn--primary, .btn--secondary {
+    width: calc(100% - 20px);
+    max-width: 400px;
   }
 
-  &--tertiary {
-    border: none;
-    text-decoration: underline;
-  }
-}
+  @media (max-width: 767px) {
+    padding: 40px 32px;
 
-.btn--primary, .btn--secondary {
-  width: calc(100% - 20px);
-  max-width: 400px;
-}
-
-@media (max-width: 767px) {
-  #cookie-notice {
-      bottom: 0;
-      width: 100%;
-      padding: 40px 32px;
-  }
-
-  #cookie-notice .cookie-content {
+    .cookie-content {
       width: calc(100% - 2rem);
       margin: 0 auto;
       border-radius: 0;
-  }
+    }
 
-  #cookie-notice span {
+    span {
       display: block;
       padding-top: 3px;
       margin-bottom: 1rem;
-  }
+    }
 
-  #cookie-notice a {
+    a {
       position: relative;
       bottom: 4px;
-  }
-}
-
-@media (min-width: 768px) {
-  #cookie-notice {
-      top: 78%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: 100%;
-      max-width: 800px;
-      min-width: 400px;
-      border-radius: 40px;
+    }
   }
 
-  #cookie-notice .cookie-content {
+  @media (min-width: 768px) {
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 800px;
+    min-width: 400px;
+    border-radius: $border-radius;
+
+    .cookie-content {
       border-radius: 20px;
+    }
   }
 }
