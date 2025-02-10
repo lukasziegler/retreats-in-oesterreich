@@ -105,5 +105,5 @@ disqus:
 
 
 #-------------------------------
-# Google Analytics
-google-analytics: AW-10948820739
+# Google Analytics or Google Tag Manager (GTM)
+google-analytics: GTM-MX94S3GK
