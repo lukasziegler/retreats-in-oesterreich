@@ -277,3 +277,41 @@ Wir freuen uns auf die Tage mit dir.
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
 *Unser Ausblick vom Hubird, direkt von der Jurte mit Blick Richtung Osten (Foto von [Manuela Clemens](https://manuelaclemens.de))*
+
+
+<script>
+function gtag_report_conversion(url) {
+  if (typeof gtag !== 'undefined') {
+    var callback = function () {
+      if (typeof(url) != 'undefined') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'conversion', {
+      'send_to': 'AW-10948820739/Jl2xCNCzoJwaEIP-5uQo',
+      'value': 1.0,
+      'currency': 'EUR',
+      'event_callback': callback
+    });
+    return false;
+  } else {
+    // Fallback: Direkt zur URL navigieren, wenn gtag nicht definiert ist
+    if (typeof(url) != 'undefined') {
+      window.location.href = url.href;
+    }
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  var signUpLinks = document.querySelectorAll('.js-sign-up');
+
+  signUpLinks.forEach(function(link) {
+    link.addEventListener('click', function(event) {
+      // alert("intercepted click");
+
+      event.preventDefault();
+      gtag_report_conversion(link);
+    });
+  });
+});
+</script>
