@@ -38,6 +38,19 @@
 
     function loadGTM() {
         // Google Tag Manager
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+            var f=d.getElementsByTagName('head')[0], // Ändere hier 'body' zu 'head'
+                j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true;
+            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.appendChild(j); // Ändere hier 'insertBefore' zu 'appendChild'
+        })(window,document,'script','dataLayer','GTM-MX94S3GK');
+    }
+
+    function loadGTMDeprecated() {
+        // Google Tag Manager
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -51,7 +64,7 @@
 
     if (readCookie('cookie-notice-option') == 'true') {
         // cookie already stored + accepted
-        loadGTM();
+        // loadGTM();
     } else if (readCookie('cookie-notice-option') != 'false') {
         // cookie still undefined
         showCookieNotice();

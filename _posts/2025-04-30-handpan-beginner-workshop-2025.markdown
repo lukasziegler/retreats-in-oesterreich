@@ -307,9 +307,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
   signUpLinks.forEach(function(link) {
     link.addEventListener('click', function(event) {
-      // alert("intercepted click");
-
-      event.preventDefault();
       gtag_report_conversion(link);
     });
   });
