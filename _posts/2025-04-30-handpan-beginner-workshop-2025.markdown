@@ -113,8 +113,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-- Early-Bird: **840 Euro** (bis 24.02.2025)
-- Regulär: **885 Euro** (ab 25.02.2025)
+- Regulär: **885 Euro**
 
 *Optional:*
 - Zzgl. **125 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
