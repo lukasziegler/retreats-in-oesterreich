@@ -114,10 +114,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 - **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (regulärer Preis von Phase 3)
-
-*Optional:*
-- Zzgl. **125 Euro** für Handpan-Miete (für die 5 Tage inkl. Versicherung)
-- Auf Wunsch gibt es auch die Option im eigenen Camper zu übernachten
+- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
 
 *Wissenswertes:* 
 - Der Preis von 885 Euro besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
