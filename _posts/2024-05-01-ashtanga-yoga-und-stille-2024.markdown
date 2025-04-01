@@ -57,8 +57,6 @@ Alle Level sind willkommen!
 
 ### Preis
 
-799 Euro im Mehrbettzimmer
-
 **Im Preis beinhaltet:**
 
 - 4 Übernachtungen
