@@ -121,8 +121,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 - Auf Nachfrage bieten wir für Leute aus der Umgebung auch die Möglichkeit nur am Tagesprogramm teilzunehmen (10 - 18 Uhr). Bei Interesse gerne melden.
-- Das Einzelzimmer ist bereits vergeben.
-- Aktuell sind noch 2 Plätze frei (Stand 23.03.2025).
+- Aktuell sind noch 2 Plätze frei im Mehrbettzimmer verfügbar (Stand 3.04.2025).
 
 
 **Im Preis beinhaltet:**
@@ -173,10 +172,10 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 <img src="/images/people/lukas-ziegler/lukas-handpan-im-energiezentrum.jpg" alt="Lukas Ziegler Handpan" loading="lazy" class="inline-image--float-left">
 Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zum Handpan-Spielen zu finden. Auch er ist noch auf seinem Weg beim Handpan-Spielen besser zu werden, was seine Herangehensweise authentisch und nahbar macht.
 
-Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://www.maltemartenmethod.com/teacher-training/" target="_blank">Teacher Training</a> absolviert.
+Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://www.maltemartenmethod.com/teacher-training/" target="_blank">Teacher Training</a> absolviert hat.
 
 Erfahre mehr über Lukas auf
-<a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/lukasziegler">Linktree</a>.
+<a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/handpan.with.lukas">Linktree</a>.
 
 <!-- Wer dich begleitet**
 Lukas ...
