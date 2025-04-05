@@ -92,6 +92,7 @@ footer__menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
+  formspree: https://formspree.io/f/xanepgej
   email: retreats.near.you@gmail.com
 
 # NOTE
