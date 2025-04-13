@@ -121,7 +121,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 - Auf Nachfrage bieten wir für Leute aus der Umgebung auch die Möglichkeit nur am Tagesprogramm teilzunehmen (10 - 18 Uhr). Bei Interesse gerne melden.
-- Aktuell sind noch 2 Plätze frei im Mehrbettzimmer verfügbar (Stand 3.04.2025).
+- Aktuell sind noch 2 Plätze im Mehrbettzimmer verfügbar (Stand 10.04.2025).
 
 
 **Im Preis beinhaltet:**
