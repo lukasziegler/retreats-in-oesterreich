@@ -74,7 +74,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - **11:30-13:00** Handpan-Workshop (Vormittag) 
 - **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
 - **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
-- **16:30-18:00** Handpan-Workshop (Nachmittag)
+- **16:00-17:30** Handpan-Workshop (Nachmittag)
 - **18:00-19:30** Abendessen 
 - **ab 20:00** Abendprogramm (geselliges Beisammensein, Sauna, Hot Tub oder Klangreise)
 
