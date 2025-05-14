@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Handpan Beginner Days – Tirol 2025
+title: Handpan Beginner Days – Saalbach 2025
 description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2024-04-24 02:02:12 +0100
+date: 2025-05-14 02:02:12 +0100
 author: lukas
-image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
-tags: [tirol, handpan]
-featured: true
+image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
+tags: [salzburg, handpan]
+#featured: true
 ---
 
 
 
-## 30. April - 4. Mai 2025
-**5 Tage im wunderschönen Navistal mit Alex & Lukas**
+## 18. - 21. September 2025
+**4 Tage in den wunderschönen Salzburger Bergen mit Alex & Lukas**
 
-Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das in der traumhaften Kulisse der Tiroler Bergwelt?
+Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das in der traumhaften Kulisse der Salzburger Bergwelt?
 
 Und falls du dich schon lange fragst, wie du deine ersten Schritte gehen kannst, ohne gleich 1.000 - 3.000 € für dein erstes Instrument zu investieren? Dann bist du nicht alleine und hier genau richtig!
 
-Im Mai machen wir uns auf den Weg ins Navistal: **5 Tage Handpan, Yoga und Meditation** in der <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodge</a>. Ein Handpan-Beginner-Kurs inmitten malerisch schöner Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine ersten Schritte mit einem neuen Instrument zu gehen. Dies ist auch genau der richtige Rahmen, falls du noch so viele Fragen hast und gerne unterschiedliche Handpans probieren möchtest, bevor du dir deine erste eigene kaufst. 
+Im September machen wir uns wieder mit Yogamatten und Handpans auf den Weg in die Berge: **4 Tage Handpan, Yoga und Meditation** im <a href="https://www.brandgut.at/" target="_blank">brandgut – Resort meets distillery</a>. Ein Handpan-Beginner-Kurs inmitten malerisch schöner Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine ersten Schritte mit einem neuen Instrument zu gehen. Dies ist auch genau der richtige Rahmen, falls du noch so viele Fragen hast und gerne unterschiedliche Handpans probieren möchtest, bevor du dir deine erste eigene kaufst. 
 
 Was dieses Event besonders macht:
 - Lerne **Handpan zu spielen** – keine Vorkenntnisse notwendig
@@ -30,14 +30,13 @@ Was dieses Event besonders macht:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/hubird-essen-suppe.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/hubird-landscape.jpg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-ausblick.jpg" loading="lazy">
-    <img src="/images/retreats/hubird-navis/navis-2024-jurte-am-abend.jpeg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-yoga-platform.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-restaurant.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-chillen-am-pool.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-pool-mindfulness.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-pool-vibes.jpg" loading="lazy">
   </div>
-  <em>Fotos von <a href="https://lukasziegler.com" target="_blank">Lukas</a></em>
+  <em>Fotos von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a></em>
 </div>
 
 
@@ -53,30 +52,23 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-haengematte.jpg" loading="lazy">
   </div>
-  <em>Foto von 2024, aufgenommen direkt hinter dem Haus (Foto von Weni)</em>
+  <em>Foto von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a></em>
 </div>
 
 
 ### Unser Ablauf
 
-*Mittwoch (Anreise)*
+*Donnerstag (Anreise)*
 
 - **15:00 - 17:00** Ankommen 
 - **18:00** Abendessen
 - **19:30** Opening Circle (Handpan Ausgabe & gegenseitiges Kennenlernen)
 
-*Donnerstag / Freitag / Samstag*
+*Freitag / Samstag*
 
-- **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
-- **10:00-11:30** Brunch 
-- **11:30-13:00** Handpan-Workshop (Vormittag) 
-- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
-- **16:00-17:30** Handpan-Workshop (Nachmittag)
-- **18:00-19:30** Abendessen 
-- **ab 20:00** Abendprogramm (geselliges Beisammensein, Sauna, Hot Tub oder Klangreise)
+...
 
 *Sonntag (Abreise)*
 
@@ -113,20 +105,19 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-- **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (regulärer Preis von Phase 3)
-- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
+- **... Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (Phase 1+2+3 auflisten)
+- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 4 Tage inkl. Versicherung)
 
 *Wissenswertes:* 
-- Der Preis von 885 Euro besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
+- Der Preis von ... Euro besteht ...
+- Der Betrag für die Übernachtung wird direkt an die Unterkunft überwiesen.
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
-- Auf Nachfrage bieten wir für Leute aus der Umgebung auch die Möglichkeit nur am Tagesprogramm teilzunehmen (10 - 18 Uhr). Bei Interesse gerne melden.
-- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025).
 
 
 **Im Preis beinhaltet:**
 
-- 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
+- 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">Hotel Brandgut</a>
 - Halbpension mit Snacks, mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
 - Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier + Limo) sind selbst zu bezahlen
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
@@ -147,10 +138,9 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 ### Organisatorisches
 
-- Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
-- **Stornobedingungen:** Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
-
-- **Mindestteilnehmerzahl:** 6 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+- Unsere Unterkunft befindet sich im ....
+- **Stornobedingungen:** ...
+- **Mindestteilnehmerzahl:** 6 Personen. ...
 
 ---
 
@@ -158,9 +148,9 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 > Zur Anmeldung oder für Fragen
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
+- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 ---
 
@@ -226,19 +216,19 @@ Falls du noch zögerst und dich fragst...
 
 **Q: Ich habe keine Vorerfahrung**
 
-A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit der Malte Marten Method selbstständig weiterzulernen.
+A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 4 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit der Malte Marten Method selbstständig weiterzulernen.
 
 **Q: Ich bin nicht musikalisch**
 
 A: Viele Teilnehmer denken, sie seien "nicht musikalisch", bis sie die Handpan ausprobieren. Dieses Instrument ist intuitiv und leicht zugänglich – du brauchst keine Vorkenntnisse oder besonderes Talent. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
 
-**Q: Warum so lange? 5 Tage sind mir zu viel**
+**Q: Warum so lange? 4 Tage sind mir zu viel**
 
-A: Dieses Programm beinhaltet 2 halbe Tage (An- und Abreise-Tag) und 3 ganze Tage (mit je 2 Workshops und freiem Spielen). Es ist genau darauf ausgelegt, dir in einer entspannten malerisch schönen Umgebung all die Basics mitzugeben, damit du danach klar weißt, ob du danach selbst weitermachen möchtest mit dem Handpan spielen. Aber ich verstehe, dass 5 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/lukasziegler" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
+A: Dieses Programm beinhaltet 2 halbe Tage (An- und Abreise-Tag) und 2 volle Tage (mit je 2 Workshops und freiem Spielen). Es ist genau darauf ausgelegt, dir in einer entspannten malerisch schönen Umgebung all die Basics mitzugeben, damit du danach klar weißt, ob du danach selbst weitermachen möchtest mit dem Handpan spielen. Aber ich verstehe, dass 4 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/lukasziegler" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
 
 **Q: Ich habe keine eigene Handpan**
 
-Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-Email.
+Kein Problem! Für die 4 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-Email.
 
 
 **Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
@@ -260,7 +250,7 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 ---
 
-*Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
+*Diese 4 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
 
 Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemeinschaft. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
 
@@ -272,5 +262,4 @@ Wir freuen uns auf die Tage mit dir.
 
 ---
 
-![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Unser Ausblick vom Hubird, direkt von der Jurte mit Blick Richtung Osten (Foto von [Manuela Clemens](https://manuelaclemens.de))*
+![Man]({{site.baseurl}}/images/retreats/brandgut/brandgut-come-as-you-are.jpg#wide)
