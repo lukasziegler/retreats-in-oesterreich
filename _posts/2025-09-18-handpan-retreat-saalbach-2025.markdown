@@ -112,19 +112,20 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 Der Preis setzt sich zusammen aus dem Preis für das Retreat-Programm, für die Unterkunft und einer evtl. gemieteten Leih-Handpan:
 
-- **Ticketspreis für Retreat:** für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
-  - **Phase 1:** TODO Euro (für Tickets #1-3 = Early Bird)
-  - **Phase 2:** TODO Euro (Tickets #4-9)
-  - **Phase 3:** TODO Euro (Tickets #10-12)
+1. **Ticketpreis für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
+  - **Phase 1:** 560 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
+  - <em style="color: grey;">**Phase 2:** 600 Euro (Tickets #4-9)</em>
+  - <em style="color: grey;">**Phase 3:** 650 Euro (Tickets #10-12)</em>
 
-- **Übernachtungspreis / Nacht:** – 3 Nächte
-  - Doppelzimmer neu renoviert: **110 Euro** / Nacht bei Einzelbelegung - bei Doppelbelegung: 180,- / Nacht (= 90€ pP)
-  - Doppelzimmer alt/klassisch: **90 Euro** / Nacht bei Einzelbelegung - bei Doppelbelegung: 150,- / Nacht (= 75€ pP)
-  - Einzelzimmer neu renoviert: **80 Euro** / Nacht (nur 1 verfügbar)
-  - Einzelzimmer alt/klassisch: **70 Euro** / Nacht (nur 1 verfügbar)
+2. **Übernachtungspreis:** – für 3 Nächte
+  - Einzelzimmer alt/klassisch: **70 Euro / Nacht** – nur 1 verfügbar
+  - Einzelzimmer neu renoviert: **80 Euro / Nacht** – nur 1 verfügbar
+  - Doppelzimmer alt/klassisch: **90 Euro / Nacht** bei Einzelbelegung - bei Doppelbelegung: 150,- / Nacht (= 75€ pP)
+  - Doppelzimmer neu renoviert: **110 Euro / Nacht** bei Einzelbelegung - bei Doppelbelegung: 180,- / Nacht (= 90€ pP)
   
+3. **Optionale Handpan-Leihgebühr:** Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung)
 
-- Falls du noch keine eigene Handpan hast, zzgl. **100 Euro** für die Handpan-Miete (für die 4 Tage inkl. Versicherung)
+Du liegst mit deiner Retreat-Teilnahme somit zwischen 770,- bis 1.080 Euro.
 
 
 *Wissenswertes:* 
@@ -264,7 +265,9 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
     <img src="/images/retreats/brandgut/brandgut-empfang.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-im-winter.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-drone-pool-shot.jpg" loading="lazy">
-    
+    <img src="/images/retreats/brandgut/brandgut-mindfulness-yoga-in-nature.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-water-grounding.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-mindfulness-cleansing-water.jpg" loading="lazy">
   </div>
   <em>Fotos <a href="https://www.brandgut.at/" target="_blank">© brandgut resort</a></em>
 </div>
