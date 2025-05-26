@@ -110,17 +110,22 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-- Der Preis setzt sich aus dem Preis für das Retreat-Programm, für die Unterkunft und einer evtl. gemieteten Leih-Handpan zusammen. 
+Der Preis setzt sich zusammen aus dem Preis für das Retreat-Programm, für die Unterkunft und einer evtl. gemieteten Leih-Handpan:
 
-- **Preis für Retreat: ... Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (Phase 1+2+3 auflisten)
-  - **Phase 1:** XX Euro (Early Bird für Tickets #1-3)
-  - **Phase 2:** XX Euro (Tickets #4-10)
-  - **Phase 3:** XX Euro (Tickets #11-12)
+- **Ticketspreis für Retreat:** für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
+  - **Phase 1:** TODO Euro (für Tickets #1-3 = Early Bird)
+  - **Phase 2:** TODO Euro (Tickets #4-9)
+  - **Phase 3:** TODO Euro (Tickets #10-12)
 
-- **Aufpreis je nach Zimmerkategorie:**
-  - 
+- **Übernachtungspreis / Nacht:** – 3 Nächte
+  - Doppelzimmer neu renoviert: **110 Euro** / Nacht bei Einzelbelegung - bei Doppelbelegung: 180,- / Nacht (= 90€ pP)
+  - Doppelzimmer alt/klassisch: **90 Euro** / Nacht bei Einzelbelegung - bei Doppelbelegung: 150,- / Nacht (= 75€ pP)
+  - Einzelzimmer neu renoviert: **80 Euro** / Nacht (nur 1 verfügbar)
+  - Einzelzimmer alt/klassisch: **70 Euro** / Nacht (nur 1 verfügbar)
+  
 
 - Falls du noch keine eigene Handpan hast, zzgl. **100 Euro** für die Handpan-Miete (für die 4 Tage inkl. Versicherung)
+
 
 *Wissenswertes:* 
 - Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
