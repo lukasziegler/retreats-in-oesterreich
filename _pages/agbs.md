@@ -35,13 +35,17 @@ Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwende
 
 ## Sonstiges
 
-1. **Widerrufsrecht:**
+1. **Was passiert bei Krankheit des Veranstalters?**
+Im Falle einer Erkrankung des Veranstalters wird ein Ersatztermin angeboten und das Retreat zu diesem Datum nachgeholt. Bereits geleistete Zahlungen bleiben bestehen und werden auf den Ersatztermin angerechnet.
+
+
+2. **Gesetzliches Widerrufsrecht:**
 Verbraucher haben grundsätzlich ein 14-tägiges Widerrufsrecht. Bei Retreats mit festem Termin erlischt dieses jedoch, da es sich um eine Freizeitveranstaltung gemäß § 18 Abs. 1 Z 10 FAGG handelt. Deine Buchung ist daher verbindlich, eine Stornierung ist nur unter den angegebenen Stornobedingungen möglich.
 
-2. **Salvatorische Klausel:**
+3. **Salvatorische Klausel:**
 Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Gültigkeit der übrigen Bestimmungen unberührt. An die Stelle der unwirksamen Bestimmung tritt dann die gesetzliche Regelung.
 
 
 ---
 
-*Zuletzt aktualisiert: 2. Februar 2025*
+*Zuletzt aktualisiert: 26. Mai 2025*

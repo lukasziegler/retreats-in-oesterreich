@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Handpan Beginner Days – Tirol 2025
+title: Handpan Beginner Days – Mai 2025 (Tirol)
 description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
 date: 2024-04-24 02:02:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [tirol, handpan]
-featured: true
+#featured: true
 ---
 
 
@@ -31,7 +31,7 @@ Was dieses Event besonders macht:
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/retreats/hubird-navis/hubird-essen-suppe.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/hubird-landscape.jpg" loading="lazy">
+    <img src="/images/retreats/hubird-navis/hubird-landscape.jpg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-umgebende-natur.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-2024-jurte-klangbad.jpeg" loading="lazy">
     <img src="/images/retreats/hubird-navis/navis-ausblick.jpg" loading="lazy">
@@ -121,7 +121,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 - Auf Nachfrage bieten wir für Leute aus der Umgebung auch die Möglichkeit nur am Tagesprogramm teilzunehmen (10 - 18 Uhr). Bei Interesse gerne melden.
-- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025).
+<!-- - Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). -->
 
 
 **Im Preis beinhaltet:**
@@ -148,6 +148,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 ### Organisatorisches
 
 - Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
+
 - **Stornobedingungen:** Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
 
 - **Mindestteilnehmerzahl:** 6 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
