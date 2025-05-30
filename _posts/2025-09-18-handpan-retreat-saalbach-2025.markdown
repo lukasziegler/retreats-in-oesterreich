@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – September 2025
 description: Komm mit nach Saalbach Hinterglemm und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-05-14 02:02:12 +0100
+date: 2025-05-28 02:02:12 +0100
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
 tags: [salzburg, handpan]
@@ -25,7 +25,7 @@ Was dieses Event besonders macht:
 - Du lernst nach der bewährten <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>
 - **Keine Vorkenntnisse notwendig**
 - Handpans von der Marke <a href="https://yataoshop.com/" target="_blank">Yatao</a> oder <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> werden dir auf Wunsch zur Verfügung gestellt
-- 4-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Tirol
+- 4-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Saalbach <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
 
 
 <div class="gallery-box">
@@ -65,8 +65,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 - **15:00 - 17:00** Ankommen 
 - **18:00** Abendessen
-- **19:30** Opening Circle (gegenseitiges Kennenlernen)
-- **20:00** Handpan-Workshop (Ausgabe der Instrumente + First Touch)
+- **20:00** Opening Circle mit den ersten Handpan-Klängen
 
 *Freitag / Samstag*
 
@@ -74,9 +73,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - **10:00-11:30** Brunch 
 - **12:00-14:00** Handpan-Workshop
 - **14:00-17:00** Zeit für dich (für eine Wanderung, zum Wellnessen oder zum Vertiefen deiner Handpan-Praxis) — Snacks stehen am Nachmittag zur Verfügung
-- **17:00-18:00** Freies Spielen (mit Möglichkeit für Fragen) 
+- **17:00-18:00** Handpan spielen (und Zeit für Fragen)
 - **18:00-19:30** Abendessen 
-- **ab 20:00** Abendprogramm (Sauna, Klangreise oder geselliges Beisammensein)
+- **20:00** Abendprogramm (Spa-Bereich, Klangreise oder geselliges Beisammensein)
 
 
 *Sonntag (Abreise)*
@@ -84,7 +83,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - **8:00** Yoga (Meditation, Pranayama, Hatha)
 - **10:00** Brunch 
 - **12:00** Handpan-Abschlussrunde
-- **13:00** Offizielles Ende
+- **14:00** Offizielles Ende
 
 ---
 
@@ -108,14 +107,16 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ---
 
-### Preis
+### Kosten
 
-Der Preis setzt sich zusammen aus dem Preis für das Retreat-Programm, für die Unterkunft und einer evtl. gemieteten Leih-Handpan:
+Der Preis setzt sich wie folgt zusammen:
+
+<!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
 1. **Ticketpreis für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
-  - **Phase 1:** 560 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
-  - <em style="color: grey;">**Phase 2:** 600 Euro (Tickets #4-9)</em>
-  - <em style="color: grey;">**Phase 3:** 650 Euro (Tickets #10-12)</em>
+  - **Phase 1:** 675 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
+  - <em style="color: grey;">**Phase 2:** 715 Euro (Tickets #4-9)</em>
+  - <em style="color: grey;">**Phase 3:** 755 Euro (Tickets #10-12)</em>
 
 2. **Übernachtungspreis:** – für 3 Nächte
   - Einzelzimmer alt/klassisch: **70 Euro / Nacht** – nur 1 verfügbar
@@ -125,7 +126,7 @@ Der Preis setzt sich zusammen aus dem Preis für das Retreat-Programm, für die 
   
 3. **Optionale Handpan-Leihgebühr:** Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung)
 
-Du liegst mit deiner Retreat-Teilnahme somit zwischen 770,- bis 1.080 Euro.
+Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.
 
 
 *Wissenswertes:* 
@@ -152,6 +153,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2025</a>
 
+<!-- ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns -->
 
 ---
 
@@ -185,7 +187,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 <img src="/images/people/lukas-ziegler/lukas-handpan-im-energiezentrum.jpg" alt="Lukas Ziegler Handpan" loading="lazy" class="inline-image--float-left">
 Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen mit ein. Mit viel Begeisterung und Feingefühl unterstützt er dich dabei, deinen eigenen Zugang zum Handpan-Spielen zu finden. Auch er ist noch auf seinem Weg beim Handpan-Spielen besser zu werden, was seine Herangehensweise authentisch und nahbar macht.
 
-Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://www.maltemartenmethod.com/lukas-ziegler-handpan-teacher" target="_blank">Teacher Training</a> absolviert hat.
+Inmitten beeindruckender Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://www.maltemartenmethod.com/lukas-ziegler-handpan-teacher" target="_blank">Teacher Training</a> absolviert hat.
 
 Erfahre mehr über Lukas auf
 <a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/handpan.with.lukas">Linktree</a>.
@@ -274,15 +276,17 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 ---
 
-## Sonst noch was?
+## Überlegst du noch?
 
-> Melde dich gerne bei Lukas via <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder <a href="mailto:retreats@lukasziegler.com?subject=Navis" target="_blank">Email</a>.
+Melde dich gerne unverbindlich bei Lukas. Egal ob bei Fragen, falls du noch am abwägen bist oder falls du grundsätzlich Interesse hast, der Zeitpunkt oder das Paket aber noch nicht ganz passt. Wir haben eine Warteliste für zukünftige Events und schreiben dir gerne, wenn das nächste Event bevorsteht.
+
+> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:retreats@lukasziegler.com?subject=Navis" target="_blank">Email</a>.
 
 ---
 
 *Diese 4 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
 
-Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemeinschaft. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
+Es ist eine Auszeit vom Alltag – getragen von Klängen, in Gemeinschaft und umgeben von traumhafter Natur. Finde Antworten auf viele deiner Fragen, lege den Grundstein für deinen Handpan-Weg, bei dem du Handpans unterschiedlicher Hersteller ausprobieren kannst. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
 
 Wir freuen uns auf die Tage mit dir.
 
