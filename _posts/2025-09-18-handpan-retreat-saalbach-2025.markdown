@@ -34,7 +34,7 @@ Was dieses Event besonders macht:
     <img src="/images/retreats/brandgut/brandgut-pool-vibes.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-pool-mindfulness.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-restaurant.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-chillen-am-pool.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-pool-yoga2.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-come-as-you-are.jpg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a></em>
@@ -95,10 +95,10 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
     <img src="/images/retreats/brandgut/brandgut-sauna-ausblick--yvonne-hoerl.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-abendessen.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-lieblingsplatz.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-zimmer-yvonne-hoerl.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-panorama.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-sauna.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-fruehstueck.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-im-winter.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-zimmer-yvonne-hoerl.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brangut-essensbereich.jpg" loading="lazy">
   </div>
   <em>Fotos <a href="https://www.brandgut.at/" target="_blank">© brandgut resort</a></em>
@@ -107,13 +107,13 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ---
 
-### Kosten
+### Preis
 
-Der Preis setzt sich wie folgt zusammen:
+Der Preis für das Retreat liegt zwischen 885,- und 1.185 Euro und setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
-1. **Ticketpreis für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
+1. **Kursbeitrag für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
   - **Phase 1:** 675 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
   - <em style="color: grey;">**Phase 2:** 715 Euro (Tickets #4-9)</em>
   - <em style="color: grey;">**Phase 3:** 755 Euro (Tickets #10-12)</em>
@@ -132,16 +132,16 @@ Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.
 *Wissenswertes:* 
 - Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
-- Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
+- Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf Kursbeitrag geben.
 
 
 **Im Preis beinhaltet:**
 
-- 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">Hotel Brandgut</a>
-- Halbpension mit Snacks, mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
-- Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier + Limo) sind selbst zu bezahlen
+- 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">brandgut</a>
+- Halbpension mit Snacks, mit Brunch gegen 10 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
 - Täglicher Zugang zum Wellness-Bereich des Hotels
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
+- Getränke sind selbst zu bezahlen (ausg. Brunch, dort sind Tee/Kaffee inklusive)
 
 *Gönn dir eine Verschnaufpause in den Bergen.*
 
@@ -160,7 +160,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 ### Organisatorisches
 
 
-- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">Hotel Brandgut</a> befindet sich in Saalbach Hinterglemm und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
+- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">Hotel brandgut</a> befindet sich in Saalbach Hinterglemm und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
 - **Stornobedingungen:** Bei Storno vor dem 21. August 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (21. August 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. Alles Weitere kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahme- und Stornobedingungen</a> entnehmen.
 
@@ -232,19 +232,20 @@ Erfahre mehr über Alex auf
 
 Falls du noch zögerst und dich fragst...
 
-**Q: Ich habe keine Vorerfahrung**
+**Q: Ich habe keine Vorerfahrung.**
 
 A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 4 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit der Malte Marten Method selbstständig weiterzulernen.
 
-**Q: Ich bin nicht musikalisch**
+**Q: Ich bin nicht musikalisch.**
 
 A: Viele Teilnehmer denken, sie seien "nicht musikalisch", bis sie die Handpan ausprobieren. Dieses Instrument ist intuitiv und leicht zugänglich – du brauchst keine Vorkenntnisse oder besonderes Talent. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
 
-**Q: Warum so lange? 4 Tage sind mir zu viel**
+**Q: Warum so lange? 4 Tage sind mir zu viel.**
 
-A: Dieses Programm beinhaltet 2 halbe Tage (An- und Abreise-Tag) und 2 volle Tage (mit je 2 Workshops und freiem Spielen). Es ist genau darauf ausgelegt, dir in einer entspannten malerisch schönen Umgebung all die Basics mitzugeben, damit du danach klar weißt, ob du danach selbst weitermachen möchtest mit dem Handpan spielen. Aber ich verstehe, dass 4 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/handpan.with.lukas" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
+A: Das Retreat ist genau darauf ausgelegt, dir in einer entspannten und malerisch schönen Umgebung die Basics mitzugeben, damit du danach eigenständig weiterlernen kannst. Du wirst an diesen 4 Tagen, mit je einem Workshop pro Tag, reichlich viel Input bekommen, den die meisten Teilnehmer i.d.R. erst über Nacht integrieren. Die Inhalte an 4 aufeinanderfolgenden Tagen zu lernen erlaubt uns tiefer zu gehen und mehr auf die feinen Nuancen einzugehen, um die es beim Handpan spielen geht. Nach diesen Tagen wirst du wissen, ob du mit dem Handpan spielen weitermachen möchtest oder nicht. 
+Aber ich verstehe, dass 4 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/handpan.with.lukas" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
 
-**Q: Ich habe keine eigene Handpan**
+**Q: Ich habe keine eigene Handpan.**
 
 Kein Problem! Für die 4 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-E-Mail.
 
@@ -264,11 +265,11 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 <div class="gallery-box">
   <div class="gallery">  
-    <img src="/images/retreats/brandgut/brandgut-empfang.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-im-winter.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-drone-pool-shot.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-mindfulness-yoga-in-nature.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-mindfulness.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-pool-yoga.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-water-grounding.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-mindfulness-yoga-in-nature.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-schaukel.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-mindfulness-cleansing-water.jpg" loading="lazy">
   </div>
   <em>Fotos <a href="https://www.brandgut.at/" target="_blank">© brandgut resort</a></em>
@@ -286,11 +287,11 @@ Melde dich gerne unverbindlich bei Lukas. Egal ob bei Fragen, falls du noch am a
 
 *Diese 4 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
 
-Es ist eine Auszeit vom Alltag – getragen von Klängen, in Gemeinschaft und umgeben von traumhafter Natur. Finde Antworten auf viele deiner Fragen, lege den Grundstein für deinen Handpan-Weg, bei dem du Handpans unterschiedlicher Hersteller ausprobieren kannst. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
+Es ist eine Auszeit vom Alltag – getragen von Klängen, in Gemeinschaft und umgeben von traumhafter Natur. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
 
-Wir freuen uns auf die Tage mit dir.
+Wir freuen uns auf die Tage mit dir!
 
-## Komm mit!
+## Komm mit 🏔️
 
 <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
