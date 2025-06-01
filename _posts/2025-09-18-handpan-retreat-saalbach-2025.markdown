@@ -129,19 +129,23 @@ Der Preis für das Retreat liegt zwischen 885,- und 1.185 Euro und setzt sich wi
 Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.
 
 
-*Wissenswertes:* 
-- Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
-- Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
+**Wissenswertes:**
+- Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf Kursbeitrag geben.
-
+- Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
 
 **Im Preis beinhaltet:**
 
 - 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">brandgut</a>
 - Halbpension mit Snacks, mit Brunch gegen 10 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
 - Täglicher Zugang zum Wellness-Bereich des Hotels
+- Individuelle 1-zu-1 Betreuung durch Alex und/oder Lukas
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
+
+**Im Preis nicht beinhaltet:**
+
 - Getränke sind selbst zu bezahlen (ausg. Brunch, dort sind Tee/Kaffee inklusive)
+- Deine An- und Abreise
 
 *Gönn dir eine Verschnaufpause in den Bergen.*
 
@@ -160,7 +164,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 ### Organisatorisches
 
 
-- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">Hotel brandgut</a> befindet sich in Saalbach Hinterglemm und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
+- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich in Saalbach Hinterglemm und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
 - **Stornobedingungen:** Bei Storno vor dem 21. August 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (21. August 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. Alles Weitere kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahme- und Stornobedingungen</a> entnehmen.
 
