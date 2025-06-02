@@ -34,7 +34,7 @@ Was dieses Event besonders macht:
     <img src="/images/retreats/brandgut/brandgut-pool-vibes.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-pool-mindfulness.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-restaurant.jpg" loading="lazy">
-    <img src="/images/retreats/brandgut/brandgut-pool-yoga2.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-haengematte.jpg" loading="lazy">
     <img src="/images/retreats/brandgut/brandgut-come-as-you-are.jpg" loading="lazy">
   </div>
   <em>Fotos von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a></em>
@@ -53,9 +53,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/retreats/brandgut/brandgut-haengematte.jpg" loading="lazy">
+    <img src="/images/retreats/brandgut/brandgut-pool-yoga2.jpg" loading="lazy">
   </div>
-  <em>Foto von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a></em>
+  <em>Entspannung + Genuss pur (Foto von <a href="https://www.brandgut.at/" target="_blank">brandgut resort / Ivy Visuals</a>)</em>
 </div>
 
 
@@ -109,10 +109,27 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-Der Preis für das Retreat liegt zwischen 885,- und 1.185 Euro und setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat liegt – je nach Buchungsphase, Zimmerwahl und optionaler Handpanmiete – zwischen 885,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
+- **Grundbetrag** zw. 885 – 965 Euro <br>
+  für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
+  - **Phase 1:** 885 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
+  - <em style="color: grey;">**Phase 2:** 925 Euro (Tickets #4-9)</em>
+  - <em style="color: grey;">**Phase 3:** 965 Euro (Tickets #10-12)</em>
+
+- **Aufpreis, je nach Zimmerkategorie:**
+  - Einzelzimmer standard: **kein Aufpreis** – noch 1 verfügbar
+  - Einzelzimmer neu renoviert: **+10 Euro** / Nacht – noch 1 verfügbar
+  - Doppelzimmer standard: **+20 Euro** / Nacht <br>
+    Bei Doppelbelegung: **+5 Euro** / pro Person / Nacht
+  - Doppelzimmer neu renoviert: **+40 Euro** / Nacht <br>
+    Bei Doppelbelegung: **+20 Euro** / pro Person / Nacht
+
+- optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+
+<!-- 
 1. **Kursbeitrag für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
   - **Phase 1:** 675 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
   - <em style="color: grey;">**Phase 2:** 715 Euro (Tickets #4-9)</em>
@@ -126,7 +143,7 @@ Der Preis für das Retreat liegt zwischen 885,- und 1.185 Euro und setzt sich wi
   
 3. **Optionale Handpan-Leihgebühr:** Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung)
 
-Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.
+Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.-->
 
 
 **Wissenswertes:**
@@ -137,9 +154,9 @@ Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.
 **Im Preis beinhaltet:**
 
 - 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">brandgut</a>
-- Halbpension mit Snacks, mit Brunch gegen 10 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
+- Halbpension mit Brunch gegen 10 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
 - Täglicher Zugang zum Wellness-Bereich des Hotels
-- Individuelle 1-zu-1 Betreuung durch Alex und/oder Lukas
+- Individuelle 1-zu-1 Betreuung durch Alex und Lukas
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
 
 **Im Preis nicht beinhaltet:**
