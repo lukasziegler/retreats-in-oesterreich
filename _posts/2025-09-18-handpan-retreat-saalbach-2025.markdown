@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handpan Beginner Days – September 2025
-description: Komm mit nach Saalbach Hinterglemm und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
+description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
 date: 2025-05-28 02:02:12 +0100
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
@@ -25,7 +25,7 @@ Was dieses Event besonders macht:
 - Du lernst nach der bewährten <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>
 - **Keine Vorkenntnisse notwendig**
 - Handpans von der Marke <a href="https://yataoshop.com/" target="_blank">Yatao</a> oder <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> werden dir auf Wunsch zur Verfügung gestellt
-- 4-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Saalbach <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
+- 4-Tage **Auszeit in den Bergen**, in einer traumhaften Retreat-Location im Glemmtal/Viehhofen - zwischen Zell am See und Saalbach Hinterglemm <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
 
 
 <div class="gallery-box">
@@ -181,7 +181,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 ### Organisatorisches
 
 
-- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich in Saalbach Hinterglemm und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
+- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
 - **Stornobedingungen:** Bei Storno vor dem 21. August 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (21. August 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. Alles Weitere kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahme- und Stornobedingungen</a> entnehmen.
 
@@ -194,7 +194,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 > Zur Anmeldung oder für Fragen
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank">anmeldung@lukasziegler.com</a>)
+- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20September%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
 <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
@@ -314,7 +314,7 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Saalbach%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20September%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 ---
 
