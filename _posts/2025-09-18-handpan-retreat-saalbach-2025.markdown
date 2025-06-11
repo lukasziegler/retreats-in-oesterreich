@@ -148,7 +148,7 @@ Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.-->
 
 **Wissenswertes:**
 - Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
-- Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf Kursbeitrag geben.
+- Falls du arbeitslos bist, können wir dir eine 5% Ermäßigung auf den Kursbeitrag geben.
 - Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
 
 **Im Preis beinhaltet:**
