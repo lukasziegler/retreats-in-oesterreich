@@ -80,9 +80,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 *Sonntag (Abreise)*
 
-- **8:00** Yoga (Meditation, Pranayama, Hatha)
-- **10:00** Brunch 
-- **12:00** Handpan-Abschlussrunde
+- **7:15** Yoga (Meditation, Pranayama, Hatha)
+- **9:00** Brunch 
+- **11:30** Handpan-Abschlussrunde
 - **14:00** Offizielles Ende
 
 ---
