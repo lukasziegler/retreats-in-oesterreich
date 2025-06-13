@@ -12,6 +12,10 @@ tags: [tirol, handpan]
 
 
 ## 30. April - 4. Mai 2025
+
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
+
+
 **5 Tage im wunderschönen Navistal mit Alex & Lukas**
 
 Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das in der traumhaften Kulisse der Tiroler Bergwelt?
@@ -111,6 +115,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ---
 
+<!-- 
 ### Preis
 
 - **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (regulärer Preis von Phase 3)
@@ -120,9 +125,12 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Der Preis von 885 Euro besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
 - Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
-- Auf Nachfrage bieten wir für Leute aus der Umgebung auch die Möglichkeit nur am Tagesprogramm teilzunehmen (10 - 18 Uhr). Bei Interesse gerne melden.
-<!-- - Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). -->
+- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). -->
 
+### Preisgestaltung
+
+- Ab **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete
+- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
 
 **Im Preis beinhaltet:**
 
@@ -132,7 +140,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
 - Und zusätzlich 1x Sauna und 1x Hot Tub am Abend sind dabei
 
-*Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.*
+### Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
 
 ---
 
@@ -140,7 +148,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2024</a>
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2024 – Ashtanga Yoga & Stille</a>
+
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2025 – Handpan Beginner Days</a>
 
 
 ---
@@ -161,7 +171,9 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier unsere neuen Termine 🧘</a>
+
+<!-- <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>--> 
 
 ---
 
@@ -267,9 +279,15 @@ Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemei
 
 Wir freuen uns auf die Tage mit dir.
 
+<!--
 ## Komm mit!
 
 <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+-->
+
+## Termin verpasst? 
+<a href="https://retreats-in-oesterreich.at/handpan-retreat-saalbach-2025" class="button button--primary subscribe-button js-sign-up">Im September 2025 findet die Wiederholung statt 🧘</a>
+
 
 ---
 

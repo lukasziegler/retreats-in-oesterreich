@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – September 2025
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-05-28 02:02:12 +0100
+date: 2025-06-11 02:02:12 +0100
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
 tags: [salzburg, handpan]
@@ -119,7 +119,7 @@ Der Gesamtpreis für das Retreat liegt – je nach Buchungsphase, Zimmerwahl und
   - <em style="color: grey;">**Phase 2:** 925 Euro (Tickets #4-9)</em>
   - <em style="color: grey;">**Phase 3:** 965 Euro (Tickets #10-12)</em>
 
-- **Aufpreis, je nach Zimmerkategorie:**
+- **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - Einzelzimmer standard: **kein Aufpreis** – noch 1 verfügbar
   - Einzelzimmer neu renoviert: **+10 Euro** / Nacht – noch 1 verfügbar
   - Doppelzimmer standard: **+20 Euro** / Nacht <br>
@@ -127,34 +127,18 @@ Der Gesamtpreis für das Retreat liegt – je nach Buchungsphase, Zimmerwahl und
   - Doppelzimmer neu renoviert: **+40 Euro** / Nacht <br>
     Bei Doppelbelegung: **+20 Euro** / pro Person / Nacht
 
-- optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
-
-<!-- 
-1. **Kursbeitrag für Retreat:** <br> für Kursinhalte/Kursleiter, Organisation, Snacks und Materialien:
-  - **Phase 1:** 675 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
-  - <em style="color: grey;">**Phase 2:** 715 Euro (Tickets #4-9)</em>
-  - <em style="color: grey;">**Phase 3:** 755 Euro (Tickets #10-12)</em>
-
-2. **Übernachtungspreis:** – für 3 Nächte
-  - Einzelzimmer alt/klassisch: **70 Euro / Nacht** – nur 1 verfügbar
-  - Einzelzimmer neu renoviert: **80 Euro / Nacht** – nur 1 verfügbar
-  - Doppelzimmer alt/klassisch: **90 Euro / Nacht** bei Einzelbelegung - bei Doppelbelegung: 150,- / Nacht (= 75€ pP)
-  - Doppelzimmer neu renoviert: **110 Euro / Nacht** bei Einzelbelegung - bei Doppelbelegung: 180,- / Nacht (= 90€ pP)
-  
-3. **Optionale Handpan-Leihgebühr:** Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung)
-
-Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.-->
-
+- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 **Wissenswertes:**
-- Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt an die Unterkunft gezahlt.
+- Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.
+- Vor Ort wird noch die gesetzliche Ortstaxe für die Nächte im Hotel fällig. Diese zahlst du ganz unkompliziert bei der Anreise direkt an die Unterkunft.
 - Falls du arbeitslos bist, können wir dir eine 5% Ermäßigung auf den Kursbeitrag geben.
 - Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
 
 **Im Preis beinhaltet:**
 
 - 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">brandgut</a>
-- Halbpension mit Brunch gegen 10 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
+- Halbpension mit Brunch um 9 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
 - Täglicher Zugang zum Wellness-Bereich des Hotels
 - Individuelle 1-zu-1 Betreuung durch Alex und Lukas
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
@@ -162,6 +146,7 @@ Du liegst mit deiner Retreat-Teilnahme somit zwischen 885,- bis 1.185 Euro.-->
 **Im Preis nicht beinhaltet:**
 
 - Getränke sind selbst zu bezahlen (ausg. Brunch, dort sind Tee/Kaffee inklusive)
+- Die <a href="https://www.viehhofen.at/de/unterkuenfte/ortstaxe-vertraege#:~:text=Ab%2001.%20Mai%202025%20wird%20diese%20auf%20%E2%82%AC%202%2C20%20pro%20Person" target="_blank">Ortstaxe</a> (Tourismusabgabe) wird bei deiner Ankunft im Hotel bezahlt
 - Deine An- und Abreise
 
 *Gönn dir eine Verschnaufpause in den Bergen.*
