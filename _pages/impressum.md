@@ -11,8 +11,6 @@ permalink: /impressum/
 
 **Anschrift:** Schöndorferplatz 8 / 13, 5400 Hallein
 
-**UID-Nr:** ATU81445303
-
 **Gewerbeaufsichtbehörde:** Bezirkshauptmannschaft Hallein
 
 Kontaktdaten: impressum at lukasziegler.com
