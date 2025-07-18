@@ -214,7 +214,7 @@ Wir integrieren in den Stunden gezielte Atemtechniken, Mobilisationsübungen und
 
 
 Erfahre mehr über Alex auf
-<a href="https://www.instagram.com/alexpi.chler/" target="_blank">Instagram</a>.
+<a href="https://www.instagram.com/yogamitalex.pi/" target="_blank">Instagram</a>.
 
 ---
 
