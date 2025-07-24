@@ -115,13 +115,12 @@ Der Gesamtpreis für das Retreat liegt – je nach Buchungsphase, Zimmerwahl und
 
 - **Grundbetrag** zw. 885 – 965 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Phase 1:** 885 Euro (Tickets #1-3) = Early Bird = aktuelle Phase
+  - **Phase 1:** 885 Euro (Tickets #1-3) = Early Bird = noch 1 Ticket in Phase 1 verfügbar
   - <em style="color: grey;">**Phase 2:** 925 Euro (Tickets #4-9)</em>
   - <em style="color: grey;">**Phase 3:** 965 Euro (Tickets #10-12)</em>
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
-<!--  - <span style="text-decoration: line-through;">Einzelzimmer standard: kein Aufpreis</span> – **bereits vergeben** -->
-  - Einzelzimmer standard: **kein Aufpreis** – noch 1 verfügbar
+  - <span style="text-decoration: line-through;">Einzelzimmer standard: kein Aufpreis</span> – **bereits vergeben**
   - Einzelzimmer neu renoviert: **+10 Euro** / Nacht – noch 1 verfügbar
   - Doppelzimmer standard: **+20 Euro** / Nacht <br>
     Bei Doppelbelegung: **+5 Euro** / pro Person / Nacht
