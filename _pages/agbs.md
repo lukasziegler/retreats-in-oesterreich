@@ -38,7 +38,7 @@ Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwende
 1. **Was passiert bei Krankheit des Veranstalters?**
 Im Falle einer Erkrankung des Veranstalters wird ein Ersatztermin angeboten und das Retreat zu diesem Datum nachgeholt. Bereits geleistete Zahlungen bleiben bestehen und werden auf den Ersatztermin angerechnet.
 
-2. **Mindestteilnehmerzahl:** Für jedes Retreat ist eine Mindestteilnehmerzahl definiert (einsehbar auf der Ausschreibung des Retreats). Wird diese Zahl nicht erreicht, behalten sich die Veranstalter vor, das Retreat rechtzeitig abzusagen. In diesem Fall werden bereits geleistete Zahlungen vollständig zurückerstattet.
+2. **Mindestteilnehmerzahl:** Für jedes Retreat ist eine Mindestteilnehmerzahl angegeben (einsehbar auf der Ausschreibung des Retreats). Wird diese Zahl nicht erreicht, behalten sich die Veranstalter vor, das Retreat rechtzeitig abzusagen. In diesem Fall werden bereits geleistete Zahlungen vollständig zurückerstattet.
 
 3. **Gesetzliches Widerrufsrecht:**
 Verbraucher haben grundsätzlich ein 14-tägiges Widerrufsrecht. Bei Retreats mit festem Termin erlischt dieses jedoch, da es sich um eine Freizeitveranstaltung gemäß § 18 Abs. 1 Z 10 FAGG handelt. Deine Buchung ist daher verbindlich, eine Stornierung ist nur unter den angegebenen Stornobedingungen möglich.
