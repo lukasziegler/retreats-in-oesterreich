@@ -170,7 +170,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 - **Stornobedingungen:** Bei Storno vor dem 21. August 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (21. August 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. Alles Weitere kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahme- und Stornobedingungen</a> entnehmen.
 
-- **Mindestteilnehmerzahl:** 6 Personen. Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat rechtzeitig abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+- **Mindestteilnehmerzahl:** 6 Personen. Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat rechtzeitig (min. 21 Tage vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
 
 ---
