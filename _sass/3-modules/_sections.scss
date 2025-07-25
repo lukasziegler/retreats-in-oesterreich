@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Sections */
 .section__head {
   padding-top: 32px;
@@ -18,7 +21,7 @@
     color: var(--text-alt-color);
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     .section__title {
       font-size: 32px;
     }
@@ -29,7 +32,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .section__description {
       margin-top: 12px;
       font-size: 20px;
@@ -69,7 +72,7 @@
     i {
       margin-left: 8px;
       font-size: 28px;
-      transition: $global-transition;
+      transition: variables.$global-transition;
     }
   }
 }

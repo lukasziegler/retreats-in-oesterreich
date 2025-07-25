@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Search */
 .search {
   position: fixed;
@@ -25,11 +28,11 @@
   transition: all .25s ease;
   will-change: transform;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 80px auto 0;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     padding: 20px;
   }
 }
@@ -94,7 +97,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .search__text {
       font-size: 32px;
     }
@@ -148,13 +151,13 @@
   }
 
   .search-results__title {
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.3;
     text-decoration: underline;
     text-decoration-color: transparent;
-    transition: $global-transition;
+    transition: variables.$global-transition;
 
     &:hover{
       text-decoration-color: var(--heading-font-color);
@@ -173,7 +176,7 @@
 .search-suggestion {
   margin-top: 80px;
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     margin-top: 60px;
   }
 }
@@ -260,7 +263,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .search-recent__item {
       justify-content: flex-start;
       width: 100%;

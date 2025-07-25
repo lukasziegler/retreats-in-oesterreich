@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Subscribe */
 .subscribe {
   position: relative;
@@ -82,7 +84,7 @@
     background-size: cover;
     // background-position: center; // ADJUSTMENTS (LZ FIX)
     background-position: center 88%;
-    @media (max-width: $mobile) {
+    @media (max-width: grid.$mobile) {
       background-position: center 88%;
     }
 
@@ -97,7 +99,7 @@
     }
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     padding: 96px 60px;
 
     .subscribe__content {
@@ -117,7 +119,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
 
     .subscribe__inner {
       flex-direction: column;
@@ -138,11 +140,11 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     padding: 60px 60px 120px 60px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     padding: 40px 32px 80px 32px;
 
     .subscribe__content {

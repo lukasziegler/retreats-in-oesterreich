@@ -1,8 +1,10 @@
+@use "../1-tools/grid";
+
 /* Gallery */
 .gallery-box {
   margin: 32px -100px 32px -100px;
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     margin: 32px 0;
   }
 }
@@ -21,7 +23,7 @@
     width: calc(100% - 24px);
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     margin-left: -12px;
     margin-bottom: -12px;
 

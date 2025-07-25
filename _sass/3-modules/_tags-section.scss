@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Section Tags */
 .section-tags {
   margin-top: 96px;
@@ -17,11 +19,11 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-top: 80px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .row .article:last-child {
       margin-bottom: 0;
     }

@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Tags */
 .tags__inner {
 
@@ -43,13 +45,13 @@
     font-weight: 700;
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .article:last-child {
       margin-bottom: 0;
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .tag__name {
       font-size: 32px;
     }

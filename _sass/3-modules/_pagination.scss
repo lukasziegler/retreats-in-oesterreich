@@ -1,10 +1,12 @@
+@use "../1-tools/grid";
+
 /* Pagination */
 .pagination {
   margin-top: 16px;
   margin-bottom: 96px;
   text-align: center;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-bottom: 80px;
   }
 }

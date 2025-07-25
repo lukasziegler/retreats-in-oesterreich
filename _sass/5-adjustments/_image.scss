@@ -1,10 +1,12 @@
+@use "../1-tools/grid";
+
 /* Image */
 .inline-image--float-left {
     margin: 0 20px 10px 0;
     width: 250px;
     float: left; 
   
-    @media (max-width: $mobile) {
+    @media (max-width: grid.$mobile) {
         width: 180px;
     }
 }
@@ -14,7 +16,7 @@
     width: 250px;
     float: right; 
   
-    @media (max-width: $mobile) {
+    @media (max-width: grid.$mobile) {
         width: 180px;
     }
   }

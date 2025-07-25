@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Header */
 .header {
 
@@ -34,7 +37,7 @@
       }
     }
 
-    @media (max-width: $desktop) {
+    @media (max-width: grid.$desktop) {
       .nav__list {
         .nav__link {
           text-underline-offset: 3px;
@@ -57,16 +60,16 @@
     display: flex;
     align-items: baseline;
     flex-wrap: wrap;
-    padding: 40px $base-spacing-unit;
+    padding: 40px variables.$base-spacing-unit;
     line-height: 1;
   
-    @media (max-width: $desktop) {
-      padding: 40px $base-spacing-unit;
+    @media (max-width: grid.$desktop) {
+      padding: 40px variables.$base-spacing-unit;
       align-items: center;
     }
 
-    @media (max-width: $mobile) {
-      padding: 32px $base-spacing-unit;
+    @media (max-width: grid.$mobile) {
+      padding: 32px variables.$base-spacing-unit;
     }
   }
 
@@ -93,9 +96,9 @@
 /* Logo */
 .logo__link {
   padding: 4px 0;
-  font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
   font-size: 32px;
-  letter-spacing: $heading-letter-spacing;
+  letter-spacing: variables.$heading-letter-spacing;
   line-height: 1;
   font-weight: 800;
   transition: color .2s ease;
@@ -111,10 +114,10 @@
   align-items: center;
   margin-left: auto;
 
-  @media (max-width: $menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
+  @media (max-width: grid.$menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
     position: absolute;
     top: 80px;
-    right: $base-spacing-unit;
+    right: variables.$base-spacing-unit;
     z-index: -1;
     display: block;
     min-width: 150px;
@@ -185,7 +188,7 @@
   align-items: center;
   margin-left: auto;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     display: block;
   }
 }
@@ -311,7 +314,7 @@
       background-color: var(--background-alt-color);
     }
 
-    @media (max-width: $desktop) {
+    @media (max-width: grid.$desktop) {
       background-color: var(--background-alt-color);
     }
   }
@@ -325,7 +328,7 @@
   margin-left: auto;
   cursor: pointer;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     display: flex;
     align-items: center;
   }
@@ -375,7 +378,7 @@
   color: var(--link-color);
   cursor: pointer;
 
-  @media (max-width: $menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
+  @media (max-width: grid.$menuBreakpoint) { // MANUAL ADJUSTMENT (LZ)
     display: flex;
     justify-content: end;
     margin-top: 4px;
