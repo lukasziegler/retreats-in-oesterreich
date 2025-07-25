@@ -26,8 +26,11 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 To get this project up and running on GitHub Codespances online, run the following commands
 
 ```
-rvm install "ruby-3.0.5"
-gem install bundler jekyll
+[optional]
+rvm install "ruby-3.4.1"
+
+[execute on Codespace Terminal]
+gem install bundler jekyll --user-install
 bundle update
 bundle exec jekyll serve
 ```
