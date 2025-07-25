@@ -1,6 +1,3 @@
-@use "../0-settings/variables";
-@use "../1-tools/grid";
-
 // variables for DRY code
 $primary-color: black;
 $secondary-color: white;
@@ -11,7 +8,7 @@ $margin-mobile: 32px;
 
 $border-radius: 40px;
 $font-size-desktop: 32px;
-$font-size-mobile: variables.$font-size-h2;
+$font-size-mobile: $font-size-h2;
 $font-size-button: 1.1rem;
 $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
 
@@ -91,7 +88,7 @@ $box-shadow: 0px 4px 10px rgba(63, 63, 68, 0.4);
     margin-bottom: 1rem;
   }
 
-  @media (min-width: grid.$tablet) {
+  @media (min-width: $tablet) {
     padding: $padding-desktop;
     top: 75%;
     left: 50%;

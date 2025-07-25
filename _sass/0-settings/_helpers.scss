@@ -1,16 +1,14 @@
-@use "mixins";
-
 // Lists Reset
 .list-reset {
-  @include mixins.list-reset();
+  @include list-reset();
 }
 
 // Clearfix
 .clearfix {
-  @include mixins.clearfix();
+  @include clearfix();
 }
 
 // Screen Reader
 .screen-reader-text {
-  @include mixins.screen-reader();
+  @include screen-reader();
 }

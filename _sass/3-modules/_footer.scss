@@ -1,12 +1,10 @@
-@use "../1-tools/grid";
-
 /* Footer */
 .footer {
   margin-top: 64px;
   color: var(--white);
   background-color: var(--dark);
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-top: 80px;
   }
 }
@@ -22,7 +20,7 @@
     }
   }
 
-   @media (max-width: grid.$mobile) {
+   @media (max-width: $mobile) {
      padding: 60px 0;
    }
 }
@@ -35,7 +33,7 @@
     color: var(--white);
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     &.widget-author {
       margin-bottom: 60px;
     
@@ -49,7 +47,7 @@
     }
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 60px;
   }
 }
@@ -179,11 +177,11 @@
     }
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     text-align: left;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     padding: 32px 0;
   }
 }

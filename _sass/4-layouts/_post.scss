@@ -1,5 +1,3 @@
-@use "../1-tools/grid";
-
 /* Post + Page */
 .post-head {
   margin-top: 20px;
@@ -17,11 +15,11 @@
     }
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     margin-bottom: 40px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 32px;
   }
 }
@@ -30,7 +28,7 @@
   max-width: 740px;
   margin: 20px auto 40px;
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 32px;
   }
 }
@@ -41,12 +39,12 @@
     margin: 0 auto 40px;
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     max-width: 740px;
     margin: 0 auto 40px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin: 0 auto 32px;
   }
 }
@@ -54,7 +52,7 @@
 .page__info {
   margin-bottom: 40px;
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 32px;
   }
 }
@@ -88,7 +86,7 @@
     }
   }
 
-  @media (max-width: grid.$tablet) {
+  @media (max-width: $tablet) {
     margin-bottom: 12px;
 
     .post__tag {
@@ -103,12 +101,12 @@
   font-size: 52px;
   line-height: 1.4;
 
-  @media (max-width: grid.$tablet) {
+  @media (max-width: $tablet) {
     margin-bottom: 24px;
     font-size: 40px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     font-size: 32px;
   }
 }
@@ -119,12 +117,12 @@
   font-size: 24px;
   line-height: 1.4;
 
-  @media (max-width: grid.$tablet) {
+  @media (max-width: $tablet) {
     margin-bottom: 18px;
     font-size: 22px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     font-size: 18px;
   }
 }
@@ -214,7 +212,7 @@
     user-select: none;
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     aspect-ratio: 3/2;
 
     @supports not (aspect-ratio: 3/2) {
@@ -246,7 +244,7 @@
     }
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     max-width: 740px;
     margin: 12px auto 0;
   }
@@ -352,7 +350,7 @@
     }
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     margin-top: 0;
 
     .share__list {
@@ -469,7 +467,7 @@
     margin-left: auto;
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     margin-top: 80px;
 
     .post__prev,
@@ -495,7 +493,7 @@
 
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     flex-wrap: wrap;
 
     .post__prev,
@@ -526,11 +524,11 @@
     text-transform: capitalize;
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     margin-top: 80px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     .row .col:last-child {
       margin-bottom: 0;
     }
@@ -556,7 +554,7 @@
     margin-bottom: 0;
   }
   
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     .error__title {
       font-size: 80px;
     }
@@ -576,11 +574,11 @@
     line-height: 1.4;
   }
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     margin-top: 80px;
   }
 
-  @media (max-width: grid.$mobile) {
+  @media (max-width: $mobile) {
     .row .col:last-child {
       margin-bottom: 0;
     }

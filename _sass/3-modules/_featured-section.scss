@@ -1,10 +1,8 @@
-@use "../1-tools/grid";
-
 /* Featured Section */
 .featured-section {
   margin-bottom: 226px;
 
-  @media (max-width: grid.$desktop) {
+  @media (max-width: $desktop) {
     margin-bottom: 210px;
   }
 }
@@ -34,7 +32,7 @@
   font-weight: normal;
   color: inherit;
 
-  @media (max-width: grid.$tablet) {
+  @media (max-width: $tablet) {
     font-size: 20px;
   }
 }
