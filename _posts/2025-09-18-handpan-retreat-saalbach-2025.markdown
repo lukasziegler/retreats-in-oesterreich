@@ -180,9 +180,9 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 > Zur Anmeldung oder für Fragen
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-Email%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20und%20ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20m%C3%B6chtest%20du%20buchen%3F" target="_blank">anmeldung@lukasziegler.com</a>)
+- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-Email%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20und%20ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20m%C3%B6chtest%20du%20buchen%3F" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 <div class="gallery-box">
   <div class="gallery">
@@ -307,7 +307,7 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-Email%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20und%20ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20m%C3%B6chtest%20du%20buchen%3F" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 ---
 
