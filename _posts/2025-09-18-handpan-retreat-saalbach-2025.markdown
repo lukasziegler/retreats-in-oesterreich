@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – September 2025
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-07-25 02:02:12 +0100
+date: 2025-07-28 02:02:12 +0100
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
 tags: [salzburg, handpan]
@@ -109,19 +109,20 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-Der Gesamtpreis für das Retreat liegt – je nach Buchungsphase, Zimmerwahl und optionaler Handpanmiete – zwischen 885,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
+
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 27. Juli)_ liegt zwischen 940,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
 - **Grundbetrag** zw. 885 – 965 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Phase 1:** 885 Euro (Tickets #1-3) = Early Bird = noch 1 Ticket in Phase 1 verfügbar
-  - <em style="color: grey;">**Phase 2:** 925 Euro (Tickets #4-7)</em>
+  - <em style="color: grey;">**Phase 1:** 885 Euro (Tickets #1-3) = Early Bird-Phase ausverkauft</em>
+  - **Phase 2:** 925 Euro (Tickets #4-7) = **aktuelle Phase**
   - <em style="color: grey;">**Phase 3:** 965 Euro (Tickets #8-10)</em>
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - <span style="text-decoration: line-through;">Einzelzimmer standard: kein Aufpreis</span> – **bereits vergeben**
-  - Einzelzimmer neu renoviert: **+10 Euro** / Nacht – noch 1 verfügbar
+  - <span style="text-decoration: line-through;">Einzelzimmer neu renoviert: +10 Euro / Nacht</span> – **bereits vergeben**
   - Doppelzimmer standard: **+20 Euro** / Nacht <br>
     Bei Doppelbelegung: **+5 Euro** / pro Person / Nacht
   - Doppelzimmer neu renoviert: **+40 Euro** / Nacht <br>
