@@ -87,15 +87,17 @@
 
 .article__content {
   will-change: transform;
-  padding: 36px 28px 28px 28px;
+  padding: 28px 28px 20px 28px;
   background-color: var(--background-color);
 }
 
 .article__meta {
+  display: none;
+/*
   position: absolute;
   z-index: 1;
   left: 28px;
-  bottom: -24px;
+  bottom: -24px;*/
 
   .article__author__image {
     position: relative;
