@@ -27,12 +27,14 @@ To get this project up and running on GitHub Codespances online, run the followi
 
 ```
 [to build on Codespace Terminal]
+
 rvm use 3.3.6
 gem install bundler jekyll --user-install
 bundle update
 bundle exec jekyll serve
 
 [optional]
+
 rvm list
 rvm install 3.0.5
 rvm use 3.0.5

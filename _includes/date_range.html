@@ -1,0 +1,68 @@
+{% comment %}
+  Zeigt eine Datumsspanne, z.B.:
+  - "April 2025" oder "April/Mai 2025" bei show_days = true
+  - "28. April – 4. Mai 2025" oder "28.–30. April 2025" sonst
+
+  Erwartet Parameter:
+  - start_date (YYYY-MM-DD)
+  - end_date   (YYYY-MM-DD)
+  - show_days (if:true, dann werden auch die Tage angezeigt, sonst nur Monate)
+{% endcomment %}
+
+{% if include.start_date and include.end_date %}
+  {% assign months = "01:Jänner,02:Februar,03:März,04:April,05:Mai,06:Juni,07:Juli,08:August,09:September,10:Oktober,11:November,12:Dezember" | split: "," %}
+  {% assign month_map = {} %}
+  {% for pair in months %}
+    {% assign p = pair | split: ":" %}
+    {% assign month_map = month_map | merge: { p[0]: p[1] } %}
+  {% endfor %}
+
+  {% assign sd_day = include.start_date | date: "%-d" %}
+  {% assign sd_month = include.start_date | date: "%m" %}
+  {% assign sd_year = include.start_date | date: "%Y" %}
+  {% assign ed_day = include.end_date | date: "%-d" %}
+  {% assign ed_month = include.end_date | date: "%m" %}
+  {% assign ed_year = include.end_date | date: "%Y" %}
+
+  {% capture sd_month_name %}
+    {% for pair in months %}
+      {% assign p = pair | split: ":" %}
+      {% if p[0] == sd_month %}
+        {{ p[1] }}
+      {% endif %}
+    {% endfor %}
+  {% endcapture %}
+  {% assign sd_month_name = sd_month_name | strip %}
+
+  {% capture ed_month_name %}
+    {% for pair in months %}
+      {% assign p = pair | split: ":" %}
+      {% if p[0] == ed_month %}
+        {{ p[1] }}
+      {% endif %}
+    {% endfor %}
+  {% endcapture %}
+  {% assign ed_month_name = ed_month_name | strip %}
+
+  {% if include.show_days == true %}
+
+    {% if sd_year == ed_year %}
+      {% if sd_month == ed_month %}
+        <time datetime="{{ include.start_date }}">{{ sd_day }}.</time> – <time datetime="{{ include.end_date }}">{{ ed_day }}. {{ sd_month_name }} {{ sd_year }}</time>
+      {% else %}
+        <time datetime="{{ include.start_date }}">{{ sd_day }}. {{ sd_month_name }}</time> – <time datetime="{{ include.end_date }}">{{ ed_day }}. {{ ed_month_name }} {{ sd_year }}</time>
+      {% endif %}
+    {% else %}
+      <time datetime="{{ include.start_date }}">{{ sd_day }}. {{ sd_month_name }} {{ sd_year }}</time> – <time datetime="{{ include.end_date }}">{{ ed_day }}. {{ ed_month_name }} {{ ed_year }}</time>
+    {% endif %}
+
+  {% else %}
+
+    {% if sd_month == ed_month and sd_year == ed_year %}
+      <time datetime="{{ include.start_date }}">{{ sd_month_name }} {{ sd_year }}</time>
+    {% else %}
+      <time datetime="{{ include.start_date }}">{{ sd_month_name }}</time>/<time datetime="{{ include.end_date }}">{{ ed_month_name }} {{ sd_year }}</time>
+    {% endif %}
+
+  {% endif %}
+{% endif %}

@@ -180,6 +180,15 @@
   }
 }
 
+.article__date-range {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-second-color);
+  color: var(--text-color);
+  margin-top: 12px;
+  display: inline-block;
+}
+
 .article__excerpt {
   display: -webkit-box;
   margin-bottom: 0;
