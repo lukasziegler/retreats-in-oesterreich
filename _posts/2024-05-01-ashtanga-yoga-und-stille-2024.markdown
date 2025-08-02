@@ -5,7 +5,7 @@ description: Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abg
 date: 2024-02-02 12:12:12 +0300
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
-tags: [tirol, yoga]
+tags: [yoga, tirol]
 ---
 
 ## 1. - 5. Mai 2024

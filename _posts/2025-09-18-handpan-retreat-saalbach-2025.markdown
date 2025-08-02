@@ -5,7 +5,7 @@ description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spiele
 date: 2025-07-28 02:02:12 +0100
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
-tags: [salzburg, handpan]
+tags: [handpan, yoga, salzburg]
 featured: true
 ---
 

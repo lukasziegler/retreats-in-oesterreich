@@ -5,7 +5,7 @@ description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen di
 date: 2024-04-24 02:02:12 +0100
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
-tags: [tirol, handpan]
+tags: [handpan, yoga, tirol]
 #featured: true
 ---
 
