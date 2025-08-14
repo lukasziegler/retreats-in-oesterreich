@@ -112,7 +112,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 27. Juli)_ liegt zwischen 940,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 4. August)_ liegt der Gesamtpreis zwischen 955,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
@@ -124,7 +124,7 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - <span style="text-decoration: line-through;">Einzelzimmer standard: kein Aufpreis</span> – **bereits vergeben**
-  - <span style="text-decoration: line-through;">Einzelzimmer neu renoviert: +10 Euro / Nacht</span> – **bereits vergeben**
+  - Einzelzimmer neu renoviert: **+10 Euro / Nacht** – *wieder verfügbar*
   - Doppelzimmer standard: **+20 Euro** / Nacht <br>
     Bei Doppelbelegung: **+5 Euro** / pro Person / Nacht
   - Doppelzimmer neu renoviert: **+40 Euro** / Nacht <br>
