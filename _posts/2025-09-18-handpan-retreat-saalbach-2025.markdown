@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – September 2025
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-08-14 02:02:12 +0100
+date: 2025-08-19 02:02:12 +0100
 start_date: 2025-09-18
 end_date: 2025-09-21
 author: lukas
@@ -116,19 +116,19 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
-- **Grundbetrag** zw. 885 – 965 Euro <br>
+- **Grundbetrag** zw. 885 – 925 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - <em style="color: grey;">**Phase 1:** 885 Euro (Tickets #1-3) = Early Bird-Phase ausverkauft</em>
-  - **Phase 2:** 925 Euro (Tickets #4-7) = **aktuelle Phase**
-  - <em style="color: grey;">**Phase 3:** 965 Euro (Tickets #8-10)</em>
+  - **Early Bird:** <em style="text-decoration: line-through;"> 885 Euro (Tickets #1-3)</em> = ausverkauft
+  - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
-  - <span style="text-decoration: line-through;">Einzelzimmer standard: kein Aufpreis</span> – **bereits vergeben**
-  - Einzelzimmer neu renoviert: **+10 Euro / Nacht** – *wieder verfügbar*
-  - Doppelzimmer standard: **+20 Euro** / Nacht <br>
-    Bei Doppelbelegung: **+5 Euro** / pro Person / Nacht
-  - Doppelzimmer neu renoviert: **+40 Euro** / Nacht <br>
-    Bei Doppelbelegung: **+20 Euro** / pro Person / Nacht
+  - <span style="text-decoration: line-through;">Einzelzimmer alt: kein Aufpreis</span> – **bereits vergeben**
+  - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 3x verfügbar*
+  - Einzelzimmer "neu renoviert": **+20 Euro / Nacht**
+  - Doppelzimmer "standard": **+5 Euro** / pro Person / Nacht<br>
+    bzw. bei Einzelbelegung: **+20 Euro** / Nacht
+  - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
+    bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
 
 - Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
