@@ -16,6 +16,8 @@ featured: true
 ## 18. - 21. September 2025
 **4 Tage in den wunderschönen Salzburger Bergen mit Alex & Lukas**
 
+**💸 Neu: "Bring a Friend" – und spart gemeinsam 💸** – <a href="#bring-a-friend">siehe Details</a>
+
 Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das kombiniert mit Yoga, Wellness und in der traumhaften Kulisse der Salzburger Bergwelt?
 
 Und falls du dich schon lange fragst, wie du deine ersten Schritte gehen kannst, ohne gleich 1.000 - 3.000 € für dein erstes Instrument zu investieren? Dann bist du nicht alleine und hier genau richtig!
@@ -112,13 +114,13 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 4. August)_ liegt der Gesamtpreis zwischen 955,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 19. August)_ liegt der Gesamtpreis zwischen 955,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
 - **Grundbetrag** zw. 885 – 925 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** <em style="text-decoration: line-through;"> 885 Euro (Tickets #1-3)</em> = ausverkauft
+  - **Early Bird:** <em style="text-decoration: line-through;"> 885 Euro (Tickets #1-3)</em> – bereits ausverkauft
   - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
@@ -131,6 +133,11 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
     bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
 
 - Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+
+<strong id="bring-a-friend">NEU: "Bring a Friend" – und spart gemeinsam 💸</strong>
+
+- Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Preisnachlass**. 
+- Wenn du bereits gebucht hast, bekommst du bei erfolgreicher Weiterempfehlung den Rabatt gutgeschrieben.
 
 **Wissenswertes:**
 - Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.
