@@ -125,7 +125,7 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - <span style="text-decoration: line-through;">Einzelzimmer alt: kein Aufpreis</span> – **bereits vergeben**
-  - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 3x verfügbar*
+  - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 1x verfügbar*
   - Einzelzimmer "neu renoviert": **+20 Euro / Nacht**
   - Doppelzimmer "standard": **+5 Euro** / pro Person / Nacht<br>
     bzw. bei Einzelbelegung: **+20 Euro** / Nacht
