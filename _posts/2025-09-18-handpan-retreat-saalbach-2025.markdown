@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days – September 2025
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-08-19 02:02:12 +0100
+date: 2025-08-20 02:02:12 +0100
 start_date: 2025-09-18
 end_date: 2025-09-21
 author: lukas
@@ -114,7 +114,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 19. August)_ liegt der Gesamtpreis zwischen 955,- und 1.185 Euro. Der Preis setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 20. August)_ liegt der Gesamtpreis zwischen 955,- und 1.145 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
