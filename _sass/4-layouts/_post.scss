@@ -316,6 +316,15 @@
   }
 }
 
+/* Post External Link (fallback) */
+
+.post__external-link {
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  gap: 12px;
+}
+
 /* Post Share */
 .post__share {
   margin-top: 60px;
