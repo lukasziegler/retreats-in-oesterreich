@@ -2,12 +2,16 @@
 layout: post
 title: THE GOOD CAMP® Reconnect
 description: Dieses 3-Tages-Retreat ist genau darauf ausgelegt, die gelungene Balance aus Entspannung und Anspannung (Input, Austausch und Bewegung) zu haben. Du wirst von vier Coaches durch das Wochenende begleitet und es besteht genügend Raum, um auf jeden Einzelnen individuell einzugehen.
-date: 2021-08-11 13:13:13 +0300
+date: 2025-08-11 13:13:13 +0300
+start_date: 2025-10-10
+end_date: 2025-10-12
 author: the-good-camp
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
 image_caption: 'Fotos von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
 tags: [tirol, mindset]
 ---
+
+## 10.-12. Oktober 2025
 
 Die Intention des THE GOOD CAMP® RECONNECT ist es, dir auch nach unseren gemeinsamen Tagen in den Bergen, Tools an die Hand zu geben, die du im Alltag nutzen kannst. Neben einfachen Routinen die glücklich machen, Bewegungsmustern die dein ganzes System positiv beeinflussen, geht es darum dich wieder mit dir selbst (auf allen Ebenen) zu verbinden. 
 

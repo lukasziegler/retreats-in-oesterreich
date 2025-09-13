@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Handpan Beginner Days – Mai 2025 (Tirol)
+title: Handpan Beginner Days (Tirol)
 description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
 date: 2024-04-24 02:02:12 +0100
+start_date: 2025-04-30
+end_date: 2025-05-04
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [handpan, yoga, tirol]

@@ -91,6 +91,10 @@
   background-color: var(--background-color);
 }
 
+.article__meta {
+  display: none;
+}
+
 .article-tags__box {
   display: flex;
   flex-wrap: wrap;
@@ -121,7 +125,7 @@
 }
 
 .article__title {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   font-size: 22px;
   line-height: 32px;
 
@@ -143,13 +147,12 @@
   font-weight: 600;
   color: var(--text-second-color);
   color: var(--text-color);
-  margin-top: 12px;
   display: inline-block;
 }
 
 .article__excerpt {
   display: -webkit-box;
-  margin-bottom: 0;
+  margin-bottom: 12px;
   font-size: 16px;
   line-height: 1.5;
   overflow-y: hidden;

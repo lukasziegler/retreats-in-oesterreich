@@ -3,6 +3,8 @@ layout: post
 title: Ashtanga Yoga & Stille 2024
 description: Tauche ein in die ganzheitliche Ashtanga Praxis. Durch die fein abgestimmte Praxis aus Meditation, Yoga und genügend Zeit für dich, widmen wir uns unserem Inneren.  Aufatmen und einfach zu sein. Erlebe die heilende Wirkung von Kräftigung und Entspannung in der Natur und der Gemeinschaft. 
 date: 2024-02-02 12:12:12 +0300
+start_date: 2024-05-01
+end_date: 2024-05-05
 author: lukas
 image: '/images/retreats/hubird-navis/hubird-6--manuelaclemens.de.jpg'
 tags: [yoga, tirol]

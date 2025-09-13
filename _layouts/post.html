@@ -124,6 +124,16 @@ layout: default
       </a>
       <div class="prev__box">
         <span class="post__nav post__nav__prev">Vorhergehendes Retreat</span>
+        
+        {% if post.start_date and post.end_date %}
+        <span class="post__nav__date-range"></span>
+          {% include date_range.html
+            start_date = post.start_date
+            end_date = post.end_date
+          %}
+        </span>
+        {% endif %}
+        
         <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
         <p class="post__nav__excerpt">
           {% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
