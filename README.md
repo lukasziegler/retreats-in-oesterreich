@@ -23,7 +23,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ### GitHub Codespaces
 
-To get this project up and running on GitHub Codespances online, run the following commands
+To get this project up and running on GitHub Codespances, use the following commands:
 
 ```
 [to build on Codespace Terminal]
@@ -32,13 +32,15 @@ rvm use 3.3.6
 gem install bundler jekyll --user-install
 bundle update
 bundle exec jekyll serve
+```
 
-[optional]
-
+If you want use the original ruby version (3.0.5) or the latest ruby version, run the following commands instead of `rvm use 3.3.6`
+```
+[ruby version - originally used]
 rvm list
 rvm install 3.0.5
 rvm use 3.0.5
 
-or
-rvm install ruby-3.4.1
+[or with latest ruby version]
+rvm install ruby-3.4.3
 ```
