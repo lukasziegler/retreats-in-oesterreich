@@ -99,6 +99,16 @@
     }
   }
 
+  a {
+    font-weight: 600;
+    border-bottom: 1px solid var(--border-alt-color);
+
+    &:hover {
+      color: var(--link-color);
+      border-bottom-color: var(--link-color-hover);
+    }
+  }
+
   .author__image {
     display: block;
     width: 220px;
@@ -150,6 +160,7 @@
       border-radius: 60px;
       color: var(--link-color);
       background-color: var(--light-gray);
+      border-bottom: none;
 
       &:last-child {
         margin-right: 0;

@@ -6,4 +6,4 @@ website: https://www.yogaoceanflow.com/
 instagram: https://www.instagram.com/yogaoceanflow/
 ---
 
-Barbara ist leidenschaftliche Yoga- und Bewegungstrainerin, Surferin und Fotografin. Seit 2019 leitet Retreats und teilt ihre Begeisterung für Inside Flow, Musik und das Zusammenspiel von Körper und Geist. Ob barfuß durch den Wald laufen, in kaltes Wasser springen oder einfach die Sonne auf der Haut spüren – für Barbara sind es die einfachen Dinge, die uns lebendig fühlen lassen.
+Barbara ist leidenschaftliche Yoga- und Bewegungstrainerin, Surferin, Fotografin und Gründerin von <a href="https://www.instagram.com/bodybrainbreath_waves/" target="_blank" rel="noopener">Body, Brain & Breath Waves</a>. Seit 2019 leitet Barbara Retreats und teilt ihre Begeisterung für Inside Flow, Musik und das Zusammenspiel von Körper und Geist. Ob barfuß durch den Wald laufen, in kaltes Wasser springen oder einfach die Sonne auf der Haut spüren – für Barbara sind es die einfachen Dinge, die uns lebendig fühlen lassen.
