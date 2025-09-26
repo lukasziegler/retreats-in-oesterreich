@@ -1,30 +1,48 @@
+INACTIVE
 ---
 layout: post
-title: Handpan Beginner Days 2025 (Navis)
-description: Tauche ein in die Welt der Handpan. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Tiroler Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2024-04-24 02:02:12 +0100
-start_date: 2025-04-30
-end_date: 2025-05-04
+title: Handpan Retreat 2026 in Tirol
+description: "Am ersten Maiwochenende 2026 erwarten dich 5 Tage Handpan, Yoga und Natur in den Tiroler Bergen. Dieses Retreat richtet sich an Spieler:innen mit ersten Vorkenntnissen, die ihr Spiel vertiefen möchten: neue Rhythmen, Fill-ins, eigene Patterns, gemeinsames Jammen und weitere Impulse für deinen persönlichen Flow. Die Kombination aus Yoga, Meditation, Handpan-Workshops und Zeit in der Natur macht es leicht, mit Freude und Leichtigkeit den nächsten Schritt auf deiner Handpan-Reise zu gehen. Neugierig geworden?"
+date: 2025-09-14 02:02:12 +0100
+start_date: 2026-04-29
+end_date: 2026-05-03
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [handpan, yoga, tirol]
-#featured: true
+featured: true
 ---
 
+Bei diesem Retreat in den Tiroler Bergen findest du den Raum, um dein Spiel weiterzuentwickeln und deinen persönlichen Flow zu vertiefen oder finden.
 
-
-## 30. April - 4. Mai 2025
-
-<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
-
+## 29. April - 3. Mai 2026
 
 **5 Tage im wunderschönen Navistal mit Alex & Lukas**
 
-Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das in der traumhaften Kulisse der Tiroler Bergwelt?
+Träumst du auch davon? Mit deiner Handpan umgeben von Gleichgesinnten und beeindruckender Natur zu spielen? Tiefer einzutauchen in das Handpanspielen, gemeinsam mit anderen zu Jammen, dabei deine Komfortzone zu erweitern und all das kombiniert mit Bergluft & Sauna in der Tiroler Bergwelt?
 
-Und falls du dich schon lange fragst, wie du deine ersten Schritte gehen kannst, ohne gleich 1.000 - 3.000 € für dein erstes Instrument zu investieren? Dann bist du nicht alleine und hier genau richtig!
+Genau das werden wir am ersten Maiwochenende 2026 wieder machen. Komm vom **29. April – 3. Mai 2026** mit uns für **5 Tage Handpan, Yoga und Meditation** in die <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodges</a>, wo wir bereits 2025 und 2024 waren.
 
-Im Mai machen wir uns auf den Weg ins Navistal: **5 Tage Handpan, Yoga und Meditation** in der <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodge</a>. Ein Handpan-Beginner-Kurs inmitten malerisch schöner Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine ersten Schritte mit einem neuen Instrument zu gehen. Dies ist auch genau der richtige Rahmen, falls du noch so viele Fragen hast und gerne unterschiedliche Handpans probieren möchtest, bevor du dir deine erste eigene kaufst. 
+Ein Handpan-Retreat inmitten malerisch schöner Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine weiteren Schritte mit der Handpan zu gehen. 
+
+Für wen dieses Retreat gedacht ist:
+- Wenn du bereits erste Spielpraxis gesammelt hast (z.B. einen Anfängerkurs besucht hast) und deine Spielpraxis vertiefen möchtest
+- ...
+
+Was dich in den Workshops erwartet:
+- Weitere Rhythmen zu lernen, wie den Polyrhythm, und eigene Patterns zu formen
+- Melodien und Fill-ins üben
+- Gemeinsam in der Gruppe zu spielen
+- Deinen eigenen Flow im Spielen finden
+
+Was dieses Jahr neu sein wird:
+- 2 vergünstigte Helferplätze, mit Unterstützung in der Küche
+- Du wirst wieder die Möglichkeit haben unterschiedliche Handpans, auch in anderen Skalen auszuprobieren
+
+––– NOTIZEN –––
+- Wir werden erneut im Hubird sein
+- Du wirst die Gelegenheit haben 
+
+–––– ALT –––
 
 Was dieses Event besonders macht:
 - Lerne **Handpan zu spielen** – keine Vorkenntnisse notwendig
@@ -47,15 +65,10 @@ Was dieses Event besonders macht:
 </div>
 
 
+
 ### Weitere Infos
 
-Auf diesem Workshop wird auf Basis der **D-Kurd** unterrichtet. Bitte mit einer D-Kurd 440Hz kommen oder dir eine ausleihen.
-
-Falls du **keine eigene Handpan** in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops deine Leih-Pan ausleihen, welche du anschließend vergünstigt zum Workshop-Preis erwerben kannst.
-
-Es sind **keine Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an den Umgang und die Spielweise herangeführt. Dieser Workshop ist ideal für alle, die noch keine Erfahrung mit der Handpan haben oder erst vor wenigen Monaten damit angefangen haben. Wir werden die Grundlagen der Malte Marten Method behandeln und dir die Tools für freies Spielen beibringen.
-
-Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex kombiniert klassische Yoga-Stunden mit dynamischen Einflüssen aus dem Animal Flow, um auch hier den spielerischen Aspekt mit in die Yoga-Praxis zu bringen. Sei gespannt!
+TODO TEXTE ÜBERABEITEN
 
 <div class="gallery-box">
   <div class="gallery">
@@ -69,27 +82,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 *Mittwoch (Anreise)*
 
-- **15:00 - 17:00** Ankommen 
-- **18:00** Abendessen
-- **19:30** Opening Circle (Handpan Ausgabe & gegenseitiges Kennenlernen)
-
-*Donnerstag / Freitag / Samstag*
-
-- **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
-- **10:00-11:30** Brunch 
-- **11:30-13:00** Handpan-Workshop (Vormittag) 
-- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
-- **16:00-17:30** Handpan-Workshop (Nachmittag)
-- **18:00-19:30** Abendessen 
-- **ab 20:00** Abendprogramm (geselliges Beisammensein, Sauna, Hot Tub oder Klangreise)
-
-*Sonntag (Abreise)*
-
-- **8:00** Yoga (Meditation, Pranayama, Hatha)
-- **10:00** Brunch 
-- **11:30** Closing Circle
-- **13:00** Offizielles Ende
+TODO TEXTE ÜBERABEITEN
 
 ---
 
@@ -163,6 +156,11 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 - **Stornobedingungen:** Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
 
+**TODO STORNO STAFFELN**
+
+- 20%, 50%, etc.
+
+
 - **Mindestteilnehmerzahl:** 6 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
 ---
@@ -173,9 +171,11 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier unsere neuen Termine 🧘</a>
+**TODO: BUCHUNGSFORMULAR EINBINDEN**
 
 <!-- <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>--> 
+
+**TODO: FEEDBACK FORMULAR EINBINDEN** (doch nicht ganz passend?)
 
 ---
 
@@ -239,33 +239,7 @@ Erfahre mehr über Alex auf
 
 Falls du noch zögerst und dich fragst...
 
-**Q: Ich habe keine Vorerfahrung**
-
-A: Kein Problem! Dieser Kurs ist speziell für Anfänger ohne Vorerfahrung konzipiert. Wir starten bei den Grundlagen, sodass du Schritt für Schritt und in deinem eigenen Tempo lernen kannst. Alles, was du mitbringen musst, ist Neugier und Freude am Ausprobieren. Nach diesen 5 Tagen wirst du wissen, ob Handpan etwas für dich ist und ob du dir eine eigene Handpan kaufen möchtest. Nach diesen Beginner Days wirst du in der Lage sein mit der Malte Marten Method selbstständig weiterzulernen.
-
-**Q: Ich bin nicht musikalisch**
-
-A: Viele Teilnehmer denken, sie seien "nicht musikalisch", bis sie die Handpan ausprobieren. Dieses Instrument ist intuitiv und leicht zugänglich – du brauchst keine Vorkenntnisse oder besonderes Talent. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
-
-**Q: Warum so lange? 5 Tage sind mir zu viel**
-
-A: Dieses Programm beinhaltet 2 halbe Tage (An- und Abreise-Tag) und 3 ganze Tage (mit je 2 Workshops und freiem Spielen). Es ist genau darauf ausgelegt, dir in einer entspannten malerisch schönen Umgebung all die Basics mitzugeben, damit du danach klar weißt, ob du danach selbst weitermachen möchtest mit dem Handpan spielen. Aber ich verstehe, dass 5 Tage ein ziemliches Investment sind. Wenn du an 1-Tages-Workshops Interesse hast, melde dich gerne <a href="https://instagram.com/lukasziegler" target="_blank">bei Lukas</a> bzw. schau auf <a href="https://linktr.ee/lukasziegler" target="_blank">seinem Linktree</a> nach, wann die nächsten Termine sind.
-
-**Q: Ich habe keine eigene Handpan**
-
-Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-Email.
-
-
-**Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
-
-Für diese Veranstaltung verwenden wir bewusst Handpans in der D-Kurd-Stimmung, da eine einheitliche Tonleiter das gemeinsame Spielen erleichtert und eine harmonische Klangwelt schafft. Besonders für Anfänger ist dies wichtig, da es die kognitive Last reduziert und ein schnelleres sowie effektiveres Lernen ermöglicht.
-
-In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer – insbesondere in Beginner- und Online-Kursen – mit D-Kurd Handpans spielen. Fortgeschrittene Kurse gehen später auf andere Skalen ein. Falls du keine eigene Handpan in D-Kurd-Stimmung besitzt, kannst du für das Retreat ganz unkompliziert eine leihen. So kannst du dich voll auf die Musik und das gemeinsame Erlebnis konzentrieren.
-
-
-**Q: Wie läuft das mit dem Yoga? Ist das optional? Welcher Stil wird unterrichtet?**
-
-Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag und ist für alle Teilnehmer eine wertvolle Ergänzung. Es ist vollkommen optional, jeder kann mitmachen – Vorkenntnisse sind nicht erforderlich. Unterrichtet wird Hatha Yoga, kombiniert mit Elementen aus Animal Flow und Functional Fitness, um die Balance, Kraft und Mobilität zu fördern.
+**TODO: FAQs überarbeiten**
 
 ---
 
@@ -274,24 +248,3 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 > Melde dich gerne bei Lukas via <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder <a href="mailto:retreats@lukasziegler.com?subject=Navis" target="_blank">Email</a>.
 
 ---
-
-*Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
-
-Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemeinschaft. Entdecke deine Leidenschaft für das Handpan-Spielen und erlebe, wie du dadurch voll im Hier & Jetzt ankommst.
-
-Wir freuen uns auf die Tage mit dir.
-
-<!--
-## Komm mit!
-
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
--->
-
-## Termin verpasst? 
-<a href="https://retreats-in-oesterreich.at/handpan-retreat-saalbach-2025" class="button button--primary subscribe-button js-sign-up">Im September 2025 findet die Wiederholung statt 🧘</a>
-
-
----
-
-![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
-*Unser Ausblick vom Hubird, direkt von der Jurte mit Blick Richtung Osten (Foto von [Manuela Clemens](https://manuelaclemens.de))*

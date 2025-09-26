@@ -1,10 +1,11 @@
+INACTIVE
 ---
 layout: post
-title: Handpan Beginner Days 2025 (Viehhofen)
+title: Handpan Beginner Days – September 2026
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
 date: 2025-08-20 02:02:12 +0100
-start_date: 2025-09-18
-end_date: 2025-09-21
+start_date: 2026-09-24
+end_date: 2026-09-27
 author: lukas
 image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
 tags: [handpan, yoga, salzburg]
@@ -12,7 +13,7 @@ tags: [handpan, yoga, salzburg]
 
 
 
-## 18. - 21. September 2025
+## 24. - 27. September 2026
 **4 Tage in den wunderschönen Salzburger Bergen mit Alex & Lukas**
 
 **💸 Neu: "Bring a Friend" – und spart gemeinsam 💸** – <a href="#bring-a-friend">siehe Details</a>
