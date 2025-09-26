@@ -1,3 +1,4 @@
+INACTIVE
 ---
 username: men-in-the-woods
 name: Men in the Woods
