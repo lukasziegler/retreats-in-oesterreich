@@ -9,7 +9,6 @@ author: the-good-camp
 image: '/images/retreats/the-good-camp/tgc-cover.jpg'
 image_caption: 'Fotos von [Vanessa Blankenagel](https://www.vanessablankenagel.com/)'
 tags: [tirol, mindset]
-featured: true
 ---
 
 <a href="https://www.thegoodcamp.net/reconnect-camp.html" target="_blank" class="button button--primary subscribe-button js-sign-up">Mehr zum Retreat</a>
