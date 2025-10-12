@@ -1,18 +1,50 @@
 <div class="container">
   <div class="section__info">
     <div class="section__head">
-      <h2 class="section__title">{{ site.data.settings.blog.blog__title }}</h2>
-      {% if site.data.settings.blog.blog__description %}
-        <p class="section__description">{{ site.data.settings.blog.blog__description }}</p>
-      {% endif %}
+      <h2 class="section__title">Bevorstehende Retreats</h2>
+        <p class="section__description">Wenn du dir unsicher bist, welches Retreat zu dir passt, melde dich – wir helfen gerne weiter.</p>
     </div>
   </div>
 
   <div class="row grid">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
+  
+    {% if site.posts.size > 0 %} 
+      {% assign featured_posts = site.posts <!-- | where: "featured", false --> %}
+      {% for post in featured_posts %}
+        {% include article.html %}
+      {% endfor %}
+    {% endif %}
+
+  </div>
+</div>
+
+<div class="container">
+  <div class="section__info">
+    <div class="section__head">
+      <h2 class="section__title">Bisherige Retreats</h2>
+    </div>
+  </div>
+
+  <div class="row grid">
+    <!-- TODO replace site.posts with filtered_posts--> 
+
+    {% if site.posts.size > 0 %} 
+      {% assign current_date = "now" | date: "%Y-%m-%d" %}
+      {% assign past_posts = "" %}
+      {% for post in site.posts %}
+        {% assign post_start_date = post.start_date | date: "%Y-%m-%d" %}
+        {% if post_start_date < current_date %}
+          {% assign past_posts = past_posts | append: post.id | append: "," %}
+        {% endif %}
+      {% endfor %}
+      {% assign past_posts = past_posts | split: "," %}
+      {% assign filtered_posts = site.posts | where_exp: "post", "past_posts contains post.id" %}
+      {% for post in filtered_posts %}
         {% include article.html %}
       {% endfor %}
     {% endif %}
   </div>
 </div>
+
+<!-- TODO fix functionality of pagination --> 
+{% include pagination.html %}
