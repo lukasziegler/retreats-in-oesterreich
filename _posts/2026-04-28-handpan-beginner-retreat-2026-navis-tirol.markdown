@@ -99,25 +99,32 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 
 - **15:00 - 17:00** Ankommen 
 - **18:00** Abendessen
-- **19:30** Opening Circle (Handpan Ausgabe & gegenseitiges Kennenlernen)
+- **19:30** Kennenlernen & Opening Circle
 
 *Donnerstag / Freitag / Samstag*
 
-- **8:00-10:00** Yoga (Meditation, Pranayama, Hatha) 
-- **10:00-11:30** Brunch 
+- **7:45-9:45** Yoga (Meditation, Pranayama, Hatha) 
+- **10:00-11:00** Brunch 
 - **11:30-13:00** Handpan-Workshop (Vormittag) 
-- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis)
-- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen) <br> oder Zeit in der Natur – Snacks stehen am Nachmittag zur Verfügung
-- **16:00-17:30** Handpan-Workshop (Nachmittag)
+- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis) – Snacks stehen am Nachmittag zur Verfügung
+- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen)
+- **16:00-17:30** Handpan-Workshop oder Zeit zum Jammen
 - **18:00-19:30** Abendessen 
-- **ab 20:00** Abendprogramm (geselliges Beisammensein, Sauna, Hot Tub oder Klangreise)
+- **ab 20:00** Abendprogramm (Klangreise, Sauna oder geselliger Abend in Hot Tub)
 
 *Sonntag (Abreise)*
 
-- **8:00** Yoga (Meditation, Pranayama, Hatha)
+- **7:45** Yoga (Meditation, Pranayama, Hatha)
 - **10:00** Brunch 
 - **11:30** Closing Circle
 - **13:00** Offizielles Ende
+
+TODOS
+
+- TODO 1: Lücke zwischen Brunch + Morgenworkshop
+- TODO 2: Nachmittag entzerren --> Workshop kürzen? oder gleich jedes Mal Zeit zum Jammen vorsehen?
+- TODO 3: Zeit zum Wandern verlängern
+- TODO 4: Zeiten für Küchenhilfe einplanen (#1 Abspülen nach Frühstück 11 - 11:30, #2 nach Abendessen 19:30 - 20:00)
 
 ---
 
@@ -170,6 +177,8 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 - Unterkunft + Vollverpflegung
 
 
+TODO: ein Helping Hand Platz – 150 Euro Rabatt
+
 **Im Preis beinhaltet:**
 
 - 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
@@ -186,16 +195,16 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 
 Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2024 – Ashtanga Yoga & Stille</a>
-
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2025 – Handpan Beginner Days</a>
+
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2024 – Ashtanga Yoga & Stille</a>
 
 
 ---
 
 ### Organisatorisches
 
-- Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
+- Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze wir euch gerne.
 
 - **Stornobedingungen:** Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet.
 
