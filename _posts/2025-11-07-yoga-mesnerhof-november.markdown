@@ -6,7 +6,7 @@ start_date: 2025-11-07
 end_date: 2025-11-09
 image: '/images/retreat-partner/yogaoceanflow/mesnerhof-2.jpg'
 author: yoga-ocean-flow
-description: Was gibt es Schöneres als eine Auszeit in den Bergen? Wenn die Luft so klar und der Weitblick vom Gipfel so unendlich ist, die Atmosphäre ruhig und friedlich. Komm mit uns nach Steinberg am Rofan und verbringe entspannende, gemütliche und inspirierende Tage am wunderschönen Mesnerhof-C. Tu Dir und Deinem Körper & Geist etwas Gutes, bewege Dich beim morgendlichen und abendlichen Yoga und bei langen Spaziergängen oder Gipfelwanderungen an der frischen Luft.
+description: Komm mit in die Berge zum Herbst Retreat am Mesnerhof-C ⛰️ hier verbringen wir bewegte und entspannte Tage mit Yoga, gutem Essen und viel Natur.
 tags: [yoga, tirol]
 external: true
 featured: false
