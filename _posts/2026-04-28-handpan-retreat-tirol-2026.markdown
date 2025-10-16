@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handpan Retreat 2026 in Tirol
-description: "Am ersten Maiwochenende 2026 erwarten dich fünf Tage Handpan, Yoga und Natur in den Tiroler Bergen. Dieses Retreat ist dafür da um dein Spiel zu vertiefen. Es für Personen ausgelegt, welche bereits erste Erfahrungen mit der Handpan gesammelt haben (2 Monate bis 1,5 Jahre) und ihr Spiel vertiefen möchten – mit neuen Rhythmen, Fill-ins, eigenen Patterns, gemeinsamen Jam-Sessions und inspirierenden Impulsen. Die Kombination aus Yoga, Meditation, Handpan-Workshops und Zeit in der Natur macht es leicht, mit Freude und Leichtigkeit den nächsten Schritt auf deiner Handpan-Reise zu gehen."
+description: "Am ersten Maiwochenende 2026 erwarten dich fünf Tage Handpan, Yoga und Natur in den Tiroler Bergen. Dieses Retreat ist dafür da um dein Spiel zu vertiefen. Es für Personen ausgelegt, welche bereits erste Erfahrungen mit der Handpan gesammelt haben (2 Monate bis 1,5 Jahre) und ihr Spiel vertiefen möchten – mit neuen Rhythmen, Fill-ins, eigenen Patterns, gemeinsamen Jam-Sessions und inspirierenden Impulsen. Die Kombination aus Yoga, Meditation, Handpan-Workshops und Zeit in der Natur macht es leicht voll im Moment anzukommen, den Alltag hinter dir zu lassen und mit Freude und Leichtigkeit deine nächsten Schritte zu gehen."
 date: 2025-09-14 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
@@ -18,36 +18,39 @@ featured: hide
 
 Träumst du auch davon? Mit deiner Handpan umgeben von Gleichgesinnten und beeindruckender Natur zu spielen? Tiefer einzutauchen in das Handpanspielen, gemeinsam mit anderen zu Jammen, dabei deine Komfortzone zu erweitern und all das kombiniert mit Bergluft & Sauna in den Tiroler Bergen?
 
-Genau das werden wir vom **29. April – 3. Mai 2026** wieder machen. Komm mit uns ins Navistal für **5 Tage Handpan, Yoga und Meditation** in den <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodges</a>, wo wir bereits 2025 und 2024 waren.
+Genau das werden wir vom **29. April – 3. Mai 2026** wieder machen. Komm mit uns ins Navistal für **5 Tage Handpan, Yoga und Meditation** in der <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodge</a>, wo wir bereits 2025 und 2024 waren.
 
-Ein Handpan-Retreat inmitten malerisch schöner Natur. Tauche ein in die Magie dieses besonderen Instruments. Durch achtsames Spielen, inspirierende Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine nächsten Schritte mit der Handpan zu gehen. 
+**Ein Handpan-Retreat inmitten malerisch schöner Natur**
+
+Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mit inspirierenden Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine nächsten Schritte mit der Handpan zu gehen. Tauche ein in die Magie dieses besonderen Instruments.
 
 **Für wen dieses Retreat gedacht ist:**
+
 - Wenn du bereits erste Spielpraxis gesammelt hast (z.B. einen Anfängerkurs besucht hast) und nun deine Spielpraxis vertiefen möchtest
-- Wenn dir nach einer Auszeit mit Yoga und Handpan in den Bergen ist
+- Wenn du neue Impulse suchst, wie du dich vom auswendig lernen von Patterns lösen kannst und in deinen eigenen Spielfluss finden kannst
+- Wenn dir nach einer Auszeit in den Bergen ist, und das am liebsten mit Yoga und Handpan
 - Wenn du mit anderen gemeinsam Handpan spielen ("jammen") möchtest
+- Wenn dein Bauchgefühl "Ja" sagt - ohne zu wissen warum ;)
 
 **Was dich in den Workshops erwartet:**
+
+- Gemeinsames Spielen in der Gruppe
 - Weitere Rhythmen lernen, wie den Polyrhythmus oder Malte-Beat
 - Melodien und Fill-ins üben
-- Gemeinsam in der Gruppe zu spielen
 - Deinen eigenen Flow im Spielen finden
 - Und wie du deine eigenen Patterns formen kannst
+- Du lernst nach der bewährten <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, es wird aber auch genügend Raum sein, um Tipps und Tricks für deine eigene Spielweise und Lieder zu bekommen
 
 **Was 2026 neu ist:** 
 
 - Es gibt erstmals zwei <a href="#helping-handich">vergünstigte Helferplätze</a>, da wir tagsüber Unterstützung in der Küche benötigen
 - Die Handpan-Miete kostet nun nur **75 Euro** für die 5 Tage (inkl. Versicherung)
 
-
-–––– ALT –––
-
 Was dieses Event besonders macht:
-- Lerne **Handpan zu spielen** – keine Vorkenntnisse notwendig
-- **Kein eigenes Instrument** notwendig (kann gegen Aufpreis geliehen werden)
-- Du lernst nach der bewährten <a href="https://www.maltemartenmethod.com/" target="_blank">Malte Marten Method</a>
-- Handpans von der Marke <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> werden dir auf Wunsch zur Verfügung gestellt
+
 - 5-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Tirol
+- Handpans von der Marke <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> werden dir auf Wunsch zur Verfügung gestellt
+- **Kein eigenes Instrument** notwendig (kann gegen Aufpreis geliehen werden)
 
 
 <div class="gallery-box">
@@ -107,8 +110,8 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 - **10:00-11:00** Brunch 
 - **11:30-13:00** Handpan-Workshop (Vormittag) 
 - **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis) – Snacks stehen am Nachmittag zur Verfügung
-- **15:00-16:00** Freies Spielen (mit Möglichkeit für Fragen)
-- **16:00-17:30** Handpan-Workshop oder Zeit zum Jammen
+- **15:30-16:30** Freies Spielen (mit Möglichkeit für Fragen)
+- **16:30-17:30** Handpan-Workshop oder Zeit zum Jammen
 - **18:00-19:30** Abendessen 
 - **ab 20:00** Abendprogramm (Klangreise, Sauna oder geselliger Abend in Hot Tub)
 
@@ -118,13 +121,6 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 - **10:00** Brunch 
 - **11:30** Closing Circle
 - **13:00** Offizielles Ende
-
-TODOS
-
-- TODO 1: Lücke zwischen Brunch + Morgenworkshop
-- TODO 2: Nachmittag entzerren --> Workshop kürzen? oder gleich jedes Mal Zeit zum Jammen vorsehen?
-- TODO 3: Zeit zum Wandern verlängern
-- TODO 4: Zeiten für Küchenhilfe einplanen (#1 Abspülen nach Frühstück 11 - 11:30, #2 nach Abendessen 19:30 - 20:00)
 
 ---
 
@@ -166,18 +162,30 @@ TODOS
 
 ### Preisgestaltung
 
-- Ab **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete
-- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
+Der Gesamtpreis für das Retreat setzt sich aus dem Kursbeitrag und den Kosten für die Unterkunft zusammen, und ist abhängig von der Zimmerwahl.
 
+Kursbeitrag
+
+- von **550 Euro**
+
+
+Unterkunft und Verpflegung
+
+- Mehrbettzimmer: 445 Euro (mit 3 bis 5 Betten)
+- Doppelzimmer: 505 Euro
+- Einzelzimmer: 590 Euro
+
+Optional kommt noch eine Handpanmietgebühr in Höhe von **75 Euro** dazu, falls du keine eigene Handpan (D Kurd in 440 Hz) mitbringen kannst. Diese Mietgebühr gilt für die 5 Tage inkl. Versicherung.
+
+**TODO**: ein Helping Hand Platz – 150 Euro Rabatt
 
 **TODO PREISE SEPARAT ANFÜHREN**
-
 - Retreat inkl. Workshops
-
 - Unterkunft + Vollverpflegung
 
 
-TODO: ein Helping Hand Platz – 150 Euro Rabatt
+
+
 
 **Im Preis beinhaltet:**
 
