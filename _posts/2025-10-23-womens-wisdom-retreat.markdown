@@ -9,7 +9,6 @@ author: ella-soulfood
 description: Ein Rückzugsort, der dich an deine urweibliche Essenz und Schöpferkraft erinnert. 4 Tage Schwesternschaft, tiefe Verbundenheit, sanfte Auszeit und Raum für dein Frau-Sein.
 tags: [frauenretreat, steiermark]
 external: true
-featured: true
 ---
 
 <div class="post__external-link">

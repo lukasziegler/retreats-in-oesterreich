@@ -9,7 +9,7 @@ author: yoga-ocean-flow
 description: Komm mit in die Berge zum Herbst Retreat am Mesnerhof-C ⛰️ hier verbringen wir bewegte und entspannte Tage mit Yoga, gutem Essen und viel Natur.
 tags: [yoga, tirol]
 external: true
-featured: false
+featured: true
 ---
 
 <div class="post__external-link">

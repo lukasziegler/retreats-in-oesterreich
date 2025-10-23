@@ -8,7 +8,6 @@ end_date: 2025-05-04
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [handpan, yoga, tirol]
-#featured: true
 ---
 
 
