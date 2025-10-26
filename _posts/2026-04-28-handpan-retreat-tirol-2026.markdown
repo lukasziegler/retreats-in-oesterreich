@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handpan Retreat 2026 in Tirol
+title: Handpan Retreat 2026 (in Tirol)
 description: "Am ersten Maiwochenende 2026 erwarten dich fünf Tage Handpan, Yoga und Natur in den Tiroler Bergen. Dieses Retreat ist dafür da um dein Spiel zu vertiefen. Es für Personen ausgelegt, welche bereits erste Erfahrungen mit der Handpan gesammelt haben (2 Monate bis 1,5 Jahre) und ihr Spiel vertiefen möchten – mit neuen Rhythmen, Fill-ins, eigenen Patterns, gemeinsamen Jam-Sessions und inspirierenden Impulsen. Die Kombination aus Yoga, Meditation, Handpan-Workshops und Zeit in der Natur macht es leicht voll im Moment anzukommen, den Alltag hinter dir zu lassen und mit Freude und Leichtigkeit deine nächsten Schritte zu gehen."
 date: 2025-09-14 02:02:12 +0100
 start_date: 2026-04-29
@@ -59,8 +59,9 @@ Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mi
 
 - 5-Tage **Auszeit in den Bergen**, in einer idealen Retreat-Location in Tirol
 - **Kein eigenes Instrument** notwendig (kann gegen Aufpreis geliehen werden)
-- Handpans von der Marke <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> werden dir auf Wunsch gemietet werden
-- Eine perfekt **aufeinander abgestimmtes Programm** mit Handpan-Unterricht, Yoga, Meditation und Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank" rel="nofollow">Hubird</a> warten auf dich
+- Du wirst wieder die Möglichkeit haben unterschiedliche **Handpans vor Ort auszuprobieren** (unterschiedliche Skalen + Handpanbauer)
+- Handpans von <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> können auf Wunsch **gemietet werden**
+- Eine perfekt **aufeinander abgestimmtes Programm** mit Handpan-Unterricht, Yoga, Meditation und Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank" rel="nofollow">Hubird</a> wartet auf dich
 
 
 <div class="gallery-box">
@@ -113,23 +114,18 @@ Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mi
 
 ### Weitere Infos
 
-Die Handpan-Workshops werden auf Basis der **D-Kurd** Handpanskala unterrichtet. Bitte mit einer D-Kurd in 440Hz kommen oder dir eine ausleihen. Falls du **keine eigene Handpan** in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops eine Handpan ausleihen.
+Die Handpan-Workshops werden auf Basis der **D-Kurd** Handpanskala unterrichtet. Bitte mit einer D-Kurd in 440Hz kommen oder dir eine ausleihen. Falls du **keine passende Handpan** in der D-Kurd Stimmung hast, kannst du dir für die Tage des Workshops eine Handpan ausleihen.
 
-Da es sich um vertiefende Workshops handelt, werden folgende Kenntnisse vorausgesetzt: 
+Da es sich um vertiefende Workshops handelt, werden **folgende Kenntnisse vorausgesetzt**:
 
 - **Erste Spielerfahrung**: Du bekommst problemlos Töne aus der Handpan und beherrscht sowohl den Anschlag mit den Finger und Daumen.
 - Sicheres beherrschen von **Akkordabfolgen**: du kannst wiederholt mehrere verschieden Akkorde hintereinander spielen und kannst zwischen 2-4-6 und 1-3-5 wechseln.
 - Unabhängig voneinander Bassnoten und Melodienoten spielen kannst (Melodiehand + Basshand)
 - Falls du Zweifel hast, ob du schon fit genug bist beim Handpan spielen, um an den Workshops teilzunehmen, <a href="#kontakt">melde dich gerne bei Lukas</a>. Auf Wunsch erhältst du im Vorfeld Videos von Lukas, damit du die Grundlagen aus dem Anfängerkurs wiederholen kannst.
 
-Ansonsten sind **keine weiteren Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an die neuen Konzept herangeführt und es besteht auch auf Grund der begrenzten Teilnehmerzahl die Möglichkeit individuell auf dich einzugehen. Dieses Retreat ist ideal für alle, die bereits seit 1-12 Monaten spielen. Egal wo du gerade bist (ob du gerne mit anderen zusammen spielen möchtest, dir bisher die eigene Spielpraxis fehlt oder du feststeckst), wirst du bei diesem Retreat etwas Neues für dich finden und reichlich neue Inspiration für dich finden.
-
-- Wir werden auf den Grundlagen der Malte Marten Method aufbauen und den Zugang zum freien Spielen und gemeinsamen Musizieren (= Jammen) vertiefen.
+Ansonsten sind **keine weiteren Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an die neuen Konzept herangeführt und es besteht auch auf Grund der begrenzten Teilnehmerzahl die Möglichkeit individuell auf dich einzugehen. Dieses Retreat ist ideal für alle, die bereits seit 1-12 Monaten spielen. Egal wo du dich gerade auf deiner Reise befindest, wirst du bei diesem Retreat etwas Neues und reichlich Inspiration für dich finden. Egal ob wenn du wo feststeckst, dir die eigene Spielpraxis fehlt oder wenn du gerne mit anderen zusammen spielen möchtest. Wir werden auf den Grundlagen der Malte Marten Method aufbauen und den Zugang zum freien Spielen und gemeinsamen Musizieren (= Jammen) vertiefen.
 
 Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex kombiniert klassische Yoga-Stunden mit dynamischen Einflüssen aus dem Animal Flow, um auch hier den spielerischen Aspekt mit in die Yoga-Praxis zu bringen. Sei gespannt!
-
-
-- Du wirst wieder die Möglichkeit haben unterschiedliche Handpans auszuprobieren (unterschiedliche Skalen + Handpanbauer)
 
 
 ---
@@ -172,42 +168,36 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 
 ### Preisgestaltung
 
-Der Preis für dieses Retreat setzt zusammen aus...
+Der Preis für dieses Retreat setzt zusammen aus dem Kursbeitrag (für Organisation + Durchführung), den Kosten für Unterkunft + Verpflegung (je nach Zimmerwahl) und einer optionalen Leihgebühr, falls du keine passende Handpan hast.
 
-1. dem Kursbeitrag (für die Organisation + Durchführung)
-2. den Kosten Verpflegung + Unterkunft (je nach Zimmerwahl)
-3. und einer optionalen Leihgebühr, falls du keine Handpan in D Kurd-Stimmung hast
+**#1 Kursbeitrag:** **550 Euro**
 
-#### Kursbeitrag
+**#2 Unterkunft und Verpflegung:**
 
-- von **550 Euro**
+- Mehrbettzimmer: **445 Euro** (mit 3 bis 5 Personen)
+- Doppelzimmer: **505 Euro** (noch 1x verfügabr)
+- <span style="text-decoration: line-through">Einzelzimmer: 590 Euro</span> (ausgebucht)
 
+**#3 Leihgebühr:** 75 Euro (optional)<br>
+Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **75 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
 
-**Unterkunft und Verpflegung**
+---
 
-- Mehrbettzimmer: 445 Euro (mit 3 bis 5 Personen)
-- Doppelzimmer: 505 Euro (noch 1x verfügabr)
-- <em>Einzelzimmer: 590 Euro</em> – ausgebucht
+**Helping Hand-Platz:**<br>
+In 2026 gibt es erstmals ein vergünstigtes Ticket. Für die Mithilfe beim Abräumen und Abspülen erhältst du **150 Euro Rabatt** auf deine Buchung. Wir bitten dich zwei mal am Tag für je 30-45 Minuten in der Küche zu unterstützen.
 
-#### Leihgebühr
-
-Optional kommt noch eine Handpanmietgebühr in Höhe von **75 Euro** dazu, falls du keine eigene Handpan (D Kurd in 440 Hz) mitbringen kannst. Diese Mietgebühr gilt für die 5 Tage inkl. Versicherung.
-
-#### Helping Hand-Platz
-
-In 2026 gibt es erstmals ein vergünstigtes Ticket für die Mithilfe beim Abräumen und Abspülen. Dafür erhältst du **150 Euro Rabatt** auf deine Buchung. 
-Im Gegenzug bitten wir dich zwei mal am Tag für je 30-45 Minuten in der Küche zu unterstützen.
-
-
-#### Zusammengefasst
+---
 
 **Im Preis beinhaltet:**
 
 - 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
-- Halbpension mit Snacks, mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
+- Halbpension mit Snacks, mit bester vegan/vegetarischer Küche von Laura/<a href="https://www.instagram.com/rechargingkitchen/" target="_blank" rel="noopener">Recharging Kitchen</a> (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
 - Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier + Limo) sind selbst zu bezahlen
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
 - Und 1x Sauna und 1x Hot Tub
+
+
+---
 
 ### Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
 
@@ -217,9 +207,9 @@ Im Gegenzug bitten wir dich zwei mal am Tag für je 30-45 Minuten in der Küche 
 
 Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 2024 waren wir für das <a href="/handpan-beginner-workshop-2025">Ashtanga Yoga & Stille Retreat</a> und im Mai 2025 für die <a href="/handpan-beginner-workshop-2025">Handpan Beginner Days</a> am selben Ort.
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2025 – Handpan Beginner Days</a>
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2025 – Handpan Beginner Days</a>
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights von 2024 – Ashtanga Yoga & Stille</a>
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2024 – Ashtanga Yoga & Stille</a>
 
 
 ---
@@ -228,12 +218,22 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 - Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze wir euch gerne.
 
-- **Stornobedingungen:** Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. –– **OUTDATED**
+- **Zahlungsbedingungen:**
+  - Anzahlung: bei Buchung 30% vom Gesamtpreis
+  - Restbetrag: binnen 60 Tagen, spätestens bis 6 Wochen vor Beginn
 
-**TODO STORNO STAFFELN**
-- 20%, 50%, etc.
+- **Stornobedingungen:** 
+  - bis 2 Monate vorher - kostenfrei  
+  - 2 Monate bis 28 Tage vorher - 30% der Summe
+  - 28 Tage bis 14 Tage vorher - 50% der Summe
+  - ab 14 Tage vor Beginn - 100% der Summe
+
+  - Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. –– **OUTDATED**
+
 
 - **Mindestteilnehmerzahl:** 7 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+
+- **Teilnahmebedingungen:** mit deiner Buchung stimmst du den <a href="/agbs/">Teilnahmebedingungen</a> & Stornobedingungen (siehe oben) zu.
 
 ---
 
@@ -243,6 +243,21 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
+
+
+
+### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
+
+- Das Retreat von Lukas & Alex war eine wunderschöne Auszeit. Ich bin ohne große Erwartungen bezüglich dem Handpanspielen hergekommen und möchte jetzt unbedingt weiterspielen! Lukas hat sein Können toll vermittelt & die Yogastunden von Alex waren ein super schöner Start in den Tag! Die beiden haben sehr gut auf die Bedürfnisse aller geachtet und jeder konnte so sein, wie er wollte. Auch die Natur/Umgebung, Unterkunft & Verpflegung waren ein Highlight! Ich komme gerne wieder! Danke! 
+
+- Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch.
+
+- Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen.
+
+- Lieber Lukas, lieber Alex! Von Herzen danke für dieses wundervolle Retreat! Eine liebevolle Organisation, die harmonische Verbindung aus Handpan und Yoga, sowie die achtsame Atmosphäre haben die Tage zu etwas ganz besonderem gemacht. Ich fühle mich entspannt, inspiriert, erfüllt und zutiefst dankbar. Eure Hingabe, euer Feingefühl und eure einzigartigen Skillsets haben es ermöglicht, sich spielerisch Neuem zu nähern, mit Freude und Neugier. Eure Wärme und Passion hat einen heilsamen, perfekt ausbalancierten Raum geschaffen.
+
+- Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!
+
 
 
 

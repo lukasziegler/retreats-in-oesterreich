@@ -113,30 +113,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 20. August)_ liegt der Gesamtpreis zwischen 955,- und 1.145 Euro. Der Preis setzt sich wie folgt zusammen:
-
-<!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
-
-- **Grundbetrag** zw. 885 – 925 Euro <br>
-  für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** <em style="text-decoration: line-through;"> 885 Euro (Tickets #1-3)</em> – bereits ausverkauft
-  - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
-
-- **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
-  - <span style="text-decoration: line-through;">Einzelzimmer alt: kein Aufpreis</span> – **bereits vergeben**
-  - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 3x verfügbar*
-  - Einzelzimmer "neu renoviert": **+20 Euro / Nacht** – *noch 2x verfügbar*
-  - Doppelzimmer "standard": **+5 Euro** / pro Person / Nacht<br>
-    bzw. bei Einzelbelegung: **+20 Euro** / Nacht
-  - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
-    bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
-
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
-
-<strong id="bring-a-friend">NEU: "Bring a Friend" – und spart gemeinsam 💸</strong>
-
-- Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Preisnachlass**. 
-- Wenn du bereits gebucht hast, bekommst du bei erfolgreicher Weiterempfehlung den Rabatt gutgeschrieben.
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. 
 
 **Wissenswertes:**
 - Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.

@@ -1,16 +1,15 @@
-INACTIVE
 ---
 layout: post
-title: Handpan Beginner Days – September 2026
+title: Handpan Beginner Days 2026 (Viehhofen)
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-08-20 02:02:12 +0100
+date: 2025-10-26 02:02:12 +0100
 start_date: 2026-09-24
 end_date: 2026-09-27
 author: lukas
-image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
+image: '/images/people/lukas-ziegler/lukas-handpan-pop-up-yoga.jpg'
 tags: [handpan, yoga, salzburg]
+featured: hide
 ---
-
 
 
 ## 24. - 27. September 2026
@@ -76,7 +75,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - **7:30-9:00** Yoga (Meditation, Pranayama, Hatha) 
 - **9:00-10:15** Brunch
 - **11:00-13:00** Handpan-Workshop
-- **13:00-16:00** Zeit für dich (für eine Wanderung, zum Wellnessen oder zum Vertiefen deiner Handpan-Praxis) — Snacks stehen am Nachmittag zur Verfügung
+- **13:00-17:00** Zeit für dich (für eine Wanderung, zum Wellnessen oder zum Vertiefen deiner Handpan-Praxis) — Snacks stehen am Nachmittag zur Verfügung
 - **17:00-18:00** Handpan-Workshop
 - **18:30-19:30** Abendessen 
 - **20:00** Abendprogramm (Spa-Bereich, Yoga+Klangreise oder geselliges Beisammensein)
@@ -114,17 +113,17 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 20. August)_ liegt der Gesamtpreis zwischen 955,- und 1.145 Euro. Der Preis setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 20. August)_ liegt der Gesamtpreis zwischen 955,- und 1.120 Euro. Der Preis setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
 - **Grundbetrag** zw. 885 – 925 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** <em style="text-decoration: line-through;"> 885 Euro (Tickets #1-3)</em> – bereits ausverkauft
-  - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
+  - **Early Bird:** 885 Euro (Tickets #1-3) = **aktuelle Phase**
+  - **Reguläres Ticket:** 925 Euro
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
-  - <span style="text-decoration: line-through;">Einzelzimmer alt: kein Aufpreis</span> – **bereits vergeben**
+  - <span style="">Einzelzimmer alt: kein Aufpreis – *noch 1x verfügbar*
   - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 3x verfügbar*
   - Einzelzimmer "neu renoviert": **+20 Euro / Nacht** – *noch 2x verfügbar*
   - Doppelzimmer "standard": **+5 Euro** / pro Person / Nacht<br>
@@ -132,23 +131,23 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
   - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
     bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
 
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **75 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
-<strong id="bring-a-friend">NEU: "Bring a Friend" – und spart gemeinsam 💸</strong>
+<strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
+Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Preisnachlass**. 
 
-- Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Preisnachlass**. 
-- Wenn du bereits gebucht hast, bekommst du bei erfolgreicher Weiterempfehlung den Rabatt gutgeschrieben.
+---
 
 **Wissenswertes:**
 - Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.
-- Vor Ort wird noch die gesetzliche Ortstaxe für die Nächte im Hotel fällig. Diese zahlst du ganz unkompliziert bei der Anreise direkt an die Unterkunft.
+- Vor Ort wird noch die gesetzliche Ortstaxe für die Nächte im Hotel fällig. Diese zahlst du bei der Anreise direkt an die Unterkunft.
 - Falls du arbeitslos bist, können wir dir eine 5% Ermäßigung auf den Kursbeitrag geben.
 - Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
 
 **Im Preis beinhaltet:**
 
 - 3 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://www.brandgut.at/" target="_blank">brandgut</a>
-- Halbpension mit Brunch um 9 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:00 Uhr
+- Halbpension mit Brunch um 9 Uhr, kleinen Snacks am Nachmittag und gemeinsamen Abendessen um 18:30 Uhr
 - Täglicher Zugang zum Wellness-Bereich des Hotels
 - Individuelle 1-zu-1 Betreuung durch Alex und Lukas
 - Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
@@ -165,11 +164,21 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 
 > Bist du neugierig geworden? 
 
-Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank">die Highlights vom Mai 2025</a> an! Im Mai waren wir für 5-Tage "Handpan Beginner Days" im Navistal.
+Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im September 2025 waren wir für die <a href="/handpan-beginner-workshop-2025">Handpan Beginner Days</a> am selben Ort.
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2025</a>
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom September 2025</a>
 
-<!-- ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns -->
+### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
+
+- Ein wunderbares Handpan-Retreat für Anfänger! Lukas und Alex haben mit Leichtigkeit und Herzblut eine entspannte und stimmige Mischung aus Yoga und Handpan geschaffen – einfach schön!
+
+- In lockerer Atmosphäre konnte ich mich ganz entspannt ans Handpanspielen herantasten. Lukas und Alex haben dafür Zeit und Raum gehalten. In Kombination mit dem traumhaften Bergblick und dem gemütlichen Hotel war es nicht nur ein Lern-, sondern auch ein echtes Relax-Wochenende.
+
+- Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch.
+
+- Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen.
+
+
 
 ---
 

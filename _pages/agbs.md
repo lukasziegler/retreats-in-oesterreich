@@ -25,11 +25,9 @@ Die auf dem Retreat gemachten Fotos und Videos können für Werbezwecke verwende
 
 ## Stornobedingungen
 
-1. Bei einer Stornierung **bis 4 Wochen vor Retreat-Beginn** wird der volle Betrag erstattet.
+1. Falls du nicht teilnehmen kannst, aber selbst eine **Ersatzperson** stellst, wird dir der volle Betrag zurückerstattet.
 
-2. Bei einer Stornierung **weniger als 4 Wochen vor Retreat-Beginn** erfolgt keine Rückerstattung, es sei denn, du stellt eine Ersatzperson. 
-
-3. Falls du nicht teilnehmen kannst, aber selbst eine **Ersatzperson** stellst, wird dir der volle Betrag zurückerstattet.
+2. Ansonsten gelten die Stornobedingungen, welche du beim jeweiligen Retreat findest.
 
 ---
 
@@ -49,4 +47,4 @@ Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Gültigkeit der üb
 
 ---
 
-*Zuletzt aktualisiert: 21. Juli 2025*
+*Zuletzt aktualisiert: 24. Oktober 2025*
