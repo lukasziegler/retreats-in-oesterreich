@@ -178,8 +178,8 @@ Der Preis für dieses Retreat setzt zusammen aus dem Kursbeitrag (für Organisat
 - Doppelzimmer: **505 Euro** (noch 1x verfügabr)
 - <span style="text-decoration: line-through">Einzelzimmer: 590 Euro</span> (ausgebucht)
 
-**#3 Leihgebühr:** 75 Euro (optional)<br>
-Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **75 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
+**#3 Leihgebühr:** 100 Euro (optional)<br>
+Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **100 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
 
 ---
 

@@ -10,6 +10,8 @@ image: '/images/retreats/brandgut/brandgut-haengematte-small.jpg'
 tags: [handpan, yoga, salzburg]
 ---
 
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
+
 
 
 ## 18. - 21. September 2025
@@ -115,6 +117,9 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. 
 
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
+
+
 **Wissenswertes:**
 - Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.
 - Vor Ort wird noch die gesetzliche Ortstaxe für die Nächte im Hotel fällig. Diese zahlst du ganz unkompliziert bei der Anreise direkt an die Unterkunft.
@@ -165,9 +170,9 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 > Zur Anmeldung oder für Fragen
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
+
 
 <div class="gallery-box">
   <div class="gallery">
@@ -292,7 +297,7 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
 
 ---
 

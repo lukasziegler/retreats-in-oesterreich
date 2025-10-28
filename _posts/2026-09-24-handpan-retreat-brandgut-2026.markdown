@@ -131,7 +131,7 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
   - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
     bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
 
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **75 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
 Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
@@ -193,6 +193,7 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
   - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
   - 27 bis 14 Tage vor Beginn: **50 % Stornogebühr** vom Gesamtpreis
   - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br>
+  - Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
 - **Ersatzteilnehmer**: Falls du selbst eine Ersatzperson findest, bekommst du den gesamten Betrag rückerstattet, egal zu welchem Zeitpunkt.
 
