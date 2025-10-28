@@ -8,7 +8,7 @@ end_date: 2026-05-03
 author: lukas
 image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
 tags: [handpan, yoga, tirol]
-featured: hide
+featured: false
 ---
 
 
@@ -223,10 +223,10 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
   - Restbetrag: binnen 60 Tagen, spätestens bis 6 Wochen vor Beginn
 
 - **Stornobedingungen:** 
-  - bis 2 Monate vorher - kostenfrei  
-  - 2 Monate bis 28 Tage vorher - 30% der Summe
-  - 28 Tage bis 14 Tage vorher - 50% der Summe
-  - ab 14 Tage vor Beginn - 100% der Summe
+  - bis 2 Monate vorher: 0% vom Gesamtpreis / volle Rückerstattung  
+  - 2 Monate bis 28 Tage vorher: 30% vom Gesamtpreis
+  - 28 Tage bis 14 Tage vorher: 50% vom Gesamtpreis
+  - ab 14 Tage vor Beginn: 100% vom Gesamtpreis
 
   - Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. –– **OUTDATED**
 

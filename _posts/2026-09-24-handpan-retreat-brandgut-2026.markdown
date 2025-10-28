@@ -8,14 +8,14 @@ end_date: 2026-09-27
 author: lukas
 image: '/images/people/lukas-ziegler/lukas-handpan-pop-up-yoga.jpg'
 tags: [handpan, yoga, salzburg]
-featured: hide
+featured: false
 ---
 
 
 ## 24. - 27. September 2026
 **4 Tage in den wunderschönen Salzburger Bergen mit Alex & Lukas**
 
-**💸 Neu: "Bring a Friend" – und spart gemeinsam 💸** – <a href="#bring-a-friend">siehe Details</a>
+**💸 "Bring a Friend" – und spart gemeinsam 💸** – <a href="#bring-a-friend">siehe Details</a>
 
 Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das kombiniert mit Yoga, Wellness und in der traumhaften Kulisse der Salzburger Bergwelt?
 
@@ -134,7 +134,7 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 - Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **75 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
-Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Preisnachlass**. 
+Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
 
 ---
 
@@ -168,6 +168,8 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom September 2025</a>
 
+---
+
 ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
 
 - Ein wunderbares Handpan-Retreat für Anfänger! Lukas und Alex haben mit Leichtigkeit und Herzblut eine entspannte und stimmige Mischung aus Yoga und Handpan geschaffen – einfach schön!
@@ -187,9 +189,16 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 
 - Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
-- **Stornobedingungen:** Bei Storno vor dem 21. August 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (21. August 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. Alles Weitere kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahme- und Stornobedingungen</a> entnehmen.
+- **Stornobedingungen:** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
+  - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
+  - 27 bis 14 Tage vor Beginn: **50 % Stornogebühr** vom Gesamtpreis
+  - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br>
+
+- **Ersatzteilnehmer**: Falls du selbst eine Ersatzperson findest, bekommst du den gesamten Betrag rückerstattet, egal zu welchem Zeitpunkt.
 
 - **Mindestteilnehmerzahl:** 6 Personen. Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat rechtzeitig (min. 21 Tage vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+
+- Alles Weiteren Infos kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahmebedingungen</a> entnehmen.
 
 
 ---
@@ -198,9 +207,9 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 > Zur Anmeldung oder für Fragen
 
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank">anmeldung@lukasziegler.com</a>)
+- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202026&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank">anmeldung@lukasziegler.com</a>)
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202026&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 <div class="gallery-box">
   <div class="gallery">
@@ -325,7 +334,7 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202025&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20f%C3%BCr%20Retreat%20im%20September%202026&body=In%20der%20Anmelde-E-Mail%20bitte%20folgende%20Infos%20mit%20angeben%3A%0A1.%20Deine%20Rechnungsadresse%20(f%C3%BCr%20die%20Rechnung)%0A2.%20Ob%20du%20mit%20einer%20eigenen%20Handpan%20in%20D%20Kurd%20440%20Hz%20kommst%20oder%20dir%20eine%20ausleihen%20m%C3%B6chtest%0A3.%20Welches%20Zimmer%20du%20buchen%20m%C3%B6chtest" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 ---
 
