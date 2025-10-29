@@ -191,11 +191,12 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 
 - **Stornobedingungen:** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
   - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
-  - 27 bis 14 Tage vor Beginn: **50 % Stornogebühr** vom Gesamtpreis
+  - 27 bis 14 Tage vor Beginn: **75 % Stornogebühr** vom Gesamtpreis
   - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br>
-  - Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
 - **Ersatzteilnehmer**: Falls du selbst eine Ersatzperson findest, bekommst du den gesamten Betrag rückerstattet, egal zu welchem Zeitpunkt.
+
+- Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
 - **Mindestteilnehmerzahl:** 6 Personen. Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat rechtzeitig (min. 21 Tage vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
