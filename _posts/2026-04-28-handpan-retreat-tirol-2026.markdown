@@ -219,17 +219,15 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 - Unsere Unterkunft Hubird befindet sich im Navistal und ist auch **mit den Öffis gut zu erreichen**. Du erhältst eine kostenlose Gästekarte, mit der du ab Innsbruck Hbf gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze wir euch gerne.
 
 - **Zahlungsbedingungen:**
-  - Anzahlung: bei Buchung 30% vom Gesamtpreis
-  - Restbetrag: binnen 60 Tagen, spätestens bis 6 Wochen vor Beginn
+  - bei Buchung 30% vom Gesamtpreis als Anzahlung
+  - binnen 60 Tagen (spätestens bis 6 Wochen vor Beginn) den Restbetrag<br><br>
 
-- **Stornobedingungen:** 
-  - bis 2 Monate vorher: 0% vom Gesamtpreis / volle Rückerstattung  
-  - 2 Monate bis 28 Tage vorher: 30% vom Gesamtpreis
-  - 28 Tage bis 14 Tage vorher: 50% vom Gesamtpreis
-  - ab 14 Tage vor Beginn: 100% vom Gesamtpreis
+- **Stornobedingungen:** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
+  - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
+  - 27 bis 14 Tage vor Beginn: **75 % Stornogebühr** vom Gesamtpreis
+  - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br><br>
 
-  - Bei Storno vor dem 30. März 2025, erfolgt eine 100%ige Rückerstattung // ab 4 Wochen vor Beginn (ab April 2025), erfolgt keine Rückerstattung. Außer der Teilnehmer kümmert sich selbständig um eine Nachbesetzung, dann wird 100% rückerstattet. –– **OUTDATED**
-
+- **Ersatzteilnehmer**: Falls du selbst eine Ersatzperson findest, bekommst du den gesamten Betrag rückerstattet, egal zu welchem Zeitpunkt.
 
 - **Mindestteilnehmerzahl:** 7 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
@@ -244,6 +242,7 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 - schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
 - oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
 
+---
 
 
 ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
@@ -260,12 +259,7 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 
 
-
-**TODO: BUCHUNGSFORMULAR EINBINDEN**
-
 <!-- <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>--> 
-
-**TODO: FEEDBACK FORMULAR EINBINDEN** (doch nicht ganz passend?)
 
 ---
 
@@ -327,10 +321,52 @@ Erfahre mehr über Alex auf
 
 > Noch Fragen? 
 
+
 Falls du noch zögerst und dich fragst...
 
-**TODO: FAQs überarbeiten**
-**@ALEX, kannst du das machen?**
+**Q: Ich bin mir nicht sicher, ob ich schon genügend Spielerfahrung habe.**
+
+A: Dieses Retreat ist bewusst für verschiedene Erfahrungslevel gestaltet.<br>
+
+- Während des Retreats werden wir die Gruppe immer wieder in kleinere Gruppen aufteilen, um individuell auf die jeweiligen Spiellevels eingehen zu können.
+- Als grobe Orientierung: *2 Monate bis etwa 2 Jahre Spielerfahrung* sind ideal.
+- Wenn du bereits mit der Malte Marten Methode lernst, und mit dem Konzept von Harmonie-Melodie-Rhythmus vertraut bist oder bereits verschiedene Patterns spielen kannst, bist du bestens vorbereitet.
+Falls du dir die Handpan autodidaktisch oder nach einer anderen Methode beigebracht hast, ist das kein Problem – wir wiederholen die Grundlagen am ersten Tag.
+- Wenn du dir trotzdem noch unsicher bist, melde dich gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">per WhatsApp bei Lukas</a>. In einem kurzen Videocall können wir gerne gemeinsam herauszufinden, ob das Retreat etwas für dich ist. 
+- Mehr Details zu den behandelten Inhalten findest du unter <a href="#weitere-infos" target="_blank">Weitere Infos</a>.
+
+
+**Q: Ich bin nicht musikalisch.**
+
+A: Viele Teilnehmer denken, sie seien "nicht musikalisch". Die Handpan ist ein leicht zugängliches Instrument, das keine großen musikalischen Vorkenntnisse erfordert. Dieses Retreat ist dafür konzipiert, wenn du intuitiv, melodisch und meditativ spielen lernen möchtest. Musikalische Vorerfahrungen werden nich benötigt. Die Workshops basieren auf der Malte Marten Methode, wo es um intuitives Spielen und das freie Kombinieren verschiedener Patterns geht. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
+
+
+**Q: Warum so lange? 5 Tage sind mir zu viel.**
+
+Unsere Erfahrungen der letzten Jahre haben gezeigt, dass viele Teilnehmer:innen bis zu 3 Tage brauchen, um richtig anzukommen – und ab dem 4. Tag oft ein klarer Sprung im Spiel und im Verständnis erkennbar ist. Deshalb haben wir uns bewusst erneut für 5 Tage entschieden: So kannst du am meisten lernen und gleichzeitig den vollen Erholungseffekt genießen. 
+
+
+**Q: Ich habe keine eigene Handpan.**
+
+Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und können dir auf wunsch eine D Kurd Handpan mitbringen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte bei deiner Buchung.
+
+
+**Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
+
+Für diese Veranstaltung verwenden wir bewusst Handpans in der D-Kurd-Stimmung, da eine einheitliche Tonleiter das gemeinsame Spielen erleichtert und eine harmonische Klangwelt schafft. Besonders für Anfänger ist dies wichtig, da es die kognitive Last reduziert und ein schnelleres sowie effektiveres Lernen ermöglicht.
+
+In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer – insbesondere in Beginner- und Online-Kursen – mit D-Kurd Handpans spielen. Fortgeschrittene Kurse gehen später auf andere Skalen ein. Falls du keine eigene Handpan in D-Kurd-Stimmung besitzt, kannst du für das Retreat ganz unkompliziert eine leihen. So kannst du dich voll auf die Musik und das gemeinsame Erlebnis konzentrieren.
+
+
+
+**Q: Wie läuft das mit dem Yoga? Ist das optional? Welcher Stil wird unterrichtet?**
+
+Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag und ist für alle Teilnehmer eine wertvolle Ergänzung. Es ist vollkommen optional, jeder kann mitmachen – Vorkenntnisse sind nicht erforderlich. Unterrichtet wird Hatha Yoga, kombiniert mit Elementen aus Animal Flow und Functional Fitness, um die Balance, Kraft und Mobilität zu fördern.
+
+
+**TODO:** BUCHUNGSFORMULAR EINBINDEN
+**TODO:** FEEDBACK FORMULAR EINBINDEN
+
 
 ---
 
