@@ -15,8 +15,6 @@ featured: false
 ## 24. - 27. September 2026
 **4 Tage in den wunderschönen Salzburger Bergen mit Alex & Lukas**
 
-**💸 "Bring a Friend" – und spart gemeinsam 💸** – <a href="#bring-a-friend">siehe Details</a>
-
 Träumst du auch davon? Deine eigene Handpan zu haben und umgeben von toller Natur zu spielen? Einzutauchen in die Handpan-Welt, ohne dir gleich ein eigenes Instrument kaufen zu müssen? Und das kombiniert mit Yoga, Wellness und in der traumhaften Kulisse der Salzburger Bergwelt?
 
 Und falls du dich schon lange fragst, wie du deine ersten Schritte gehen kannst, ohne gleich 1.000 - 3.000 € für dein erstes Instrument zu investieren? Dann bist du nicht alleine und hier genau richtig!
@@ -66,18 +64,18 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 *Donnerstag (Anreise)*
 
-- **15:00 - 17:00** Ankommen 
+- **15:00 – 17:00** Ankommen 
 - **18:00** Abendessen
 - **20:00** Opening Circle mit den ersten Handpan-Klängen
 
 *Freitag / Samstag*
 
-- **7:30-9:00** Yoga (Meditation, Pranayama, Hatha) 
-- **9:00-10:15** Brunch
-- **11:00-13:00** Handpan-Workshop
-- **13:00-17:00** Zeit für dich (für eine Wanderung, zum Wellnessen oder zum Vertiefen deiner Handpan-Praxis) — Snacks stehen am Nachmittag zur Verfügung
-- **17:00-18:00** Handpan-Workshop
-- **18:30-19:30** Abendessen 
+- **7:30 – 9:00** Yoga (Meditation, Pranayama, Hatha) 
+- **9:00 – 10:15** Brunch
+- **11:00 – 13:00** Handpan-Workshop
+- **13:00 – 17:00** Zeit für dich (für eine Wanderung, zum Wellnessen oder zum Vertiefen deiner Handpan-Praxis) — Snacks stehen am Nachmittag zur Verfügung
+- **17:00 – 18:00** Handpan-Workshop
+- **18:30 – 19:30** Abendessen 
 - **20:00** Abendprogramm (Spa-Bereich, Yoga+Klangreise oder geselliges Beisammensein)
 
 

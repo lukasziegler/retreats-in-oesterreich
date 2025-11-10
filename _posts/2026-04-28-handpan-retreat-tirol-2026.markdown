@@ -6,7 +6,7 @@ date: 2025-09-14 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas
-image: '/images/retreats/hubird-navis/navis-2025-sarah+alex3.jpg'
+image: '/images/retreats/hubird-navis/navis-2025-sarah+alex.jpg'
 tags: [handpan, yoga, tirol]
 featured: true
 ---
@@ -332,13 +332,13 @@ A: Dieses Retreat ist bewusst für verschiedene Erfahrungslevel gestaltet.<br>
 - Als grobe Orientierung: *2 Monate bis etwa 2 Jahre Spielerfahrung* sind ideal.
 - Wenn du bereits mit der Malte Marten Methode lernst, und mit dem Konzept von Harmonie-Melodie-Rhythmus vertraut bist oder bereits verschiedene Patterns spielen kannst, bist du bestens vorbereitet.
 Falls du dir die Handpan autodidaktisch oder nach einer anderen Methode beigebracht hast, ist das kein Problem – wir wiederholen die Grundlagen am ersten Tag.
-- Wenn du dir trotzdem noch unsicher bist, melde dich gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">per WhatsApp bei Lukas</a>. In einem kurzen Videocall können wir gerne gemeinsam herauszufinden, ob das Retreat etwas für dich ist. 
+- Wenn du dir trotzdem noch unsicher bist, melde dich gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">per WhatsApp bei Lukas</a>. In einem kurzen Videocall können wir gerne gemeinsam herausfinden, ob das Retreat etwas für dich ist. 
 - Mehr Details zu den behandelten Inhalten findest du unter <a href="#weitere-infos" target="_blank">Weitere Infos</a>.
 
 
 **Q: Ich bin nicht musikalisch.**
 
-A: Viele Teilnehmer denken, sie seien "nicht musikalisch". Die Handpan ist ein leicht zugängliches Instrument, das keine großen musikalischen Vorkenntnisse erfordert. Dieses Retreat ist dafür konzipiert, wenn du intuitiv, melodisch und meditativ spielen lernen möchtest. Musikalische Vorerfahrungen werden nich benötigt. Die Workshops basieren auf der Malte Marten Methode, wo es um intuitives Spielen und das freie Kombinieren verschiedener Patterns geht. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
+A: Viele Teilnehmer denken, sie seien "nicht musikalisch". Die Handpan ist ein leicht zugängliches Instrument, das keine großen musikalischen Vorkenntnisse erfordert. Dieses Retreat ist dafür konzipiert, wenn du intuitiv, melodisch und meditativ spielen lernen möchtest. Musikalische Vorerfahrungen werden nicht benötigt. Die Workshops basieren auf der Malte Marten Methode, wo es um intuitives Spielen und das freie Kombinieren verschiedener Patterns geht. Es geht vor allem darum, dir zuzutrauen etwas Neues zu lernen, Spaß zu haben und deine eigene Verbindung zum Klang zu entdecken.
 
 
 **Q: Warum so lange? 5 Tage sind mir zu viel.**
@@ -348,7 +348,7 @@ Unsere Erfahrungen der letzten Jahre haben gezeigt, dass viele Teilnehmer:innen 
 
 **Q: Ich habe keine eigene Handpan.**
 
-Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und können dir auf wunsch eine D Kurd Handpan mitbringen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte bei deiner Buchung.
+Kein Problem! Für die 5 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und können dir auf Wunsch eine D Kurd Handpan mitbringen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte bei deiner Buchung.
 
 
 **Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
