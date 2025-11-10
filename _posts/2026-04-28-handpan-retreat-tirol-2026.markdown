@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Handpan Retreat 2026 (in Tirol)
-description: "Am ersten Maiwochenende 2026 erwarten dich fünf Tage Handpan, Yoga und Natur in den Tiroler Bergen. Dieses Retreat ist dafür da um dein Spiel zu vertiefen. Es für Personen ausgelegt, welche bereits erste Erfahrungen mit der Handpan gesammelt haben (2 Monate bis 1,5 Jahre) und ihr Spiel vertiefen möchten – mit neuen Rhythmen, Fill-ins, eigenen Patterns, gemeinsamen Jam-Sessions und inspirierenden Impulsen. Die Kombination aus Yoga, Meditation, Handpan-Workshops und Zeit in der Natur macht es leicht voll im Moment anzukommen, den Alltag hinter dir zu lassen und mit Freude und Leichtigkeit deine nächsten Schritte zu gehen."
+description: "Erlebe Anfang Mai 2026 ein einzigartiges Handpan & Yoga Retreat in Tirol – fünf Tage voller Klang, Bewegung und Natur. Eingebettet in die Stille der Alpen vertiefst du dein Handpan-Spiel, findest neue Rhythmen und Flow-Momente und öffnest Körper und Geist durch Yoga, Meditation und achtsame Zeit in der Natur. Dieses Retreat richtet sich an alle, die bereits erste Erfahrungen mit der Handpan gesammelt haben und ihr Spiel mit Freude, Tiefe und Leichtigkeit weiterentwickeln möchten. Tauche ein in die Welt von Klang, Achtsamkeit und Verbundenheit – und gönn dir eine Auszeit, die Herz, Musik und Seele berührt."
 date: 2025-09-14 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas
-image: '/images/retreats/hubird-navis/handpan-im-navis-lukas--by-weni.jpg'
+image: '/images/retreats/hubird-navis/navis-2025-sarah+alex3.jpg'
 tags: [handpan, yoga, tirol]
-featured: false
+featured: true
 ---
 
 
@@ -18,11 +18,11 @@ featured: false
 
 Träumst du auch davon? Mit deiner Handpan umgeben von Gleichgesinnten und beeindruckender Natur zu spielen? Tiefer einzutauchen in das Handpanspielen, gemeinsam mit anderen zu Jammen, dabei deine Komfortzone zu erweitern und all das kombiniert mit Bergluft & Sauna in den Tiroler Bergen?
 
-Genau das werden wir vom **29. April – 3. Mai 2026** wieder machen. Komm mit uns ins Navistal für **5 Tage Handpan, Yoga und Meditation** in der <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodge</a>, wo wir bereits 2025 und 2024 waren.
+Genau das werden wir vom **29. April – 3. Mai 2026** wieder machen. Komm mit uns ins Navistal für **5 Tage Handpan, Yoga und Meditation** in der <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird Mountain Lodge</a>, wo wir bereits 2024 und 2025 Retreats veranstaltet haben.
 
 **Ein Handpan-Retreat inmitten malerisch schöner Natur**
 
-Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mit inspirierenden Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine nächsten Schritte mit der Handpan zu gehen. Tauche ein in die Magie dieses besonderen Instruments.
+Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mit inspirierenden Übungen, ein bewährtes Lernkonzept und genügend Zeit für dich selbst, hast du die perfekte Umgebung um deine nächsten Schritte mit der Handpan zu gehen. Tauche tiefer ein in die Magie dieses besonderen Instruments.
 
 
 <div class="gallery-box">
@@ -52,7 +52,7 @@ Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mi
 
 **Was 2026 neu ist:** 
 
-- Es gibt erstmals einen <a href="#helping-handich">vergünstigten Helferplatz</a>, da wir tagsüber Unterstützung in der Küche benötigen
+- Es gibt erstmals einen <a href="#helping-handich">vergünstigten Helferplatz</a>, da wir tagsü ber Unterstützung in der Küche benötigen – du zahlst also weniger und hilfst dafür ein wenig mit.
 - Die Handpan-Miete kostet nun nur **75 Euro** für die 5 Tage (inkl. Versicherung)
 
 **Was dieses Event besonders macht:**
@@ -81,19 +81,19 @@ Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mi
 
 *Mittwoch (Anreise)*
 
-- **15:00 - 17:00** Ankommen 
+- **15:00 – 17:00** Ankommen 
 - **18:00** Abendessen
 - **19:30** Kennenlernen & Opening Circle
 
 *Donnerstag / Freitag / Samstag*
 
-- **7:45-9:45** Yoga (Meditation, Pranayama, Hatha) 
-- **10:00-11:00** Brunch 
-- **11:30-13:00** Handpan-Workshop (Vormittag) 
-- **13:00-15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis) – Snacks stehen am Nachmittag zur Verfügung
-- **15:30-16:30** Freies Spielen (mit Möglichkeit für Fragen)
-- **16:30-17:30** Handpan-Workshop oder Zeit zum Jammen
-- **18:00-19:30** Abendessen 
+- **7:45 – 9:45** Yoga (Meditation, Pranayama, Hatha) 
+- **10:00 – 11:00** Brunch 
+- **11:30 – 13:00** Handpan-Workshop (Vormittag) 
+- **13:00 – 15:00** Zeit für dich (z.B. für eine Wanderung oder zum Vertiefen deiner Handpan-Praxis) – Snacks stehen am Nachmittag zur Verfügung
+- **15:30 – 16:30** Freies Spielen (mit Möglichkeit für Fragen)
+- **16:30 – 17:30** Handpan-Workshop oder Zeit zum Jammen
+- **18:00 – 19:30** Abendessen 
 - **ab 20:00** Abendprogramm (Klangreise, Sauna oder geselliger Abend in Hot Tub)
 
 *Sonntag (Abreise)*
@@ -188,13 +188,13 @@ In 2026 gibt es erstmals ein vergünstigtes Ticket. Für die Mithilfe beim Abrä
 
 ---
 
-**Im Preis beinhaltet:**
+**Im Preis inkludiert:**
 
 - 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
 - Halbpension mit Snacks, mit bester vegan/vegetarischer Küche von Laura/<a href="https://www.instagram.com/rechargingkitchen/" target="_blank" rel="noopener">Recharging Kitchen</a> (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
-- Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier + Limo) sind selbst zu bezahlen
-- Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
-- Und 1x Sauna und 1x Hot Tub
+- Wasser, Tee und Kaffee inklusive; gekühlte Getränke aus dem Kühlschrank (z. B. Bier & Limo) gegen Aufpreis
+- Das gesamte Kursprogramm mit Handpan-Unterricht, Meditation & täglichem Yoga
+- 1x Sauna und 1x Hot Tub
 
 
 ---
@@ -247,15 +247,15 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
 
-- Das Retreat von Lukas & Alex war eine wunderschöne Auszeit. Ich bin ohne große Erwartungen bezüglich dem Handpanspielen hergekommen und möchte jetzt unbedingt weiterspielen! Lukas hat sein Können toll vermittelt & die Yogastunden von Alex waren ein super schöner Start in den Tag! Die beiden haben sehr gut auf die Bedürfnisse aller geachtet und jeder konnte so sein, wie er wollte. Auch die Natur/Umgebung, Unterkunft & Verpflegung waren ein Highlight! Ich komme gerne wieder! Danke! 
+- "Das Retreat von Lukas & Alex war eine wunderschöne Auszeit. Ich bin ohne große Erwartungen bezüglich dem Handpanspielen hergekommen und möchte jetzt unbedingt weiterspielen! Lukas hat sein Können toll vermittelt & die Yogastunden von Alex waren ein super schöner Start in den Tag! Die beiden haben sehr gut auf die Bedürfnisse aller geachtet und jeder konnte so sein, wie er wollte. Auch die Natur/Umgebung, Unterkunft & Verpflegung waren ein Highlight! Ich komme gerne wieder! Danke!" – Marianne
 
-- Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch.
+- "Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch." – Brigit
 
-- Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen.
+- "Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen." – Lana
 
-- Lieber Lukas, lieber Alex! Von Herzen danke für dieses wundervolle Retreat! Eine liebevolle Organisation, die harmonische Verbindung aus Handpan und Yoga, sowie die achtsame Atmosphäre haben die Tage zu etwas ganz besonderem gemacht. Ich fühle mich entspannt, inspiriert, erfüllt und zutiefst dankbar. Eure Hingabe, euer Feingefühl und eure einzigartigen Skillsets haben es ermöglicht, sich spielerisch Neuem zu nähern, mit Freude und Neugier. Eure Wärme und Passion hat einen heilsamen, perfekt ausbalancierten Raum geschaffen.
+- "Lieber Lukas, lieber Alex! Von Herzen danke für dieses wundervolle Retreat! Eine liebevolle Organisation, die harmonische Verbindung aus Handpan und Yoga, sowie die achtsame Atmosphäre haben die Tage zu etwas ganz besonderem gemacht. Ich fühle mich entspannt, inspiriert, erfüllt und zutiefst dankbar. Eure Hingabe, euer Feingefühl und eure einzigartigen Skillsets haben es ermöglicht, sich spielerisch Neuem zu nähern, mit Freude und Neugier. Eure Wärme und Passion hat einen heilsamen, perfekt ausbalancierten Raum geschaffen." – Sandra
 
-- Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!
+- "Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!" – Steffi
 
 
 
