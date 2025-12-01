@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Retreat 2026 (in Tirol)
 description: "Erlebe Anfang Mai 2026 ein einzigartiges Handpan & Yoga Retreat in Tirol – fünf Tage voller Klang, Bewegung und Natur. Eingebettet in die Stille der Alpen vertiefst du dein Handpan-Spiel, findest neue Rhythmen und Flow-Momente und öffnest Körper und Geist durch Yoga, Meditation und achtsame Zeit in der Natur. Dieses Retreat richtet sich an alle, die bereits erste Erfahrungen mit der Handpan gesammelt haben und ihr Spiel mit Freude, Tiefe und Leichtigkeit weiterentwickeln möchten. Tauche ein in die Welt von Klang, Achtsamkeit und Verbundenheit – und gönn dir eine Auszeit, die Herz, Musik und Seele berührt."
-date: 2026-12-01 02:02:12 +0100
+date: 2025-12-01 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas

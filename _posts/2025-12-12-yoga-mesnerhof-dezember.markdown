@@ -9,7 +9,6 @@ author: yoga-ocean-flow
 description: "Komm mit in die Berge zum Advents-Retreat am Mesnerhof-C 🏔️ eine bewegte und entspannte Auszeit mit Yoga, gutem Essen und Zeit in der Natur."
 tags: [yoga, tirol]
 external: true
-featured: true
 ---
 
 <div class="post__external-link">
