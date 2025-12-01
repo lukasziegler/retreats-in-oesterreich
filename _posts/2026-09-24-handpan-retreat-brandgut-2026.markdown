@@ -28,6 +28,7 @@ Was dieses Event besonders macht:
 - Handpans von der Marke <a href="https://yataoshop.com/" target="_blank">Yatao</a> oder <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> werden dir auf Wunsch zur Verfügung gestellt
 - 4-Tage **Auszeit in den Bergen**, in einer traumhaften Retreat-Location im Glemmtal/Viehhofen - zwischen Zell am See und Saalbach Hinterglemm <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
 
+💸 **Es gibt noch** <a href="#preis">Early-Bird-Tickets</a> 💸
 
 <div class="gallery-box">
   <div class="gallery">
