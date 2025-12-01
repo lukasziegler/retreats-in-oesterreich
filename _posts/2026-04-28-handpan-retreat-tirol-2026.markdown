@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Retreat 2026 (in Tirol)
 description: "Erlebe Anfang Mai 2026 ein einzigartiges Handpan & Yoga Retreat in Tirol – fünf Tage voller Klang, Bewegung und Natur. Eingebettet in die Stille der Alpen vertiefst du dein Handpan-Spiel, findest neue Rhythmen und Flow-Momente und öffnest Körper und Geist durch Yoga, Meditation und achtsame Zeit in der Natur. Dieses Retreat richtet sich an alle, die bereits erste Erfahrungen mit der Handpan gesammelt haben und ihr Spiel mit Freude, Tiefe und Leichtigkeit weiterentwickeln möchten. Tauche ein in die Welt von Klang, Achtsamkeit und Verbundenheit – und gönn dir eine Auszeit, die Herz, Musik und Seele berührt."
-date: 2025-09-14 02:02:12 +0100
+date: 2026-12-01 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas
@@ -119,7 +119,7 @@ Die Handpan-Workshops werden auf Basis der **D-Kurd** Handpanskala unterrichtet.
 Da es sich um vertiefende Workshops handelt, werden **folgende Kenntnisse vorausgesetzt**:
 
 - **Erste Spielerfahrung**: Du bekommst problemlos Töne aus der Handpan und beherrscht sowohl den Anschlag mit den Finger und Daumen.
-- Sicheres beherrschen von **Akkordabfolgen**: du kannst wiederholt mehrere verschieden Akkorde hintereinander spielen und kannst zwischen 2-4-6 und 1-3-5 wechseln.
+- Sicheres beherrschen von **Akkordfolgen**: du kannst wiederholt mehrere verschieden Akkorde hintereinander spielen und kannst zwischen 2-4-6 und 1-3-5 wechseln.
 - Unabhängig voneinander Bassnoten und Melodienoten spielen kannst (Melodiehand + Basshand)
 - Falls du Zweifel hast, ob du schon fit genug bist beim Handpan spielen, um an den Workshops teilzunehmen, <a href="#kontakt">melde dich gerne bei Lukas</a>. Auf Wunsch erhältst du im Vorfeld Videos von Lukas, damit du die Grundlagen aus dem Anfängerkurs wiederholen kannst.
 
