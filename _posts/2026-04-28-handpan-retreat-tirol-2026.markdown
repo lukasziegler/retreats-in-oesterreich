@@ -36,10 +36,12 @@ Durch ein achtsames Miteinander, ausgiebig Zeit zum Handpanspielen, Workshops mi
 **Für wen dieses Retreat gedacht ist:**
 
 - Wenn du bereits erste Spielpraxis gesammelt hast (z.B. einen Anfängerkurs besucht hast) und nun deine Spielpraxis vertiefen möchtest
-- Wenn du neue Impulse suchst, wie du dich vom auswendig gelernten Patterns lösen kannst und in deinen eigenen Spielfluss finden möchtest
+- Wenn du neue Impulse suchst, wie du dich von auswendig gelernten Patterns lösen kannst und in deinen eigenen Spielfluss finden möchtest
 - Wenn du mit anderen gemeinsam Handpan spielen ("jammen") möchtest
 - Wenn dir nach einer Auszeit in den Bergen ist, und das am liebsten mit Yoga und Handpan
-- Wenn dein Bauchgefühl "Ja" sagt - ohne zu wissen warum ;)
+
+Falls du noch Anfänger:in bist, dann schau dir unser Retreat an:<br>
+<a href="/handpan-retreat-brandgut-2026">Handpan Beginner Days (vom 24. - 27. September 2026)</a>
 
 **Was dich in den Workshops erwartet:**
 
@@ -364,9 +366,10 @@ In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer –
 Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag und ist für alle Teilnehmer eine wertvolle Ergänzung. Es ist vollkommen optional, jeder kann mitmachen – Vorkenntnisse sind nicht erforderlich. Unterrichtet wird Hatha Yoga, kombiniert mit Elementen aus Animal Flow und Functional Fitness, um die Balance, Kraft und Mobilität zu fördern.
 
 
+<!-- 
 **TODO:** BUCHUNGSFORMULAR EINBINDEN
 **TODO:** FEEDBACK FORMULAR EINBINDEN
-
+-->
 
 ---
 
