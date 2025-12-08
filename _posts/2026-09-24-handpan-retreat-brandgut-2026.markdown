@@ -130,7 +130,7 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
   - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
     bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
 
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **80 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
 Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
