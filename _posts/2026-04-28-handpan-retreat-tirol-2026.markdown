@@ -55,7 +55,7 @@ Falls du noch Anfänger:in bist, dann schau dir unser Retreat an:<br>
 **Was 2026 neu ist:** 
 
 - Es gibt erstmals einen <a href="#helping-hand">vergünstigten Helferplatz</a>, da wir tagsüber Unterstützung in der Küche benötigen – du zahlst also weniger und hilfst dafür ein wenig mit.
-- Melde dich zusammen <a href="#bring-a-friend">mit einer weiteren Person an</a> und ihr erhaltet jeweils 75 € Rabatt.
+- Melde dich zusammen <a href="#bring-a-friend">mit einer weiteren Person an</a> und ihr erhaltet jeweils 50 € Rabatt.
 
 **Was dieses Event besonders macht:**
 
@@ -189,7 +189,7 @@ Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für 
 In 2026 gibt es erstmals ein vergünstigtes Ticket. Für die Mithilfe beim Abräumen und Abspülen erhältst du **150 Euro Rabatt** auf deine Buchung. Wir bitten dich zwei mal am Tag für je 30-45 Minuten in der Küche zu unterstützen.
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
-Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **75 € Rabatt**. 
+Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
 
 
 ---
