@@ -157,16 +157,8 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 ---
 
 <!-- 
-### Preis
-
-- **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete (regulärer Preis von Phase 3)
-- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
-
-*Wissenswertes:* 
-- Der Preis von 885 Euro besteht aus 475 Euro Fixkosten für Übernachtung, Essensverpflegung und Miete der Räumlichkeiten.
-- Wenn du dich dafür entscheidest, eine der Leih-Handpans zu kaufen, wird dir die Mietgebühr auf den Kaufpreis angerechnet.
-- Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
-- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). -->
+- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). 
+-->
 
 ### Preisgestaltung
 
@@ -180,8 +172,8 @@ Der Preis für dieses Retreat setzt zusammen aus dem Kursbeitrag (für Organisat
 - Doppelzimmer: **505 Euro** (noch 1x verfügabr)
 - <span style="text-decoration: line-through">Einzelzimmer: 590 Euro</span> (ausgebucht)
 
-**#3 Leihgebühr:** 100 Euro (optional)<br>
-Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **100 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
+**#3 Leihgebühr:** 80 Euro (optional)<br>
+Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **80 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
 
 ---
 
