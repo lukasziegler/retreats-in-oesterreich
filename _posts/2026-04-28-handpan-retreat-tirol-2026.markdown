@@ -256,9 +256,6 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 - "Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!" – Steffi
 
 
-
-<!-- <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>--> 
-
 ---
 
 
@@ -273,13 +270,6 @@ Inmitten der beeindruckenden Tiroler Berglandschaft lädt Lukas dich ein, innezu
 
 Erfahre mehr über Lukas auf
 <a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/handpan.with.lukas">Linktree</a>.
-
-<!-- Wer dich begleitet**
-Lukas ...
-- leitet seit 1,5 Jahren Klangreisen in Österreich und Bayern
-- hat über den Online Kurs von Malte Marten das Handpan spielen gelernt und möchte die Faszination für dieses Instrument nun mit anderen teilen
-- Er absolviert derzeit das Handpan Teacher Training von Malte und unterrichtet bereits an erste Schüler das Handpan spielen.
-- Mehr über Lukas auf . --> 
 
 
 
@@ -363,7 +353,6 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 
 <!-- 
-**TODO:** BUCHUNGSFORMULAR EINBINDEN
 **TODO:** FEEDBACK FORMULAR EINBINDEN
 -->
 
