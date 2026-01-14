@@ -112,7 +112,7 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 ### Preis
 
 
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Aktuell _(Stand 20. August)_ liegt der Gesamtpreis zwischen 955,- und 1.120 Euro. Der Preis setzt sich wie folgt zusammen:
+Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Der Gesamtpreis liegt zwischen 885,- und 1.120 Euro und setzt sich wie folgt zusammen:
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
