@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Retreat 2026 (in Tirol)
 description: "Erlebe Anfang Mai 2026 ein einzigartiges Handpan & Yoga Retreat in Tirol – fünf Tage voller Klang, Bewegung und Natur. Eingebettet in die Stille der Alpen vertiefst du dein Handpan-Spiel, findest neue Rhythmen und Flow-Momente und öffnest Körper und Geist durch Yoga, Meditation und achtsame Zeit in der Natur. Dieses Retreat richtet sich an alle, die bereits erste Erfahrungen mit der Handpan gesammelt haben und ihr Spiel mit Freude, Tiefe und Leichtigkeit weiterentwickeln möchten. Tauche ein in die Welt von Klang, Achtsamkeit und Verbundenheit – und gönn dir eine Auszeit, die Herz, Musik und Seele berührt."
-date: 2025-12-01 02:02:12 +0100
+date: 2026-01-23 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas
@@ -237,8 +237,10 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 > Zur Anmeldung oder bei Fragen
 
-- schreibe Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a> 
-- oder per Email (<a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank">anmeldung@lukasziegler.com</a>)
+- Anmeldung über <a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank">das Buchungsformular</a>
+- oder bei Fragen gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>
+
+<a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 
 ---
 
@@ -356,10 +358,27 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 **TODO:** FEEDBACK FORMULAR EINBINDEN
 -->
 
+
 ---
 
-## Sonst noch was?
+## Überlegst du noch?
 
-> Melde dich gerne bei Lukas via <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder <a href="mailto:retreats@lukasziegler.com?subject=Navis" target="_blank">Email</a>.
+Melde dich gerne bei Lukas. Egal ob bei Fragen, falls du noch am abwägen bist oder falls du grundsätzlich Interesse hast, der Zeitpunkt oder das Paket aber noch nicht ganz passt. Wir haben eine Warteliste für zukünftige Events und schreiben dir gerne, wenn das nächste Event bevorsteht.
+
+> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:anmeldung@lukasziegler.com?subject=Navis" target="_blank">E-Mail</a>.
+
+---
+
+*Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
+
+Es ist eine Auszeit vom Alltag – getragen von Klängen, in Gemeinschaft und umgeben von traumhafter Natur.
+
+Wir freuen uns auf die Tage mit dir!
+
+## Komm mit 🏔️
+
+<a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+
+
 
 ---
