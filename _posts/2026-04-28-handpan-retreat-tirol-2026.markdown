@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Retreat 2026 (in Tirol)
 description: "Erlebe Anfang Mai 2026 ein einzigartiges Handpan & Yoga Retreat in Tirol – fünf Tage voller Klang, Bewegung und Natur. Eingebettet in die Stille der Alpen vertiefst du dein Handpan-Spiel, findest neue Rhythmen und Flow-Momente und öffnest Körper und Geist durch Yoga, Meditation und achtsame Zeit in der Natur. Dieses Retreat richtet sich an alle, die bereits erste Erfahrungen mit der Handpan gesammelt haben und ihr Spiel mit Freude, Tiefe und Leichtigkeit weiterentwickeln möchten. Tauche ein in die Welt von Klang, Achtsamkeit und Verbundenheit – und gönn dir eine Auszeit, die Herz, Musik und Seele berührt."
-date: 2026-01-23 02:02:12 +0100
+date: 2026-02-01 02:02:12 +0100
 start_date: 2026-04-29
 end_date: 2026-05-03
 author: lukas
@@ -169,15 +169,15 @@ Der Preis für dieses Retreat setzt zusammen aus dem Kursbeitrag (für Organisat
 **#2 Unterkunft und Verpflegung:**
 
 - Mehrbettzimmer: **445 Euro** (mit 3 bis 5 Personen)
-- Doppelzimmer: **505 Euro** (noch 1x verfügabr)
-- <span style="text-decoration: line-through">Einzelzimmer: 590 Euro</span> (ausgebucht)
+- <span style="text-decoration: line-through">Doppelzimmer: **505 Euro** </span> (ausgebucht)
+- <span style="text-decoration: line-through">Einzelzimmer: **590 Euro**</span> (ausgebucht)
 
 **#3 Leihgebühr:** 80 Euro (optional)<br>
 Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **80 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
 
 ---
 
-<strong id="helping-hand">Helping Hand-Platz:</strong><br>
+<strong id="helping-hand"><span style="text-decoration: line-through">Helping Hand-Platz:</span></strong> (vergeben)<br>
 In 2026 gibt es erstmals ein vergünstigtes Ticket. Für die Mithilfe beim Abräumen und Abspülen erhältst du **150 Euro Rabatt** auf deine Buchung. Wir bitten dich zwei mal am Tag für je 30-45 Minuten in der Küche zu unterstützen.
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
