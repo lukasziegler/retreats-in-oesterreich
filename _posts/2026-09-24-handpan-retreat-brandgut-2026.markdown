@@ -2,7 +2,7 @@
 layout: post
 title: Handpan Beginner Days 2026 (Viehhofen)
 description: Komm mit in die Berge und tauche ein in die Welt des Handpan-Spielens. Erlerne in nur wenigen Tagen die Grundlagen, wie du dich mit einer Handpan spielerisch leicht musikalisch ausdrücken kannst – und das in traumhafter Kulisse, kombiniert mit Yoga in den Salzburger Bergen. Gönn dir eine Auszeit von deinem Alltag, erlerne ein neues Instrument und komm zu neuen Kräften. Keine Vorkenntnisse + kein eigenes Instrument notwendig.
-date: 2025-10-26 02:02:12 +0100
+date: 2026-03-08 02:02:12 +0100
 start_date: 2026-09-24
 end_date: 2026-09-27
 author: lukas
@@ -116,10 +116,10 @@ Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
-- **Grundbetrag** zw. 885 – 925 Euro <br>
+- **Grundbetrag:** 925 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** 885 Euro (Tickets #1-3) = **aktuelle Phase**
-  - **Reguläres Ticket:** 925 Euro
+  - **Early Bird:** 885 Euro (Tickets #1-3) – *ausverkauft*
+  - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - Einzelzimmer alt: kein Aufpreis – *noch 1x verfügbar*
