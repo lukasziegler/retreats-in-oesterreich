@@ -1,3 +1,5 @@
+NO FEATURING ANYMORE
+
 ---
 layout: post
 title: THE GOOD CAMP® Reconnect

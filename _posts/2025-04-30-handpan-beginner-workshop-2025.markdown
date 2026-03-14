@@ -1,3 +1,5 @@
+NO FEATURING ANYMORE
+
 ---
 layout: post
 title: Handpan Beginner Days 2025 (Navis)

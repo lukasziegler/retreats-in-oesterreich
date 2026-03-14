@@ -1,3 +1,5 @@
+NO FEATURING ANYMORE
+
 ---
 title: YOGA x BERGE am Mesnerhof-C
 external_url: https://www.yogaoceanflow.com/yoga-retreat-mesnerhof
