@@ -12,6 +12,7 @@ tags: [handpan, yoga, salzburg]
 
 <a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
 
+---
 
 
 ## 18. - 21. September 2025
@@ -112,6 +113,8 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ---
 
+<!--
+
 ### Preis
 
 
@@ -150,9 +153,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2025</a>
 
-<!-- ### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns -->
 
----
 
 ### Organisatorisches
 
@@ -173,6 +174,7 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 <a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
 
+-->
 
 <div class="gallery-box">
   <div class="gallery">
@@ -228,8 +230,8 @@ Erfahre mehr über Alex auf
 </div>
 
 
----
 
+<!-- 
 ### FAQs
 
 > Noch Fragen? 
@@ -265,6 +267,8 @@ In der Handpan-Welt hat es sich mittlerweile etabliert, dass alle Teilnehmer –
 
 Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag und ist für alle Teilnehmer eine wertvolle Ergänzung. Es ist vollkommen optional, jeder kann mitmachen – Vorkenntnisse sind nicht erforderlich. Unterrichtet wird Hatha Yoga, kombiniert mit Elementen aus Animal Flow und Functional Fitness, um die Balance, Kraft und Mobilität zu fördern.
 
+--> 
+
 ---
 
 <div class="gallery-box">
@@ -281,11 +285,14 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 ---
 
+<!-- 
 ## Überlegst du noch?
 
 Melde dich gerne unverbindlich bei Lukas. Egal ob bei Fragen, falls du noch am abwägen bist oder falls du grundsätzlich Interesse hast, der Zeitpunkt oder das Paket aber noch nicht ganz passt. Wir haben eine Warteliste für zukünftige Events und schreiben dir gerne, wenn das nächste Event bevorsteht.
 
-> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:anmeldung@lukasziegler.com?subject=Interesse%20am%20Retreat%20im%20September%202025" target="_blank">Email</a>.
+> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a>.
+
+--> 
 
 ---
 

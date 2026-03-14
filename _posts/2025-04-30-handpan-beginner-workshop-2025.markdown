@@ -128,23 +128,15 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 - Falls du arbeitslos / in Elternzeit bist, können wir dir eine 5% Ermäßigung auf den regulären Preis geben.
 - Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). -->
 
-### Preisgestaltung
 
-- Ab **885 Euro** für Verpflegung, Übernachtung, Kursinhalte und Raummiete
-- Falls du noch keine eigene Handpan hast, zzgl. **125 Euro** für die Handpan-Miete (für die 5 Tage inkl. Versicherung)
 
-**Im Preis beinhaltet:**
-
-- 4 Übernachtungen mit Wohlfühlatmosphäre im <a href="https://de.bluebirdmountainlodges.com/das-hubird-deine-retreat-location" target="_blank">Hubird</a>
-- Halbpension mit Snacks, mit bester vegan/vegetarischer Küche (Brunch gegen 10 Uhr, kleine Snacks am Nachmittag und gemeinsames Abendessen um 18:00 Uhr)
-- Wasser, Tee und Kaffee sind inklusive, gekühlte Getränke aus dem Kühlschrank (wie Bier + Limo) sind selbst zu bezahlen
-- Das gesamte Kursprogramm (mit Handpan-Unterricht und täglicher Meditation + Yoga)
-- Und zusätzlich 1x Sauna und 1x Hot Tub am Abend sind dabei
-
+<!--
 ### Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
+-->
 
----
 
+
+<!-- 
 > Bist du neugierig geworden? 
 
 Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank">die Highlights von 2024</a> an! Im Mai 2024 waren wir für das "Ashtanga Yoga & Stille Retreat" mit Magda und Lukas am selben Ort.
@@ -164,7 +156,6 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 - **Mindestteilnehmerzahl:** 6 Personen.  Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat  rechtzeitig (min. 6 Wochen vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
 
----
 
 
 > Zur Anmeldung oder für Fragen
@@ -174,9 +165,10 @@ Dann schau dir auf Instagram <a href="https://www.instagram.com/s/aGlnaGxpZ2h0Oj
 
 <a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier unsere neuen Termine 🧘</a>
 
+--> 
+
 <!-- <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>--> 
 
----
 
 
 ### Wer dich begleitet
@@ -217,6 +209,11 @@ Erfahre mehr über Alex auf
 
 ---
 
+## Termin verpasst? 
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Hier findest du unsere neuen Termine</a>
+
+---
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/people/lukas-ziegler/lukas-handpan-pop-up-yoga-close-up.jpg" loading="lazy">
@@ -231,6 +228,8 @@ Erfahre mehr über Alex auf
 
 
 ---
+
+<!-- 
 
 ### FAQs
 
@@ -280,17 +279,14 @@ Es ist eine Auszeit vom Alltag – getragen von Klängen, der Natur und in Gemei
 
 Wir freuen uns auf die Tage mit dir.
 
+--> 
+
 <!--
 ## Komm mit!
 
 <a href="mailto:anmeldung@lukasziegler.com?subject=Anmeldung%20Navis%202025" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
 -->
 
-## Termin verpasst? 
-<a href="https://retreats-in-oesterreich.at/handpan-retreat-saalbach-2025" class="button button--primary subscribe-button js-sign-up">Im September 2025 findet die Wiederholung statt 🧘</a>
-
-
----
 
 ![Man]({{site.baseurl}}/images/retreats/hubird-navis/hubird-4--manuelaclemens.de.jpg#wide)
 *Unser Ausblick vom Hubird, direkt von der Jurte mit Blick Richtung Osten (Foto von [Manuela Clemens](https://manuelaclemens.de))*

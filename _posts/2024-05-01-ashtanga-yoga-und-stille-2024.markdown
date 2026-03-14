@@ -1,3 +1,4 @@
+TEMPORARILY DEACTIVATED
 ---
 layout: post
 title: Ashtanga Yoga & Stille 2024
