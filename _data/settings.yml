@@ -50,8 +50,8 @@ blog:
 # Recommended Tag Settings
 tag:
   enable: true
-  tag__title: Veranstaltungsorte unserer Kooperationspartner
-  tag__name: Motivation
+  #tag__title: Veranstaltungsorte unserer Kooperationspartner
+  #tag__name: Motivation
 
 
 #-------------------------------

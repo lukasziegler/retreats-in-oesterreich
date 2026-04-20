@@ -18,16 +18,14 @@
   </div>
 </div>
 
+<!--
 <div class="container">
   <div class="section__info">
     <div class="section__head">
       <h2 class="section__title">Bisherige Retreats</h2>
     </div>
   </div>
-
   <div class="row grid">
-    <!-- TODO replace site.posts with filtered_posts--> 
-
     {% if site.posts.size > 0 %} 
       {% assign current_date = "now" | date: "%Y-%m-%d" %}
       {% assign past_posts = "" %}
@@ -44,7 +42,10 @@
       {% endfor %}
     {% endif %}
   </div>
-</div>
+</div> 
+--> 
 
 <!-- TODO fix functionality of pagination --> 
-{% include pagination.html %}
+<!-- include pagination.html --> 
+
+{% include disclaimer.html %}
