@@ -8,7 +8,11 @@ end_date: 2026-05-03
 author: lukas
 image: '/images/retreats/hubird-navis/navis-2025-sarah+alex.jpg'
 tags: [handpan, yoga, tirol]
-featured: true
+---
+
+
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
+
 ---
 
 
@@ -54,8 +58,8 @@ Falls du noch Anfänger:in bist, dann schau dir unser Retreat an:<br>
 
 **Was 2026 neu ist:** 
 
-- Es gibt erstmals einen <a href="#helping-hand">vergünstigten Helferplatz</a>, da wir tagsüber Unterstützung in der Küche benötigen – du zahlst also weniger und hilfst dafür ein wenig mit.
-- Melde dich zusammen <a href="#bring-a-friend">mit einer weiteren Person an</a> und ihr erhaltet jeweils 50 € Rabatt.
+- Es gibt erstmals einen <i>vergünstigten Helferplatz</i>, da wir tagsüber Unterstützung in der Küche benötigen – du zahlst also weniger und hilfst dafür ein wenig mit.
+- Melde dich zusammen <i>mit einer weiteren Person an</i> und ihr erhaltet jeweils 50 € Rabatt.
 
 **Was dieses Event besonders macht:**
 
@@ -156,26 +160,7 @@ Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex 
 
 ---
 
-<!-- 
-- Aktuell ist noch 1 Platz im Mehrbettzimmer verfügbar (Stand 14.04.2025). 
--->
-
-### Preisgestaltung
-
-Der Preis für dieses Retreat setzt zusammen aus dem Kursbeitrag (für Organisation + Durchführung), den Kosten für Unterkunft + Verpflegung (je nach Zimmerwahl) und einer optionalen Leihgebühr, falls du keine passende Handpan hast.
-
-**#1 Kursbeitrag:** **550 Euro**
-
-**#2 Unterkunft und Verpflegung:**
-
-- Mehrbettzimmer: **445 Euro** (mit 3 bis 5 Personen)
-- <span style="text-decoration: line-through">Doppelzimmer: **505 Euro** </span> (ausgebucht)
-- <span style="text-decoration: line-through">Einzelzimmer: **590 Euro**</span> (ausgebucht)
-
-**#3 Leihgebühr:** 80 Euro (optional)<br>
-Falls du keine Handpan (D Kurd in 440 Hz) mitbringen kannst, kannst du dir für **80 Euro** eine Handpan (für 5 Tage inkl. Versicherung) ausleihen. Bitte bei Buchung mit angeben.
-
----
+<!--
 
 <strong id="helping-hand"><span style="text-decoration: line-through">Helping Hand-Platz:</span></strong> (vergeben)<br>
 In 2026 gibt es erstmals ein vergünstigtes Ticket. Für die Mithilfe beim Abräumen und Abspülen erhältst du **150 Euro Rabatt** auf deine Buchung. Wir bitten dich zwei mal am Tag für je 30-45 Minuten in der Küche zu unterstützen.
@@ -194,8 +179,8 @@ Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 �
 - Das gesamte Kursprogramm mit Handpan-Unterricht, Meditation & täglichem Yoga
 - 1x Sauna und 1x Hot Tub
 
+-->
 
----
 
 ### Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
 
@@ -211,6 +196,7 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 
 ---
+<!--
 
 ### Organisatorisches
 
@@ -233,14 +219,9 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Mai 202
 
 ---
 
-<div id="kontakt">&nbsp;</div>
+-->
 
-> Zur Anmeldung oder bei Fragen
-
-- Anmeldung über <a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank">das Buchungsformular</a>
-- oder bei Fragen gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>
-
-<a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
 
 ---
 
@@ -365,8 +346,6 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 Melde dich gerne bei Lukas. Egal ob bei Fragen, falls du noch am abwägen bist oder falls du grundsätzlich Interesse hast, der Zeitpunkt oder das Paket aber noch nicht ganz passt. Wir haben eine Warteliste für zukünftige Events und schreiben dir gerne, wenn das nächste Event bevorsteht.
 
-> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:anmeldung@lukasziegler.com?subject=Navis" target="_blank">E-Mail</a>.
-
 ---
 
 *Diese 5 Tage bieten dir weit mehr als nur ein 1-Tages-Workshop:*
@@ -377,8 +356,10 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
+<!-- 
 <a href="https://forms.gle/rrVU9FYvw1Aszriv8" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+-->
 
-
+<a href="/tags/?tag=handpan" class="button button--primary subscribe-button js-sign-up">Termin verpasst? Hier findest du unsere neuen Termine</a>
 
 ---

@@ -8,7 +8,7 @@ end_date: 2026-09-27
 author: lukas
 image: '/images/people/lukas-ziegler/lukas-handpan-pop-up-yoga.jpg'
 tags: [handpan, yoga, salzburg]
-featured: false
+featured: true
 ---
 
 
