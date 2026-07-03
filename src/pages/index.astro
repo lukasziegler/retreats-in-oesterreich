@@ -1,0 +1,52 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import RetreatCard from "../components/RetreatCard.astro";
+import Disclaimer from "../components/Disclaimer.astro";
+import { blog } from "../data/settings";
+import { allRetreats, past, upcoming } from "../utils/retreats";
+
+const retreats = await allRetreats();
+const upcomingRetreats = upcoming(retreats);
+const pastRetreats = past(retreats);
+---
+
+<BaseLayout>
+  <Hero />
+
+  <div class="container">
+    <div class="section__info">
+      <div class="section__head">
+        <h2 class="section__title">{blog.upcomingTitle}</h2>
+        <p class="section__description">{blog.upcomingDescription}</p>
+      </div>
+    </div>
+
+    <div class="row grid">
+      {
+        upcomingRetreats.map((retreat) => (
+          <RetreatCard retreat={retreat} class="grid__post" />
+        ))
+      }
+    </div>
+  </div>
+
+  {
+    pastRetreats.length > 0 && (
+      <div class="container">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{blog.pastTitle}</h2>
+          </div>
+        </div>
+        <div class="row grid">
+          {pastRetreats.map((retreat) => (
+            <RetreatCard retreat={retreat} class="grid__post" />
+          ))}
+        </div>
+      </div>
+    )
+  }
+
+  <Disclaimer />
+</BaseLayout>

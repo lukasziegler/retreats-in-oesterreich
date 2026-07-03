@@ -1,0 +1,66 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { allRetreats } from "../utils/retreats";
+
+const title = "Unser Partner-Netzwerk";
+
+const authors = await getCollection("authors");
+const retreats = await allRetreats();
+
+const authorCards = await Promise.all(
+  authors.map(async (author) => {
+    const { Content } = await render(author);
+    const count = retreats.filter(
+      (r) => r.data.author?.id === author.id,
+    ).length;
+    return { author, Content, count };
+  }),
+);
+---
+
+<BaseLayout title={title}>
+  <section class="authors">
+    <div class="authors__head">
+      <h1 class="authors__title">{title}</h1>
+    </div>
+
+    <div class="authors__inner animate">
+      <div class="container">
+        <div class="row">
+          {
+            authorCards.map(({ author, Content, count }) => (
+              <div class="col col-4 col-d-6 col-t-12">
+                <div class="authors__info">
+                  <a class="authors__image" href={`/${author.id}/`}>
+                    {author.data.image && (
+                      <img
+                        src={author.data.image}
+                        alt={author.data.name}
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    )}
+                  </a>
+                  <h2 class="authors__name">
+                    <a class="authors__link" href={`/${author.id}/`}>
+                      {author.data.name}
+                    </a>
+                  </h2>
+                  {count >= 1 && (
+                    <div class="authors__posts__count">
+                      {count} {count < 2 ? "Retreat" : "Retreats"}
+                    </div>
+                  )}
+                  <div class="authors__description">
+                    <Content />
+                  </div>
+                </div>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

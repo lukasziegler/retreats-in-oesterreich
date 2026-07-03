@@ -1,0 +1,104 @@
+---
+import "@fontsource/mulish/400.css";
+import "@fontsource/mulish/400-italic.css";
+import "@fontsource/mulish/600.css";
+import "@fontsource/mulish/700.css";
+import "@fontsource/mulish/800.css";
+import "../styles/tokens.css";
+import "../styles/global.css";
+
+import { site } from "../data/settings";
+import CookieNotice from "../components/CookieNotice.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** Pfad zum Vorschaubild (og:image), z.B. "/images/…" */
+  image?: string;
+  /** Zusätzliches JSON-LD (z.B. Event-Schema für Retreats) */
+  jsonLd?: Record<string, unknown>;
+}
+
+const { title, description, image, jsonLd } = Astro.props;
+
+const isHome = Astro.url.pathname === "/";
+const pageTitle = title
+  ? isHome
+    ? site.title
+    : `${title} – ${site.title}`
+  : site.title;
+const headTitle = title ?? site.title;
+const metaDescription = (description ?? site.description).slice(0, 300);
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL(encodeURI(image ?? site.defaultImage), Astro.site);
+---
+
+<!doctype html>
+<html lang="de-AT">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{headTitle}</title>
+    <meta name="description" content={metaDescription} />
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={site.title}
+      href={new URL("/feed.xml", Astro.site)}
+    />
+
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.title} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="de_AT" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={metaDescription} />
+    <meta name="twitter:image" content={ogImage} />
+
+    {
+      jsonLd && (
+        <script
+          is:inline
+          type="application/ld+json"
+          set:html={JSON.stringify(jsonLd)}
+        />
+      )
+    }
+  </head>
+
+  <body>
+    <CookieNotice />
+
+    <div class="global-wrap">
+      <Header />
+
+      <main class="content" aria-label="Inhalt">
+        <slot />
+      </main>
+
+      <Footer />
+    </div>
+
+    <script>
+      import { initSite } from "../scripts/main";
+
+      initSite();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,58 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RetreatCard from "../../components/RetreatCard.astro";
+import { allRetreats, allTags } from "../../utils/retreats";
+
+const title = "Tags";
+const tags = allTags(await allRetreats());
+---
+
+<BaseLayout title={title}>
+  <section class="tags">
+    {
+      tags.map(({ tag, retreats }) => (
+        <div class="tags__inner is-hidden" id={tag}>
+          <div class="container">
+            <div class="row">
+              <div class="col col-12">
+                <div class="tag__info">
+                  {retreats[0]?.data.image && (
+                    <div class="tag__image">
+                      <img
+                        src={retreats[0].data.image}
+                        alt={tag}
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    </div>
+                  )}
+                  <h2 class="tag__name">{tag}</h2>
+                  <div class="tag__counter">
+                    {retreats.length}{" "}
+                    {retreats.length < 2 ? "Retreat" : "Retreats"}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="container animate">
+            <div class="row">
+              {retreats.map((retreat) => (
+                <RetreatCard retreat={retreat} />
+              ))}
+            </div>
+          </div>
+        </div>
+      ))
+    }
+  </section>
+
+  <script>
+    // Zeigt die Tag-Sektion aus dem ?tag=-Parameter (wie auf der Jekyll-Site)
+    const tag = new URLSearchParams(window.location.search).get("tag");
+    if (tag) {
+      document.getElementById(tag)?.classList.remove("is-hidden");
+    }
+  </script>
+</BaseLayout>

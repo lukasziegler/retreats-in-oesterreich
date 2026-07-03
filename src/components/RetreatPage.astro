@@ -1,0 +1,279 @@
+---
+import { getEntry, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DateRange from "./DateRange.astro";
+import Icon from "./Icon.astro";
+import RelatedPosts from "./RelatedPosts.astro";
+import { longDate } from "../utils/dates";
+import { mdInlineLinks } from "../utils/md";
+import { allRetreats, type Retreat } from "../utils/retreats";
+import { author as siteAuthor } from "../data/settings";
+
+interface Props {
+  retreat: Retreat;
+}
+
+const { retreat } = Astro.props;
+const {
+  title,
+  description,
+  date,
+  start_date,
+  end_date,
+  image,
+  image_caption,
+  tags,
+  external_url,
+} = retreat.data;
+
+const { Content } = await render(retreat);
+const author = retreat.data.author
+  ? await getEntry(retreat.data.author)
+  : undefined;
+
+// Vorheriges/nächstes Retreat entlang des Startdatums
+const chronological = (await allRetreats()).sort(
+  (a, b) => a.data.start_date.valueOf() - b.data.start_date.valueOf(),
+);
+const index = chronological.findIndex((r) => r.id === retreat.id);
+const previous = index > 0 ? chronological[index - 1] : undefined;
+const next =
+  index < chronological.length - 1 ? chronological[index + 1] : undefined;
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site);
+const shareTitle = encodeURIComponent(title);
+const shareUrl = encodeURIComponent(pageUrl.href);
+
+// Event-Schema für Google Rich Results
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  name: title,
+  ...(description && { description }),
+  startDate: start_date.toISOString().slice(0, 10),
+  endDate: end_date.toISOString().slice(0, 10),
+  eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+  eventStatus: "https://schema.org/EventScheduled",
+  ...(image && { image: [new URL(encodeURI(image), Astro.site).href] }),
+  url: external_url ?? pageUrl.href,
+  location: {
+    "@type": "Place",
+    name: "Österreich",
+    address: { "@type": "PostalAddress", addressCountry: "AT" },
+  },
+  ...(author && {
+    organizer: {
+      "@type": "Person",
+      name: author.data.name,
+      ...(author.data.website && { url: author.data.website }),
+    },
+  }),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={image}
+  jsonLd={jsonLd}
+>
+  <div class="post-head">
+    <div class="container">
+      <div class="row">
+        <div class="col col-6 col-d-12">
+          <div class="post__info">
+            {
+              tags.length > 0 && (
+                <div class="post__tags">
+                  {tags.map((tag) => (
+                    <a
+                      href={`/tags/?tag=${encodeURIComponent(tag.toLowerCase())}`}
+                      class="post__tag"
+                    >
+                      {tag}
+                    </a>
+                  ))}
+                </div>
+              )
+            }
+
+            <h1 class="post__title">{title}</h1>
+
+            {description && <p class="post__description">{description}</p>}
+
+            <div class="post__meta">
+              {
+                author ? (
+                  <a href={`/${author.id}/`} class="post__author__image">
+                    {author.data.image && (
+                      <img
+                        src={author.data.image}
+                        alt={author.data.name}
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    )}
+                  </a>
+                ) : (
+                  <span class="post__author__image">
+                    <img
+                      src={siteAuthor.avatar}
+                      alt={siteAuthor.name}
+                      loading="lazy"
+                    />
+                  </span>
+                )
+              }
+
+              <div class="post__meta-bottom">
+                {
+                  author ? (
+                    <a class="post__author__name" href={`/${author.id}/`}>
+                      {author.data.name}
+                    </a>
+                  ) : (
+                    <span class="post__author__name">{siteAuthor.name}</span>
+                  )
+                }
+                <time
+                  class="post__date"
+                  datetime={date.toISOString().slice(0, 10)}
+                >
+                  {longDate(date)}
+                </time>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {
+          image && (
+            <div class="col col-5 push-1 col-d-12 push-d-0">
+              <div class="post-image">
+                <img src={image} alt={title} decoding="async" />
+              </div>
+              {image_caption && (
+                <div
+                  class="post-image-caption"
+                  set:html={mdInlineLinks(image_caption)}
+                />
+              )}
+            </div>
+          )
+        }
+      </div>
+    </div>
+  </div>
+
+  <div class="container animate">
+    <article class="post">
+      <div class="post__content">
+        <Content />
+      </div>
+
+      <div class="post__share">
+        <ul class="share__list list-reset">
+          <li class="share__item">
+            <a
+              class="share__link share__twitter"
+              href={`https://twitter.com/intent/tweet?text=${shareTitle}&url=${shareUrl}`}
+              title="Auf Twitter teilen"
+              rel="nofollow noopener"
+              target="_blank"><Icon name="twitter" /></a
+            >
+          </li>
+          <li class="share__item">
+            <a
+              class="share__link share__facebook"
+              href={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
+              title="Auf Facebook teilen"
+              rel="nofollow noopener"
+              target="_blank"><Icon name="facebook" /></a
+            >
+          </li>
+          <li class="share__item">
+            <a
+              class="share__link share__pinterest"
+              href={`https://pinterest.com/pin/create/button/?url=${shareUrl}&media=${encodeURIComponent(image ? new URL(encodeURI(image), Astro.site).href : "")}&description=${shareTitle}`}
+              title="Auf Pinterest teilen"
+              rel="nofollow noopener"
+              target="_blank"><Icon name="pinterest" /></a
+            >
+          </li>
+        </ul>
+      </div>
+    </article>
+  </div>
+
+  <div class="container">
+    <div class="post__navigation animate">
+      {
+        previous && (
+          <div class="post__prev">
+            <a href={`/${previous.id}/`} class="prev__image">
+              {previous.data.image && (
+                <img
+                  src={previous.data.image}
+                  alt={previous.data.title}
+                  loading="lazy"
+                  decoding="async"
+                />
+              )}
+            </a>
+            <div class="prev__box">
+              <div class="post__nav post__nav__prev">
+                Vorhergehendes Retreat
+              </div>
+              <h2 class="post__nav__title">
+                <a href={`/${previous.id}/`}>{previous.data.title}</a>
+              </h2>
+              {previous.data.description && (
+                <p class="post__nav__excerpt">{previous.data.description}</p>
+              )}
+              <div class="post__nav__date-range">
+                <DateRange
+                  start={previous.data.start_date}
+                  end={previous.data.end_date}
+                />
+              </div>
+            </div>
+          </div>
+        )
+      }
+
+      {
+        next && (
+          <div class="post__next">
+            <div class="next__box">
+              <span class="post__nav post__nav__next">Nächstes Retreat</span>
+              <h2 class="post__nav__title">
+                <a href={`/${next.id}/`}>{next.data.title}</a>
+              </h2>
+              {next.data.description && (
+                <p class="post__nav__excerpt">{next.data.description}</p>
+              )}
+              <div class="post__nav__date-range">
+                <DateRange
+                  start={next.data.start_date}
+                  end={next.data.end_date}
+                />
+              </div>
+            </div>
+            <a href={`/${next.id}/`} class="next__image">
+              {next.data.image && (
+                <img
+                  src={next.data.image}
+                  alt={next.data.title}
+                  loading="lazy"
+                  decoding="async"
+                />
+              )}
+            </a>
+          </div>
+        )
+      }
+    </div>
+  </div>
+
+  <RelatedPosts current={retreat} />
+</BaseLayout>

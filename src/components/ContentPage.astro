@@ -1,0 +1,48 @@
+---
+import { render, type CollectionEntry } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { mdInlineLinks } from "../utils/md";
+
+interface Props {
+  page: CollectionEntry<"pages">;
+}
+
+const { page } = Astro.props;
+const { title, description, image, image_caption } = page.data;
+const { Content } = await render(page);
+---
+
+<BaseLayout title={title} description={description} image={image}>
+  <div class="container">
+    <div class="page-head">
+      <div class="page__info">
+        <h1 class="page__title">{title}</h1>
+        {description && <p class="page__description">{description}</p>}
+      </div>
+
+      {
+        image && (
+          <div class="page-image">
+            <img src={image} alt={title} decoding="async" />
+          </div>
+        )
+      }
+      {
+        image && image_caption && (
+          <div
+            class="page-image-caption"
+            set:html={mdInlineLinks(image_caption)}
+          />
+        )
+      }
+    </div>
+  </div>
+
+  <div class="container animate">
+    <article class="page">
+      <div class="page__content">
+        <Content />
+      </div>
+    </article>
+  </div>
+</BaseLayout>

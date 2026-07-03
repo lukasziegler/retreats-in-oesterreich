@@ -1,0 +1,86 @@
+---
+import { allRetreats, allTags, upcoming } from "../utils/retreats";
+import { longDate } from "../utils/dates";
+import Icon from "./Icon.astro";
+
+const retreats = await allRetreats();
+const recent = upcoming(retreats).slice(0, 4);
+const tags = allTags(retreats);
+---
+
+<div class="search">
+  <div class="search__box">
+    <div class="search__group">
+      <button class="search__close" type="button" aria-label="Suche schließen">
+        <Icon name="close" />
+      </button>
+      <label for="js-search-input" class="screen-reader-text"
+        >Retreats durchsuchen</label
+      >
+      <input
+        type="text"
+        id="js-search-input"
+        class="search__text"
+        autocomplete="off"
+        placeholder="Type to search..."
+      />
+    </div>
+    <div class="search-results-list" id="js-results-container"></div>
+    <div class="search-suggestion">
+      <div class="search-recent">
+        <h3 class="search-suggestion__title">Recent content</h3>
+        <div class="search-recent__inner">
+          {
+            recent.map((retreat) => (
+              <div class="search-recent__item">
+                {retreat.data.image && (
+                  <a class="search-recent__image" href={`/${retreat.id}/`}>
+                    <img
+                      src={retreat.data.image}
+                      alt={retreat.data.title}
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </a>
+                )}
+                <div class="search-recent__content">
+                  <div class="search-recent__meta">
+                    <time
+                      class="search-recent__date"
+                      datetime={retreat.data.start_date
+                        .toISOString()
+                        .slice(0, 10)}
+                    >
+                      {longDate(retreat.data.start_date)}
+                    </time>
+                  </div>
+                  <h4 class="search-recent__title">
+                    <a href={`/${retreat.id}/`}>{retreat.data.title}</a>
+                  </h4>
+                </div>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+
+      {
+        tags.length > 0 && (
+          <div class="search-tags">
+            <h3 class="search-suggestion__title">Popular topics</h3>
+            <div class="search-tags__inner">
+              {tags.map(({ tag }) => (
+                <a
+                  href={`/tags/?tag=${encodeURIComponent(tag)}`}
+                  class="search-tag"
+                >
+                  {tag}
+                </a>
+              ))}
+            </div>
+          </div>
+        )
+      }
+    </div>
+  </div>
+</div>

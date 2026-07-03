@@ -1,0 +1,103 @@
+---
+import { render, type CollectionEntry } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "./Icon.astro";
+import RetreatCard from "./RetreatCard.astro";
+import { allRetreats } from "../utils/retreats";
+
+interface Props {
+  author: CollectionEntry<"authors">;
+}
+
+const { author } = Astro.props;
+const { name, image, website, instagram, facebook, twitter } = author.data;
+const { Content } = await render(author);
+
+const retreats = (await allRetreats()).filter(
+  (r) => r.data.author?.id === author.id,
+);
+const countLabel = retreats.length < 2 ? "Retreat" : "Retreats";
+---
+
+<BaseLayout title={name} image={image}>
+  <section class="author">
+    <div class="container">
+      <div class="author__content">
+        <div class="author__image">
+          {image && <img src={image} alt={name} decoding="async" />}
+        </div>
+        <h1 class="author__name">{name}</h1>
+        {
+          retreats.length > 0 && (
+            <div class="author__posts__count">
+              {retreats.length} {countLabel}
+            </div>
+          )
+        }
+
+        <div class="author__info">
+          {
+            website && (
+              <a
+                class="author__social__item"
+                href={website}
+                target="_blank"
+                rel="noopener"
+                aria-label="Website"
+              >
+                <Icon name="link" />
+              </a>
+            )
+          }
+          {
+            instagram && (
+              <a
+                class="author__social__item"
+                href={instagram}
+                target="_blank"
+                rel="noopener"
+                aria-label="Instagram"
+              >
+                <Icon name="instagram" />
+              </a>
+            )
+          }
+          {
+            facebook && (
+              <a
+                class="author__social__item"
+                href={facebook}
+                target="_blank"
+                rel="noopener"
+                aria-label="Facebook"
+              >
+                <Icon name="facebook" />
+              </a>
+            )
+          }
+          {
+            twitter && (
+              <a
+                class="author__social__item"
+                href={twitter}
+                target="_blank"
+                rel="noopener"
+                aria-label="Twitter"
+              >
+                <Icon name="twitter" />
+              </a>
+            )
+          }
+        </div>
+
+        <Content />
+      </div>
+    </div>
+
+    <div class="container animate">
+      <div class="row">
+        {retreats.map((retreat) => <RetreatCard retreat={retreat} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

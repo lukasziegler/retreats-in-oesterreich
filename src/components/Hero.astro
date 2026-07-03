@@ -1,0 +1,79 @@
+---
+import { hero } from "../data/settings";
+import { allRetreats, featured } from "../utils/retreats";
+import RetreatCard from "./RetreatCard.astro";
+import Icon from "./Icon.astro";
+
+const featuredRetreats = featured(await allRetreats());
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          <h1 class="hero__title">{hero.title}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {
+    featuredRetreats.length > 0 && (
+      <div class="featured-section">
+        <div class="container">
+          <div class="row">
+            <div class="col col-12">
+              <div class="featured__info">
+                <div class="featured__head">
+                  <h2 class="featured__title">
+                    Entdecke unsere kommenden Retreats
+                  </h2>
+                  <ul
+                    class="slider-controls list-reset"
+                    id="customize-controls"
+                    aria-label="Slider Navigation"
+                  >
+                    <li
+                      class="prev"
+                      data-controls="prev"
+                      tabindex="0"
+                      role="button"
+                      aria-label="Zurück"
+                    >
+                      <Icon name="arrow-back" />
+                    </li>
+                    <li
+                      class="next"
+                      data-controls="next"
+                      tabindex="0"
+                      role="button"
+                      aria-label="Weiter"
+                    >
+                      <Icon name="arrow-forward" />
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="featured__slider animate">
+          <div class="container">
+            <div class="row">
+              <div class="posts-slider">
+                {featuredRetreats.map((retreat) => (
+                  <RetreatCard
+                    retreat={retreat}
+                    linkExternal={Boolean(retreat.data.external_url)}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+</section>

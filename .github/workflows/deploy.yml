@@ -1,0 +1,55 @@
+# Baut die Astro-Site und deployt sie auf GitHub Pages.
+#
+# Wird erst aktiv, wenn in den Repo-Settings unter Pages
+# "Source: GitHub Actions" eingestellt ist.
+#
+# Der wöchentliche Cron-Trigger sorgt dafür, dass abgelaufene Retreats
+# automatisch in "Bisherige Retreats" wandern, auch ohne neuen Commit.
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Jeden Montag um 04:30 UTC neu bauen (Datum-basierte Archivierung)
+    - cron: "30 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+
+  build:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: withastro/action@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

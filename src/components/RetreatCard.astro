@@ -1,0 +1,71 @@
+---
+import type { Retreat } from "../utils/retreats";
+import DateRange from "./DateRange.astro";
+
+interface Props {
+  retreat: Retreat;
+  /** Spaltenklassen, z.B. "col-4 col-d-6 col-t-12" (Startseite) oder "col-3 col-d-6 col-m-12" (Related) */
+  columns?: string;
+  /** Karte verlinkt extern (Featured-Slider bei external_url) */
+  linkExternal?: boolean;
+  /** Tags + Beschreibung anzeigen (kompakte Karten lassen beides weg) */
+  compact?: boolean;
+  class?: string;
+}
+
+const {
+  retreat,
+  columns = "col-4 col-d-6 col-t-12",
+  linkExternal = false,
+  compact = false,
+  class: className,
+} = Astro.props;
+
+const { title, description, image, tags, start_date, end_date, external_url } =
+  retreat.data;
+const internalUrl = `/${retreat.id}/`;
+const href = linkExternal && external_url ? external_url : internalUrl;
+const externalAttrs =
+  linkExternal && external_url ? { target: "_blank", rel: "noopener" } : {};
+---
+
+<div class:list={["article col", columns, className]}>
+  <div class="article__inner">
+    <div class="article__head">
+      <a class="article__image" href={href} {...externalAttrs}>
+        {
+          image && (
+            <img src={image} alt={title} loading="lazy" decoding="async" />
+          )
+        }
+      </a>
+    </div>
+
+    <div class="article__content">
+      {
+        !compact && tags.length > 0 && (
+          <div class="article-tags__box">
+            {tags.map((tag) => (
+              <a
+                href={`/tags/?tag=${encodeURIComponent(tag.toLowerCase())}`}
+                class="article__tag"
+              >
+                {tag}
+              </a>
+            ))}
+          </div>
+        )
+      }
+
+      <h2 class="article__title">
+        <a href={href} {...externalAttrs}>{title}</a>
+      </h2>
+
+      {!compact && description && <p class="article__excerpt">{description}</p>}
+
+      <div class="article__date-range">
+        <DateRange start={start_date} end={end_date} />
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import RetreatCard from "../components/RetreatCard.astro";
+import { allRetreats, upcoming } from "../utils/retreats";
+
+const recent = upcoming(await allRetreats()).slice(0, 3);
+---
+
+<BaseLayout title="Seite nicht gefunden">
+  <div class="container">
+    <div class="page-head">
+      <div class="page__info">
+        <h1 class="page__title">Seite nicht gefunden</h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="container animate">
+    <article class="page">
+      <div class="page__content">
+        <div class="error">
+          <h2 class="error__title">404</h2>
+          <p class="error__text">
+            Die angeforderte Seite konnte nicht gefunden werden.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  {
+    recent.length > 0 && (
+      <div class="recent-posts animate">
+        <div class="container">
+          <div class="row">
+            <div class="col col-12">
+              <div class="container__inner">
+                <div class="section__info">
+                  <div class="section__head__small">
+                    <h2 class="section__title">Empfehlenswerte Retreats</h2>
+                    <a class="section__link" href="/">
+                      Zurück zur Startseite <Icon name="arrow-forward" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            {recent.map((retreat) => (
+              <RetreatCard retreat={retreat} />
+            ))}
+          </div>
+        </div>
+      </div>
+    )
+  }
+</BaseLayout>

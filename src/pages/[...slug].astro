@@ -1,0 +1,41 @@
+---
+/**
+ * Root-Level-Routen für alle drei Collections – URL-Schema wie auf der Jekyll-Site:
+ *   Pages:    /agbs/, /for-women/, … (permalink aus dem Frontmatter)
+ *   Retreats: /handpan-retreat-brandgut-2026/, … (Dateiname als Slug)
+ *   Authors:  /lukas/, /the-good-camp/, …
+ */
+import { getCollection } from "astro:content";
+import ContentPage from "../components/ContentPage.astro";
+import RetreatPage from "../components/RetreatPage.astro";
+import AuthorPage from "../components/AuthorPage.astro";
+
+export async function getStaticPaths() {
+  const [pages, retreats, authors] = await Promise.all([
+    getCollection("pages"),
+    getCollection("retreats"),
+    getCollection("authors"),
+  ]);
+
+  return [
+    ...pages.map((page) => ({
+      params: { slug: page.data.permalink.replaceAll(/^\/|\/$/g, "") },
+      props: { type: "page" as const, entry: page },
+    })),
+    ...retreats.map((retreat) => ({
+      params: { slug: retreat.id },
+      props: { type: "retreat" as const, entry: retreat },
+    })),
+    ...authors.map((author) => ({
+      params: { slug: author.id },
+      props: { type: "author" as const, entry: author },
+    })),
+  ];
+}
+
+const { type, entry } = Astro.props;
+---
+
+{type === "page" && <ContentPage page={entry} />}
+{type === "retreat" && <RetreatPage retreat={entry} />}
+{type === "author" && <AuthorPage author={entry} />}

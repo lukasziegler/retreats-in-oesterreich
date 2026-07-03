@@ -1,0 +1,80 @@
+/* ==========================================================================
+   Design-Tokens – Retreats in Österreich
+   Farbschema und Grundwerte des Dann-Themes, als Custom Properties.
+   ========================================================================== */
+
+:root {
+  /* Farben */
+  --primary-color: #00a69f;
+  --secondary-color: #c33764;
+  --white: #fff;
+  --light-blue: #f3f7ff;
+  --gray: #414244;
+  --light-gray: #eee;
+  --dark-gray: #687385;
+  --darken-gray: #e3e3e3;
+  --blue-gray: #afb5bd;
+  --dark: #282929;
+  --dark-blue: #121315;
+
+  --image-gradient-color: linear-gradient(
+    180deg,
+    rgba(52, 97, 121, 0.85) 0%,
+    rgba(20, 58, 78, 0.5) 100%
+  );
+
+  /* Semantische Farben */
+  --background-color: var(--white);
+  --background-alt-color: var(--blue-gray);
+
+  --text-color: var(--dark);
+  --text-second-color: var(--dark-gray);
+  --text-alt-color: var(--blue-gray);
+
+  --heading-font-color: var(--dark);
+
+  --link-color: var(--dark);
+  --link-color-hover: var(--dark);
+
+  --button-color: var(--white);
+  --button-background-color: var(--dark);
+  --button-background-hover: var(--primary-color);
+
+  --border-color: var(--light-gray);
+  --border-second-color: var(--darken-gray);
+  --border-alt-color: var(--blue-gray);
+
+  --th-color: var(--light-gray);
+  --tr-color: var(--light-gray);
+
+  /* Typografie */
+  --font-family-base: "Mulish", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-size-base: 18px;
+  --line-height-base: 1.6;
+
+  --heading-font-weight: 800;
+  --heading-line-height: 1.4;
+  --heading-letter-spacing: -0.5px;
+
+  --font-size-h1: 36px;
+  --font-size-h2: 28px;
+  --font-size-h3: 24px;
+  --font-size-h4: 20px;
+  --font-size-h5: 18px;
+  --font-size-h6: 16px;
+
+  /* Große Display-Titel (Hero, Post-Titel, …): fluid statt Breakpoint-Sprünge */
+  --font-size-display: clamp(28px, 2.5vw + 16px, 52px);
+  --font-size-section: clamp(30px, 1.9vw + 17px, 44px);
+
+  /* Abstände & Layout */
+  --space-unit: 16px;
+  --container-max-width: 1332px;
+  --radius: 12px;
+  --radius-pill: 60px;
+  --transition: all 0.2s;
+
+  /* Schatten */
+  --shadow-card: 0px 4px 35px rgba(0, 0, 0, 0.08);
+  --shadow-dropdown: 0 15px 40px 5px rgba(0, 0, 0, 0.1);
+}

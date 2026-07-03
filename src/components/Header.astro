@@ -1,0 +1,83 @@
+---
+import { menu, site } from "../data/settings";
+import Icon from "./Icon.astro";
+import Search from "./Search.astro";
+
+const pathname = Astro.url.pathname;
+const isHome = pathname === "/";
+const isActive = (url?: string) => url !== undefined && pathname === url;
+---
+
+<header class:list={["header", { "header--dark": isHome }]}>
+  <div class="container">
+    <div class="row">
+      <div class="header__inner col col-12">
+        <div class="logo">
+          <a class="logo__link" href="/">{site.title}</a>
+        </div>
+
+        <button
+          class="hamburger"
+          type="button"
+          aria-label="Menü öffnen"
+          aria-expanded="false"
+        >
+          <div></div>
+        </button>
+
+        <nav class="main-nav" aria-label="Hauptmenü">
+          <div class="main-nav__box">
+            <ul class="nav__list list-reset">
+              {
+                menu.map((item) =>
+                  item.submenu ? (
+                    <li class="nav__item dropdown">
+                      <span class="nav__link dropdown-toggle" tabindex="0">
+                        {item.title}{" "}
+                        <Icon name="chevron-down" class="arrow-down" />
+                      </span>
+                      <div class="dropdown-menu">
+                        {item.submenu.map((sub) => (
+                          <div>
+                            <a
+                              href={sub.url}
+                              class:list={[
+                                "nav__link",
+                                { "active-link": isActive(sub.url) },
+                              ]}
+                            >
+                              {sub.title}
+                            </a>
+                          </div>
+                        ))}
+                      </div>
+                    </li>
+                  ) : (
+                    <li class="nav__item">
+                      <a
+                        href={item.url}
+                        class:list={[
+                          "nav__link",
+                          { "active-link": isActive(item.url) },
+                        ]}
+                      >
+                        {item.title}
+                      </a>
+                    </li>
+                  ),
+                )
+              }
+            </ul>
+          </div>
+
+          <button class="nav-button" type="button" aria-label="Suche öffnen">
+            <Icon name="search" class="icon__search" />
+          </button>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="header__overlay"></div>
+</header>
+
+<Search />

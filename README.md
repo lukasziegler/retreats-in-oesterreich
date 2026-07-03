@@ -1,46 +1,36 @@
 # Retreats in Österreich
 
-Welcome to the project of [Lukas Ziegler](https://lukasziegler.com/)
-This GitHub repo is still in the making and the goal is to have a simple one-pager up and running, that can be used to validate the business case and the product-market-fit, before spending more design and engineering efforts.
+Website des Projekts [retreats-in-oesterreich.at](https://retreats-in-oesterreich.at) von [Lukas Ziegler](https://lukasziegler.com/). Die Vision: Retreats in Österreich leichter auffindbar machen und Retreat-Organisatoren bei der Orga-Arbeit unterstützen.
 
-If you are interested and equally as passionate, then reach out to me via the [contact form](https://retreats-in-oesterreich.at/kontakt/).
+Gebaut mit [Astro 7](https://astro.build) als statische Site, deployt auf GitHub Pages. Das Design basiert auf dem Jekyll-Theme „Dann" von [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko) und wurde bei der Migration zu Astro behutsam modernisiert (2026).
 
-The code base is based on the Jekyll blog theme "Dann" built by [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko). Here is the [live demo](https://dann-jekyll.netlify.app/) where you can see the original theme.
+## Entwicklung
 
-* * *
+Benötigt Node.js (Version siehe [.node-version](.node-version), z.B. via [fnm](https://github.com/Schniz/fnm)).
 
-## Installation
-
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
-
-
-### Deployment
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-
-### GitHub Codespaces
-
-To get this project up and running on GitHub Codespances, use the following commands:
-
-```
-[to build on Codespace Terminal]
-
-rvm use 3.3.6
-gem install bundler jekyll --user-install
-bundle update
-bundle exec jekyll serve
+```sh
+npm install
+npm run dev       # Dev-Server auf http://localhost:4321
+npm run build     # Production-Build nach dist/
+npm run preview   # gebaute Site lokal testen
+npm run check     # TypeScript-/Template-Prüfung
+npm run format    # Prettier
 ```
 
-If you want use the original ruby version (3.0.5) or the latest ruby version, run the following commands instead of `rvm use 3.3.6`
-```
-[ruby version - originally used]
-rvm list
-rvm install 3.0.5
-rvm use 3.0.5
+## Inhalte pflegen
 
-[or with latest ruby version]
-rvm install ruby-3.4.3
-```
+Alle Inhalte liegen als Markdown in `src/content/`:
+
+- **`retreats/`** — ein Retreat pro Datei. Der Dateiname ist die URL (`handpan-retreat-2027.md` → `/handpan-retreat-2027/`). Retreats mit `end_date` in der Vergangenheit wandern automatisch in „Bisherige Retreats"; `featured: true` zeigt sie im Slider der Startseite. `external_url` verlinkt Karten im Slider nach außen.
+- **`pages/`** — statische Seiten, URL über `permalink` im Frontmatter.
+- **`authors/`** — Veranstalter-Profile (verlinkt über das `author`-Feld der Retreats).
+
+Navigation, Hero-Text, Mailchimp, Formspree & Co. sind zentral in [src/data/settings.ts](src/data/settings.ts) konfiguriert.
+
+## Deployment
+
+Der Workflow [.github/workflows/deploy.yml](.github/workflows/deploy.yml) baut bei jedem Push auf `main` und deployt auf GitHub Pages (dazu in den Repo-Settings unter *Pages* die Source „GitHub Actions" wählen). Ein wöchentlicher Cron-Build hält die datumsbasierte Archivierung aktuell, auch ohne Commits.
+
+## Analytics
+
+Google Tag Manager ist DSGVO-konform hinter einem Cookie-Consent-Banner implementiert, aber standardmäßig deaktiviert. Zum Aktivieren die GTM-ID in [src/data/settings.ts](src/data/settings.ts) (`googleTagManagerId`) eintragen.
