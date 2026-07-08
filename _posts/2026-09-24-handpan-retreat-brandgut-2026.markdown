@@ -28,7 +28,8 @@ Was dieses Event besonders macht:
 - Handpans von der Marke <a href="https://yataoshop.com/" target="_blank">Yatao</a> oder <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> werden dir auf Wunsch zur Verfügung gestellt
 - 4-Tage **Auszeit in den Bergen**, in einer traumhaften Retreat-Location im Glemmtal/Viehhofen - zwischen Zell am See und Saalbach Hinterglemm <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
 
-💸 **Es gibt noch** <a href="#preis">Early-Bird-Tickets</a> 💸
+Veranstalter dieses Komplettangebots ist das <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">brandgut – Resort meets distillery</a> (Viehhofen, Salzburg). Die Buchung erfolgt direkt beim brandgut. Alex und Lukas begleiten dich vor Ort als Yoga- bzw. Handpan-Kursleiter.
+
 
 <div class="gallery-box">
   <div class="gallery">
@@ -111,15 +112,14 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-
-Der Gesamtpreis für das Retreat ist abhängig von der Buchungsphase, Zimmerwahl und optionalen Handpanmiete. Der Gesamtpreis liegt zwischen 885,- und 1.120 Euro und setzt sich wie folgt zusammen:
+Das brandgut bietet die Handpan Beginner Days als Komplettpaket an. Der Gesamtpreis liegt – je nach Buchungsphase und Zimmerkategorie – zwischen 885 und 1.120 Euro und beinhaltet Übernachtung, Halbpension, Wellness und das gesamte Kursprogramm.
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
 - **Grundbetrag:** 925 Euro <br>
   für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** 885 Euro (Tickets #1-3) – *ausverkauft*
-  - **Reguläres Ticket:** 925 Euro = **aktuelle Phase**
+  - **Early Bird:** 885 Euro (für Plätze #1-3) – *ausverkauft*
+  - **Regulärer Preis:** 925 Euro = **aktuelle Phase**
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - Einzelzimmer alt: kein Aufpreis – *noch 1x verfügbar*
@@ -138,10 +138,11 @@ Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 �
 ---
 
 **Wissenswertes:**
-- Nach Buchung erhältst du zwei Rechnungen. Der Betrag für die Übernachtung wird direkt <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">an die Unterkunft gezahlt</a>.
+- Nach der Buchung <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">über die brandgut Webseite</a> erhältst du deine Rechnung über die Gesamtkosten direkt vom Hotel.
 - Vor Ort wird noch die gesetzliche Ortstaxe für die Nächte im Hotel fällig. Diese zahlst du bei der Anreise direkt an die Unterkunft.
-- Falls du arbeitslos bist, können wir dir eine 5% Ermäßigung auf den Kursbeitrag geben.
 - Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
+- Veranstalter dieses Pauschalangebots ist die Brandgut KG (5752 Viehhofen, Österreich). Buchung und Vertragsabschluss erfolgen direkt beim brandgut. Lukas Ziegler (Handpan) und Alex Pichler (Yoga) gestalten das Kursprogramm im Auftrag des Veranstalters.
+
 
 **Im Preis beinhaltet:**
 
@@ -188,12 +189,12 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 
 - Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
-- **Stornobedingungen:** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
+- **Stornobedingungen des Veranstalters (brandgut):** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
   - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
   - 27 bis 14 Tage vor Beginn: **75 % Stornogebühr** vom Gesamtpreis
   - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br><br>
 
-- **Ersatzteilnehmer**: Falls du selbst eine Ersatzperson findest, bekommst du den gesamten Betrag rückerstattet, egal zu welchem Zeitpunkt.
+- **Ersatzteilnehmer**: Du kannst deine Buchung auf eine Ersatzperson übertragen – melde dich dazu einfach beim brandgut. In diesem Fall entstehen dir keine Stornokosten.
 
 - Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
@@ -208,10 +209,16 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 > Zur Anmeldung oder für Fragen
 
 
-- Anmeldung über <a href="https://forms.gle/Zb6Hhh7wU2ewqFeq7" target="_blank">das Buchungsformular</a>
-- oder bei Fragen gerne <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">via WhatsApp</a>
+- Anmeldung direkt über <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">die Webseite vom brandgut</a><br />(dort auf <b>"Jetzt anfragen"</b> klicken),
+- oder per E-Mail an <a href="mailto:info@brandgut.at">info@brandgut.at</a>.
 
-<a href="https://forms.gle/Zb6Hhh7wU2ewqFeq7" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank" class="button button--primary subscribe-button js-sign-up">Retreat beim brandgut buchen</a>
+
+<b>Noch Fragen zum Kursinhalt?</b>
+
+- Melde dich gerne unverbindlich bei Lukas <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">auf WhatsApp</a>, falls noch Fragen zu Handpan, Yoga oder dem Tagesablauf offen sind.
+- Bitte beachte: Buchungen und Zahlungen kann ich nicht entgegennehmen, das läuft ausschließlich über das brandgut.
+
 
 <div class="gallery-box">
   <div class="gallery">
@@ -290,7 +297,7 @@ Aber ich verstehe, dass 4 Tage ein ziemliches Investment sind. Wenn du an 1-Tage
 
 **Q: Ich habe keine eigene Handpan.**
 
-Kein Problem! Für die 4 Tage kannst du dir eine Handpan über uns ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, erwähne dies bitte in der Anmelde-E-Mail.
+Kein Problem! Für die 4 Tage kannst du dir eine Handpan ausleihen. Wir haben eine Partnerschaft mit Patera & Yatao und bekommen von ihnen D Kurd Handpans geliehen. So kannst du die Tage voll genießen, ohne dir vorab ein eigenes Instrument anschaffen zu müssen. Wenn du Bedarf an einer Leih-Pan hast, gib dies bitte bei deiner Buchung beim brandgut an.
 
 
 **Q: Ich habe bereits eine Handpan, aber keine D-Kurd. Ist das ein Problem?**
@@ -322,9 +329,11 @@ Das morgendliche Yoga dient als bewusster, energetisierender Einstieg in den Tag
 
 ## Überlegst du noch?
 
-Melde dich gerne unverbindlich bei Lukas. Egal ob bei Fragen, falls du noch am abwägen bist oder falls du grundsätzlich Interesse hast, der Zeitpunkt oder das Paket aber noch nicht ganz passt. Wir haben eine Warteliste für zukünftige Events und schreiben dir gerne, wenn das nächste Event bevorsteht.
+Melde dich gerne unverbindlich bei Lukas – egal ob du Fragen zum Kursinhalt hast, noch am Abwägen bist oder der Zeitpunkt diesmal nicht passt. Wir führen eine Warteliste für zukünftige Events und melden uns, sobald das nächste ansteht.
 
-> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:anmeldung@lukasziegler.com?subject=Interesse%20am%20Retreat%20im%20September%202025" target="_blank">Email</a>.
+> Melde dich bei Lukas auf <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">WhatsApp</a> oder via <a href="mailto:handpan@lukasziegler.com?subject=Interesse%20am%20brandgut%20Retreat" target="_blank">Email</a>.
+
+Bereit für die Auszeit? Dann sichere dir deinen Platz direkt beim brandgut.
 
 ---
 
@@ -336,7 +345,7 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<a href="https://forms.gle/Zb6Hhh7wU2ewqFeq7" target="_blank" class="button button--primary subscribe-button js-sign-up">Zur Anmeldung</a>
+<a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank" class="button button--primary subscribe-button js-sign-up">Retreat beim brandgut buchen</a>
 
 ---
 
