@@ -116,10 +116,8 @@ Das brandgut bietet die Handpan Beginner Days als Komplettpaket an. Der Gesamtpr
 
 <!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
 
-- **Grundbetrag:** 925 Euro <br>
-  für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien:
-  - **Early Bird:** 885 Euro (für Plätze #1-3) – *ausverkauft*
-  - **Regulärer Preis:** 925 Euro = **aktuelle Phase**
+- **Grundbetrag:** 885 Euro <br>
+  für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien.
 
 - **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
   - Einzelzimmer alt: kein Aufpreis – *noch 1x verfügbar*
