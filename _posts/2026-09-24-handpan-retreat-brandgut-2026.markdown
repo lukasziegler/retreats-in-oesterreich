@@ -124,11 +124,8 @@ Das brandgut bietet die Handpan Beginner Days als Komplettpaket an. Der Gesamtpr
 - DZ Marille: 1.750€ (= 875€ pP)
 - DZ Apfel, Quittenbrand oder Williams: 1.840€ (= 920€ pP)
 
-exkl. Ortstaxe
-Mindestteilnehmer-Zahl: 6 Personen. 
-Bei Nicht-Erreichen behalten sich die Veranstalter vor das Retreat abzusagen.
-
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+Optionale **Handpan-Leihgebühr**:
+Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
 Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
