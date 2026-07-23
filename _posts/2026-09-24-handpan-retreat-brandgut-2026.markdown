@@ -112,23 +112,20 @@ Auch für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. 
 
 ### Preis
 
-Das brandgut bietet die Handpan Beginner Days als Komplettpaket an. Der Gesamtpreis liegt – je nach Buchungsphase und Zimmerkategorie – zwischen 885 und 1.120 Euro und beinhaltet Übernachtung, Halbpension, Wellness und das gesamte Kursprogramm.
+Das brandgut bietet die Handpan Beginner Days als Komplettpaket an. Der Gesamtpreis liegt <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a> zwischen 875 und 1.030 Euro und beinhaltet Übernachtung, Halbpension, Wellness und das gesamte Kursprogramm.
 
-<!-- Der Preis setzt sich zusammen aus der Retreat-Teilnahme, der Unterkunft und einer evtl. gemieteten Leih-Handpan: --> 
+**1 Person inkl. Retreat und Halbpension für 3 Nächte**
+DZ Marille: 970€ (bei Einzelbelegung)
+DZ Apfel, Quittenbrand oder Williams: 1.030€  (bei Einzelbelegung)
 
-- **Grundbetrag:** 885 Euro <br>
-  für Teilnahme, Organisation, Kursleiter, Workshops, Snacks und Materialien.
+**2 Personen inkl. Retreat und Halbpension für 3 Nächte**
+DZ Marille: 1.750€ (= 875€ pP)
+DZ Apfel, Quittenbrand oder Williams: 1.840€ (= 920€ pP)
 
-- **Aufpreis, <a href="https://www.brandgut.at/zimmer/" target="_blank">je nach Zimmerkategorie</a>:**
-  - Einzelzimmer alt: kein Aufpreis – *noch 1x verfügbar*
-  - Einzelzimmer "standard": **+10 Euro / Nacht** – *noch 3x verfügbar*
-  - Einzelzimmer "neu renoviert": **+20 Euro / Nacht** – *noch 1x verfügbar*
-  - Doppelzimmer "standard": **+5 Euro** / pro Person / Nacht<br>
-    bzw. bei Einzelbelegung: **+20 Euro** / Nacht
-  - Doppelzimmer "neu renoviert": **+20 Euro** / pro Person / Nacht<br>
-    bzw. bei Einzelbelegung: **+40 Euro** / Nacht 
+exkl. Ortstaxe
+Mindestteilnehmer-Zahl: 6 Personen. Bei Nicht-Erreichen behalten sich die Veranstalter vor das Retreat abzusagen.
 
-- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **80 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
+- Optionale **Handpan-Leihgebühr**: Falls du noch keine eigene Handpan hast, kannst du für **100 Euro** eine Handpan mieten (für die 4 Tage inkl. Versicherung).
 
 <strong id="bring-a-friend">"Bring a Friend" – und spart gemeinsam 💸</strong><br>
 Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 € Rabatt**. 
