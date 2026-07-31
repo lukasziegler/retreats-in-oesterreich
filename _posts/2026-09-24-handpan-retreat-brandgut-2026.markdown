@@ -184,18 +184,22 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 
 - Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verlehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch zum Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle gerne vorab den Kontakt unter euch her.
 
-- **Stornobedingungen des Veranstalters (brandgut):** Eine kostenlose Stornierung ist bis 2 Monate vor Retreat-Beginn möglich (= 100 % Rückerstattung). Bei späterer Stornierung gilt folgende Regelung:
-  - 59 bis 28 Tage vor Beginn: **30 % Stornogebühr** vom Gesamtpreis
-  - 27 bis 14 Tage vor Beginn: **75 % Stornogebühr** vom Gesamtpreis
-  - ab 13 Tagen vor Beginn: **100 % Stornogebühr** vom Gesamtpreis<br><br>
-
-- **Ersatzteilnehmer**: Du kannst deine Buchung auf eine Ersatzperson übertragen – melde dich dazu einfach beim brandgut. In diesem Fall entstehen dir keine Stornokosten.
-
 - Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
-- **Mindestteilnehmerzahl:** 6 Personen. Sollten sich nicht genügend Teilnehmer für das Retreat finden, halten sich die Organisatoren die Möglichkeit vor, das Retreat rechtzeitig (min. 21 Tage vorher) abzusagen. In diesem Fall wird dir der Gesamtpreis in voller Höhe zurücküberwiesen.
+**Stornobedingungen des Veranstalters (brandgut):** 
+- **bis 3 Monate** vor Anreise: 0 % vom Gesamtpreis
+- **ab 3 Monate** vor Anreise: 40 % vom Gesamtpreis
+- **bis 1 Woche** vor Anreise: 90 % vom Gesamtpreis
+- in der **letzten Woche** vor dem Ankunftstag 100 % vom Gesamtpreis
 
-- Alles Weiteren Infos kannst du den <a href="https://retreats-in-oesterreich.at/agbs/" target="_blank">Teilnahmebedingungen</a> entnehmen.
+- Um Stornierungskosten zu vermeiden, kann ein **Ersatzteilnehmer** genannt werden.
+
+Wir behalten uns vor, in dringenden Fällen das Retreat abzusagen. In diesen Fällen wird das Retreat verschoben und nachgeholt. Der Kunde wird dazu rechtzeitig informiert. 
+
+**Dringende Fälle** sind:
+
+- Wird die **Mindestteilnehmerzahl** von 6 Personen nicht erreicht, wird das Retreat vorzeitig abgesagt. Dabei wird der eingezahlte Betrag vom brandgut voll erstattet. Weitergehende Ansprüche entstehen nicht.
+- Bei Ausfall der Kursleiterin oder bei sonstigen unvorhersehbaren Ereignissen, die ein Durchführen der Veranstaltung unzumutbar erschweren.
 
 
 ---
