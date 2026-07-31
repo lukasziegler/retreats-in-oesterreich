@@ -13,18 +13,26 @@ Aktuell ist Lukas dabei [dieses Netzwerk aufzubauen](https://airtable.com/embed/
 
 Bist du neugierig geworden? Dann melde dich [bei Lukas über das Kontaktformular](/kontakt/).
 
-<img src="/images/stockphotos/generic/sunset-in-lake cole-allen-Lqv3cjyTMS8-unsplash.jpg" loading="lazy">
-*Foto von [Cole Allen]([https://unsplash.com/de/fotos/BeHRkALwXIw](https://unsplash.com/@colewurlddd))*
-
+<!--
 ## Wo hast du Bedarf?
 
 Eine der häufigsten Rückmeldungen ist die mangelnde Zeit für das Community-Management oder für das Betreuen und das Abwickeln der Anfragen. 
 
 Ein Teil der Vision ist es Synergien zu bilden zwischen Organisatoren und Leute untereinander zu vernetzen, die Retreats anbieten möchten und Leute die bei Retreats mitwirken möchten.
+--> 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appyfpS45hXxis9w3/shrRu0jbV2l9YhM36?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+---
 
-***
+## Rechtliche Hinweise zu Retreats
 
-<img src="/images/stockphotos/austria/retreats-in-the-woods cara-fuller.jpg" loading="lazy">
-*Foto von [Cara Fuller](https://unsplash.com/de/fotos/BeHRkALwXIw)*
+Retreats können je nach Aufbau und enthaltenen Leistungen rechtlich als Pauschalreise eingestuft werden.
+
+Da die rechtlichen Rahmenbedingungen komplex sind und sich ändern können, möchten wir hier für Transparenz sorgen und dir eine verlässliche Informationsquelle zur Verfügung stellen.
+
+Die Wirtschaftskammer Österreich hat hierzu ausführliche Hinweise für die Veranstaltung von Retreats und ähnlichen Reisen veröffentlicht:
+<a href="https://www.wko.at/tourismus-freizeitwirtschaft/reisebueros/hinweise-zur-veranstaltung-von-retreats-und-aehnlichen-reisen" target="_blank" class="link">WKO zu Retreats und ähnlichen Reisen</a>
+
+---
+
+<img src="/images/stockphotos/generic/sunset-in-lake cole-allen-Lqv3cjyTMS8-unsplash.jpg" loading="lazy">
+*Foto von [Cole Allen]([https://unsplash.com/de/fotos/BeHRkALwXIw](https://unsplash.com/@colewurlddd))*
