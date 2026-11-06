@@ -4,7 +4,12 @@ import Icon from "../components/Icon.astro";
 import RetreatCard from "../components/RetreatCard.astro";
 import { allRetreats, upcoming } from "../utils/retreats";
 
-const recent = upcoming(await allRetreats()).slice(0, 3);
+// Bevorstehende zuerst; gibt es keine, die zuletzt stattgefundenen
+const retreats = await allRetreats();
+const upcomingRetreats = upcoming(retreats);
+const recent = (
+  upcomingRetreats.length > 0 ? upcomingRetreats : retreats
+).slice(0, 3);
 ---
 
 <BaseLayout title="Seite nicht gefunden">

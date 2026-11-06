@@ -14,22 +14,25 @@ const pastRetreats = past(retreats);
 <BaseLayout>
   <Hero />
 
-  <div class="container">
-    <div class="section__info">
-      <div class="section__head">
-        <h2 class="section__title">{blog.upcomingTitle}</h2>
-        <p class="section__description">{blog.upcomingDescription}</p>
-      </div>
-    </div>
+  {
+    /* Nur anzeigen, wenn es bevorstehende Retreats gibt – keine leere Sektion */
+    upcomingRetreats.length > 0 && (
+      <div class="container">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{blog.upcomingTitle}</h2>
+            <p class="section__description">{blog.upcomingDescription}</p>
+          </div>
+        </div>
 
-    <div class="row grid">
-      {
-        upcomingRetreats.map((retreat) => (
-          <RetreatCard retreat={retreat} class="grid__post" />
-        ))
-      }
-    </div>
-  </div>
+        <div class="row grid">
+          {upcomingRetreats.map((retreat) => (
+            <RetreatCard retreat={retreat} class="grid__post" />
+          ))}
+        </div>
+      </div>
+    )
+  }
 
   {
     pastRetreats.length > 0 && (

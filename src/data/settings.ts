@@ -57,7 +57,8 @@ export const blog = {
 } as const;
 
 export const mailchimp = {
-  enable: true,
+  /** Newsletter-Box im Footer (seit Juli 2026 deaktiviert). */
+  enable: false,
   identifier:
     "retreats-in-oesterreich.us8.list-manage.com/subscribe/post?u=445350db8e4e179a39d000d7b&amp;id=6fa7268942&amp;f_id=008e14e1f0",
   title: "Interesse geweckt?",

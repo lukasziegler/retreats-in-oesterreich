@@ -227,6 +227,16 @@ a {
   }
 }
 
+/* Hervorgehobener Fließtext-Link (z.B. WKO-Hinweis im Disclaimer) */
+a.link {
+  font-weight: 600;
+  border-bottom: 1px solid var(--border-alt-color);
+
+  &:hover {
+    border-bottom-color: var(--link-color);
+  }
+}
+
 hr {
   position: relative;
   height: 1px;

@@ -4,7 +4,11 @@ import { longDate } from "../utils/dates";
 import Icon from "./Icon.astro";
 
 const retreats = await allRetreats();
-const recent = upcoming(retreats).slice(0, 4);
+// Bevorstehende zuerst; gibt es keine, die zuletzt stattgefundenen
+const upcomingRetreats = upcoming(retreats);
+const recent = (
+  upcomingRetreats.length > 0 ? upcomingRetreats : retreats
+).slice(0, 4);
 const tags = allTags(retreats);
 ---
 
