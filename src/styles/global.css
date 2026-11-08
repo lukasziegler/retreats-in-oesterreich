@@ -536,7 +536,9 @@ table td {
 
 .logo__link {
   padding: 4px 0;
-  font-size: 32px;
+  /* Fluid auf Mobile, damit Logo + Hamburger in eine Zeile passen
+     (375px → ~25px, 320px → ~19px, ab ~450px wieder 32px) */
+  font-size: clamp(18px, 9.5vw - 11px, 32px);
   letter-spacing: var(--heading-letter-spacing);
   line-height: 1;
   font-weight: 800;
@@ -716,13 +718,25 @@ table td {
   }
 }
 
-/* Hamburger */
+/* Hamburger (ist ein <button> – Browser-Standardstyles zurücksetzen) */
 .hamburger {
+  appearance: none;
   width: 28px;
   height: 28px;
   display: none;
   margin-left: auto;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+
+  &:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+    border-radius: 4px;
+  }
 
   @media (max-width: 1050px) {
     display: flex;
@@ -740,10 +754,18 @@ table td {
   background-color: var(--heading-font-color);
 }
 
+.hamburger div {
+  position: relative;
+}
+
+/* Explizit links verankern – sonst übernehmen sie das zentrierte
+   text-align des <button> und rutschen nach rechts */
 .hamburger div::before,
 .hamburger div::after {
   content: "";
   position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .hamburger div::before {
@@ -778,6 +800,9 @@ table td {
   padding: 0;
 
   @media (max-width: 1050px) {
+    /* <button> ist sonst nur so breit wie die Lupe → volle Breite, rechtsbündig */
+    width: 100%;
+    margin-left: 0;
     justify-content: end;
     margin-top: 4px;
   }
