@@ -76,6 +76,32 @@ export const contact = {
 } as const;
 
 /**
+ * Warteliste (Brevo). Wird auf vergangenen Retreats automatisch angezeigt,
+ * auf bevorstehenden nur mit `waitlist: true` im Frontmatter (z.B. ausgebucht).
+ * `waitlist: false` blendet sie überall aus.
+ */
+export const waitlist = {
+  /**
+   * Action-URL des Brevo-Formulars (`https://….sibforms.com/serve/…`).
+   * `null` = Warteliste deaktiviert.
+   */
+  brevoFormAction:
+    "https://a7352418.sibforms.com/serve/MUIFAC0ZlO7fqkuxXvS7XgDaed0a5BOvjAPBBqVbI6ZSNhYHk_ibpz2zTgErnHh5yboHm0DFBtywXR--MOA4wuybzZKGaMqo2qvHYVFkCHmGE0uh_-ybrfnE-pdqk5E5TJ0PDWPrk_4GGSaByZifSZphG0kditpq8afGOlTLx57N3LiwILPt1LOdfwZ82iRDlFV80lw_WjKvQzNy2g==" as
+      string | null,
+  /** Seite, auf die Brevo nach dem Absenden weiterleitet (in Brevo eintragen). */
+  thankYouUrl: "/warteliste-danke/",
+  titlePast: "Verpasst? Sei beim nächsten Mal dabei.",
+  titleOpen: "Ausgebucht? Komm auf die Warteliste.",
+  descriptionPast:
+    "Trag dich ein und wir melden uns, sobald der nächste Termin feststeht – unverbindlich.",
+  descriptionOpen:
+    "Wird ein Platz frei oder gibt es einen Zusatztermin, erfährst du es als Erste:r.",
+  buttonText: "Auf die Warteliste",
+  consentText:
+    "Du bekommst eine Bestätigungs-Mail. Wir schreiben dir nur zu diesem Retreat, Abmeldung jederzeit mit einem Klick. Versand über Brevo (EU).",
+};
+
+/**
  * Google Tag Manager: wird nur nach Cookie-Zustimmung geladen.
  * Auf `'GTM-MX94S3GK'` setzen, um Analytics (inkl. Cookie-Banner) zu aktivieren.
  */

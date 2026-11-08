@@ -17,6 +17,11 @@ const retreats = defineCollection({
     featured: z.boolean().default(false),
     /** Externally hosted retreat: cards in the featured slider link out. */
     external_url: z.string().url().optional(),
+    /**
+     * Warteliste: undefined = automatisch (nur bei vergangenen Retreats),
+     * true = immer (z.B. ausgebucht), false = nie.
+     */
+    waitlist: z.boolean().optional(),
   }),
 });
 

@@ -4,6 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import DateRange from "./DateRange.astro";
 import Icon from "./Icon.astro";
 import RelatedPosts from "./RelatedPosts.astro";
+import Waitlist from "./Waitlist.astro";
 import { longDate } from "../utils/dates";
 import { mdInlineLinks } from "../utils/md";
 import { allRetreats, type Retreat } from "../utils/retreats";
@@ -170,6 +171,8 @@ const jsonLd = {
       <div class="post__content">
         <Content />
       </div>
+
+      <Waitlist retreat={retreat} />
 
       <div class="post__share">
         <ul class="share__list list-reset">

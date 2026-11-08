@@ -1505,6 +1505,65 @@ table td {
   }
 }
 
+/* Warteliste (Brevo) unter Retreat-Inhalten */
+.waitlist {
+  max-width: 760px;
+  margin: 64px auto 48px;
+  padding: 48px;
+  border-radius: 30px;
+  background-color: var(--light-blue);
+
+  .waitlist__title {
+    margin-bottom: 8px;
+    font-size: var(--font-size-h3);
+  }
+
+  .waitlist__description {
+    margin-bottom: 24px;
+    color: var(--text-second-color);
+  }
+
+  .waitlist__fields {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr auto;
+    gap: 12px;
+
+    .form__input {
+      padding: 18px 24px;
+      background-color: var(--white);
+    }
+
+    .button {
+      padding: 18px 28px;
+      font-family: inherit;
+      white-space: nowrap;
+    }
+  }
+
+  .waitlist__honeypot {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+  }
+
+  .waitlist__consent {
+    margin: 16px 0 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--text-second-color);
+  }
+
+  @media (max-width: 768px) {
+    padding: 32px 24px;
+
+    .waitlist__fields {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
 /* ==========================================================================
    8. Subscribe (Mailchimp)
    ========================================================================== */
