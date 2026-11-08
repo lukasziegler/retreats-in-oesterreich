@@ -1536,16 +1536,19 @@ table td {
   margin: 64px auto 48px;
   padding: 48px;
   border-radius: 30px;
-  background-color: var(--light-blue);
+  color: var(--white);
+  background: var(--waitlist-background);
+  box-shadow: var(--waitlist-shadow);
 
   .waitlist__title {
     margin-bottom: 8px;
     font-size: var(--font-size-h3);
+    color: var(--white);
   }
 
   .waitlist__description {
     margin-bottom: 24px;
-    color: var(--text-second-color);
+    color: rgba(255, 255, 255, 0.92);
   }
 
   .waitlist__fields {
@@ -1562,6 +1565,12 @@ table td {
       padding: 18px 28px;
       font-family: inherit;
       white-space: nowrap;
+
+      /* Türkis-Hover wäre auf dem Petrol-Hintergrund kaum sichtbar */
+      &.button--primary:hover {
+        color: var(--dark);
+        background: var(--white);
+      }
     }
   }
 
@@ -1577,7 +1586,7 @@ table td {
     margin: 16px 0 0;
     font-size: 14px;
     line-height: 1.5;
-    color: var(--text-second-color);
+    color: rgba(255, 255, 255, 0.85);
   }
 
   @media (max-width: 768px) {

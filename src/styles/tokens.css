@@ -77,4 +77,15 @@
   /* Schatten */
   --shadow-card: 0px 4px 35px rgba(0, 0, 0, 0.08);
   --shadow-dropdown: 0 15px 40px 5px rgba(0, 0, 0, 0.1);
+
+  /* Warteliste: Petrol-Verlauf aus der Primärfarbe mit Lichtakzent oben rechts.
+     Töne dunkel genug für weißen Fließtext (WCAG AA ≥ 4.5:1). */
+  --waitlist-background:
+    radial-gradient(
+      circle at 100% 0%,
+      rgba(0, 166, 159, 0.45) 0%,
+      transparent 55%
+    ),
+    linear-gradient(135deg, #0c716d 0%, #174f63 100%);
+  --waitlist-shadow: 0 20px 50px rgba(23, 79, 99, 0.3);
 }

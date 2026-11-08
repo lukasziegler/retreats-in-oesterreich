@@ -19,9 +19,10 @@ const retreats = defineCollection({
     external_url: z.string().url().optional(),
     /**
      * Warteliste: undefined = automatisch (nur bei vergangenen Retreats),
-     * true = immer (z.B. ausgebucht), false = nie.
+     * true = immer (z.B. ausgebucht), "soon" = Termin steht, Buchung noch
+     * nicht offen (Interessentenliste), false = nie.
      */
-    waitlist: z.boolean().optional(),
+    waitlist: z.union([z.boolean(), z.literal("soon")]).optional(),
   }),
 });
 

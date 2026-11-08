@@ -12,14 +12,24 @@ interface Props {
 }
 
 const { retreat } = Astro.props;
+const mode = retreat.data.waitlist;
 const upcoming = isUpcoming(retreat);
 const show =
-  waitlist.brevoFormAction !== null && (retreat.data.waitlist ?? !upcoming);
+  waitlist.brevoFormAction !== null &&
+  (mode === undefined ? !upcoming : mode !== false);
 
-const title = upcoming ? waitlist.titleOpen : waitlist.titlePast;
-const description = upcoming
-  ? waitlist.descriptionOpen
-  : waitlist.descriptionPast;
+// past = verpasst · soon = noch nicht buchbar · open = ausgebucht
+const state = !upcoming ? "past" : mode === "soon" ? "soon" : "open";
+const title = {
+  past: waitlist.titlePast,
+  soon: waitlist.titleSoon,
+  open: waitlist.titleOpen,
+}[state];
+const description = {
+  past: waitlist.descriptionPast,
+  soon: waitlist.descriptionSoon,
+  open: waitlist.descriptionOpen,
+}[state];
 const idPrefix = `waitlist-${retreat.id}`;
 ---
 

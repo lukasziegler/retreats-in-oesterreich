@@ -77,7 +77,8 @@ export const contact = {
 
 /**
  * Warteliste (Brevo). Wird auf vergangenen Retreats automatisch angezeigt,
- * auf bevorstehenden nur mit `waitlist: true` im Frontmatter (z.B. ausgebucht).
+ * auf bevorstehenden nur mit `waitlist: true` (ausgebucht) oder
+ * `waitlist: soon` (Termin steht, Buchung noch nicht offen) im Frontmatter.
  * `waitlist: false` blendet sie überall aus.
  */
 export const waitlist = {
@@ -92,10 +93,13 @@ export const waitlist = {
   thankYouUrl: "/warteliste-danke/",
   titlePast: "Verpasst? Sei beim nächsten Mal dabei.",
   titleOpen: "Ausgebucht? Komm auf die Warteliste.",
+  titleSoon: "Früh dran? Ab auf die Warteliste.",
   descriptionPast:
     "Trag dich ein und wir melden uns, sobald der nächste Termin feststeht – unverbindlich.",
   descriptionOpen:
     "Wird ein Platz frei oder gibt es einen Zusatztermin, erfährst du es als Erste:r.",
+  descriptionSoon:
+    "Trag dich ein und du erfährst als Erstes, sobald die Buchung startet. Vormerken kostet nichts. Vorfreude auch nicht.",
   buttonText: "Auf die Warteliste",
   consentText:
     "Du bekommst eine Bestätigungs-Mail. Wir schreiben dir nur zu diesem Retreat, Abmeldung jederzeit mit einem Klick. Versand über Brevo (EU).",
