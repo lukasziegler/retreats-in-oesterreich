@@ -29,12 +29,3 @@ Mit diesem Projekt möchte sich Lukas mit gleichgesinnten Change-Maker in Öster
 
 <img src="/images/stockphotos/passion-ian_schneider.jpg" loading="lazy">
 <em>Ian Schneider / <a href="https://unsplash.com/de/fotos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a></em>
-
-<!-- Passender Platz um nach Mitwirkende zu suchen (collaborative effort, finding synergies, rising together) -->
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/04.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-  </div>
-</div>

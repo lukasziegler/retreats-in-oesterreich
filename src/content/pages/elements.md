@@ -2,7 +2,7 @@
 title: Elements
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 permalink: /elements/
-image: "/images/17.jpg"
+image: "/images/02-1.jpg"
 ---
 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
@@ -113,26 +113,17 @@ $(window).scroll(function () {
 
 ## Images
 
-![Man](/images/21.jpg#wide)
-_Foto von [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)_
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-2.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/16.jpg" loading="lazy">
-    <img src="/images/17-1.jpg" loading="lazy">
-    <img src="/images/19.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
+    <img src="/images/02-1.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
-
-![Man](/images/01-2.jpg)
-_Foto von [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)_
 
 ---
 
