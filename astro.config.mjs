@@ -13,8 +13,8 @@ export default defineConfig({
       filter: (page) => !page.endsWith("/warteliste-danke/"),
     }),
     // WebP-Varianten + srcset für Bilder aus public/images/ (nur im Build).
-    // Stufenweise: minSize senken, um mehr Bilder einzubeziehen (0 = alle).
-    optimizeImages({ minSize: 300 * 1024 }),
+    // minSize: nur Bilder ab dieser Dateigröße (Bytes) optimieren, 0 = alle.
+    optimizeImages({ minSize: 0 }),
   ],
   redirects: {
     // Jekyll-Pagination-Relikt: /page/2/ existierte auf der alten Site

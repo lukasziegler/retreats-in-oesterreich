@@ -104,7 +104,8 @@ export default function optimizeImages(
         let variantBytes = 0;
 
         async function process(src: string): Promise<Processed | null> {
-          const rel = decodeSrc(src);
+          // Fragment/Query abschneiden (z.B. Theme-Marker "#wide" für breite Bilder)
+          const rel = decodeSrc(src).replace(/[?#].*$/, "");
           if (!rel.startsWith("/images/") || !RASTER.test(rel)) return null;
           const file = path.join(publicDir, rel);
           if (!existsSync(file)) return null;
@@ -178,9 +179,13 @@ export default function optimizeImages(
                 .map((v) => `${v.url} ${v.width}w`)
                 .join(", ");
               const lazy = attrs.get("loading") === "lazy";
+              // "#wide"-Bilder laufen über die volle Viewport-Breite
+              const sizes =
+                attrs.get("sizes") ??
+                (src.endsWith("#wide") ? "100vw" : SIZES_FALLBACK);
               const extra = [
                 `srcset="${srcset}"`,
-                `sizes="${lazy ? "auto, " : ""}${attrs.get("sizes") ?? SIZES_FALLBACK}"`,
+                `sizes="${lazy ? "auto, " : ""}${sizes}"`,
                 attrs.has("width") || attrs.has("height")
                   ? ""
                   : `width="${result.width}" height="${result.height}"`,
