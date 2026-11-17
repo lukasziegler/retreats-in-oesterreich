@@ -1261,6 +1261,27 @@ table td {
   display: none;
 }
 
+/* Raster für Bevorstehende/Bisherige (RetreatGrid.astro): echtes CSS Grid
+   statt Flex-Spalten, damit alle Karten gleich breit sind – auch eine
+   einzelne Karte in der letzten Reihe. Abstände kommen weiter aus dem
+   Spalten-Padding (.col) und den negativen Rändern der .row. */
+.load-more .grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  @media (max-width: 1024px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  > .article {
+    width: auto;
+  }
+}
+
 /* „Mehr laden“ (RetreatGrid.astro) */
 .load-more__actions {
   display: flex;
