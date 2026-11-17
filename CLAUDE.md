@@ -19,8 +19,9 @@ npm run format    # Prettier (mit prettier-plugin-astro)
   - `authors` — Veranstalter-Profile, Dateiname = `username` = URL-Slug.
 - **Routing**: [src/pages/[...slug].astro](src/pages/[...slug].astro) bedient alle drei Collections auf Root-Ebene und dispatcht auf `RetreatPage`/`ContentPage`/`AuthorPage`. Sonderrouten: `kontakt.astro` (Formspree-Formular), `team.astro` (Autoren-Grid), `tags/index.astro` (zeigt Sektion via `?tag=`-Query), `feed.xml.ts`, `search.json.ts`.
 - **Settings**: Navigation, Hero, Mailchimp, Formspree, GTM-ID → [src/data/settings.ts](src/data/settings.ts). Keine Settings in Komponenten hardcoden.
-- **Datums-Logik** ([src/utils/retreats.ts](src/utils/retreats.ts)): `upcoming`/`past` teilen anhand `end_date >= heute`. Die Startseite und der Featured-Slider filtern damit zur Build-Zeit — deshalb baut der Deploy-Workflow wöchentlich per Cron neu. Vergangene Retreats nie manuell löschen/deaktivieren, das Archiv übernimmt das.
-- **Client-Skripte** ([src/scripts/](src/scripts/)): dependency-freies TS — Menü, Such-Overlay (Index von `/search.json`), Scroll-Snap-Slider, Bild-Zoom, Cookie-Consent. Einstieg: `initSite()` aus `main.ts`, eingebunden im BaseLayout.
+- **Datums-Logik** ([src/utils/retreats.ts](src/utils/retreats.ts)): `upcoming`/`past` teilen anhand `end_date >= heute`. Die Startseite filtert damit zur Build-Zeit — deshalb baut der Deploy-Workflow wöchentlich per Cron neu. Vergangene Retreats nie manuell löschen/deaktivieren, das Archiv übernimmt das.
+- **Startseite** ([src/pages/index.astro](src/pages/index.astro)): Hero zeigt max. `featuredLimit` (2) bevorstehende Retreats mit `featured: true` als feste Karten (kein Slider). „Bevorstehende“ zeigt nur, was nicht schon im Hero steht (leer → Sektion weg; gar nichts geplant → Hinweistext). „Bevorstehende“ und „Bisherige“ nutzen `RetreatGrid.astro` mit „Mehr laden“ (alle Karten im HTML, Rest `hidden`). Grenzwerte, Texte und Status-Badges (Vergangen / Buchung bald möglich / Warteliste) stehen unter `blog` in settings.ts.
+- **Client-Skripte** ([src/scripts/](src/scripts/)): dependency-freies TS — Menü, Such-Overlay (Index von `/search.json`), „Mehr laden“, Bild-Zoom, Cookie-Consent. Einstieg: `initSite()` aus `main.ts`, eingebunden im BaseLayout.
 
 ## Styling
 

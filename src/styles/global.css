@@ -1162,7 +1162,7 @@ table td {
   }
 }
 
-.featured__slider {
+.featured__cards {
   min-height: 360px;
 
   .container {
@@ -1192,56 +1192,18 @@ table td {
   }
 }
 
-.slider-controls {
+/* Featured-Karten (max. 2, siehe settings.ts): hängen unten aus dem dunklen
+   Hero heraus – padding-bottom hält den Schatten sichtbar, die negative
+   margin stellt die ursprüngliche Flusshöhe her. Am Handy untereinander. */
+.featured__posts {
   display: flex;
-  align-items: center;
-
-  .prev,
-  .next {
-    width: 20px;
-    margin-bottom: 0;
-    font-size: 28px;
-    line-height: 1;
-    text-align: center;
-    outline: none;
-    cursor: pointer;
-    color: inherit;
-
-    &[aria-disabled="true"] {
-      opacity: 0.3;
-      cursor: default;
-    }
-  }
-
-  .prev {
-    margin-right: 8px;
-  }
-}
-
-/* Scroll-Snap-Slider (ersetzt tiny-slider): Karten hängen unten aus dem
-   dunklen Hero heraus – padding-bottom hält sie im Scrollbereich sichtbar,
-   die negative margin stellt die ursprüngliche Flusshöhe (-162px) her. */
-.posts-slider {
-  display: flex;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
-  scrollbar-width: none;
+  width: 100%;
+  flex-wrap: wrap;
   padding-bottom: 40px;
   margin-bottom: -202px;
 
-  &::-webkit-scrollbar {
-    display: none;
-  }
-
-  .article {
-    flex: 0 0 auto;
-    scroll-snap-align: start;
-    user-select: none;
-
-    .article__image {
-      background-color: var(--dark);
-    }
+  .article__image {
+    background-color: var(--dark);
   }
 }
 
@@ -1272,6 +1234,38 @@ table td {
 
 .article__head {
   position: relative;
+}
+
+/* Status-Badge auf dem Kartenbild (RetreatCard.astro) */
+.article__status {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 2;
+  padding: 6px 12px;
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 600;
+  border-radius: 30px;
+  color: var(--dark);
+  background-color: rgba(255, 255, 255, 0.92);
+  pointer-events: none;
+
+  &.article__status--past {
+    color: var(--white);
+    background-color: rgba(0, 0, 0, 0.55);
+  }
+}
+
+.article[hidden] {
+  display: none;
+}
+
+/* „Mehr laden“ (RetreatGrid.astro) */
+.load-more__actions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
 }
 
 .article__image {

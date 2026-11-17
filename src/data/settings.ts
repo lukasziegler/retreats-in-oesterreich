@@ -53,7 +53,22 @@ export const blog = {
   upcomingTitle: "Bevorstehende Retreats",
   upcomingDescription:
     "Wenn du dir unsicher bist, welches Retreat zu dir passt, melde dich – wir helfen gerne weiter.",
+  /** Wird statt der Liste gezeigt, wenn es gar keine bevorstehenden Retreats gibt. */
+  upcomingEmpty:
+    "Neue Termine sind in Planung. Schau gerne bald wieder vorbei.",
   pastTitle: "Bisherige Retreats",
+  /** Max. Anzahl Featured-Retreats oben im Hero (die zeitlich nächsten). */
+  featuredLimit: 2,
+  /** Sichtbare Karten vor „Mehr laden“. */
+  upcomingInitial: 6,
+  pastInitial: 3,
+  /** Pro Klick auf „Mehr laden“ zusätzlich eingeblendete Karten. */
+  loadMoreStep: 6,
+  loadMoreLabel: "Mehr laden",
+  /** Status-Badges auf den Retreat-Karten. */
+  statusPast: "Vergangen",
+  statusSoon: "Buchung bald möglich",
+  statusWaitlist: "Warteliste",
 } as const;
 
 export const mailchimp = {

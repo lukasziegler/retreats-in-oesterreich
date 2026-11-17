@@ -1,6 +1,6 @@
 /**
  * Globale Interaktivität (Port von js/common.js, ohne Dependencies):
- * Menü, Such-Overlay, Featured-Slider-Pfeile, Bild-Zoom, Resize-Handling.
+ * Menü, Such-Overlay, „Mehr laden“, Bild-Zoom, Resize-Handling.
  */
 import { initSearch } from "./search";
 
@@ -58,43 +58,21 @@ function initSearchOverlay(): void {
   }
 }
 
-/** Pfeil-Navigation für den Scroll-Snap-Slider (ersetzt tiny-slider). */
-function initSlider(): void {
-  const slider = document.querySelector<HTMLElement>(".posts-slider");
-  const prev = document.querySelector<HTMLElement>(".slider-controls .prev");
-  const next = document.querySelector<HTMLElement>(".slider-controls .next");
-  if (!slider || !prev || !next) return;
+/** „Mehr laden“ in Karten-Rastern (RetreatGrid.astro). */
+function initLoadMore(): void {
+  document.querySelectorAll<HTMLElement>("[data-load-more]").forEach((box) => {
+    const button = box.querySelector<HTMLButtonElement>(".load-more__button");
+    const step = Number(box.dataset.loadMore) || 6;
+    if (!button) return;
 
-  function cardWidth(): number {
-    const card = slider?.querySelector<HTMLElement>(".article");
-    return card ? card.offsetWidth : (slider?.clientWidth ?? 0);
-  }
-
-  function updateControls(): void {
-    if (!slider) return;
-    const maxScroll = slider.scrollWidth - slider.clientWidth - 1;
-    prev?.setAttribute("aria-disabled", String(slider.scrollLeft <= 0));
-    next?.setAttribute("aria-disabled", String(slider.scrollLeft >= maxScroll));
-  }
-
-  function scrollBy(direction: 1 | -1): void {
-    slider?.scrollBy({ left: direction * cardWidth(), behavior: "smooth" });
-  }
-
-  function bind(el: HTMLElement, direction: 1 | -1): void {
-    el.addEventListener("click", () => scrollBy(direction));
-    el.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        scrollBy(direction);
-      }
+    button.addEventListener("click", () => {
+      const hidden = box.querySelectorAll<HTMLElement>(".article[hidden]");
+      hidden.forEach((card, i) => {
+        if (i < step) card.hidden = false;
+      });
+      if (hidden.length <= step) button.parentElement?.remove();
     });
-  }
-
-  bind(prev, -1);
-  bind(next, 1);
-  slider.addEventListener("scroll", updateControls, { passive: true });
-  updateControls();
+  });
 }
 
 /** Klick-Zoom für Inhaltsbilder (ersetzt Lightense). */
@@ -152,7 +130,7 @@ function initResizeStopper(): void {
 export function initSite(): void {
   initMenu();
   initSearchOverlay();
-  initSlider();
+  initLoadMore();
   initImageZoom();
   initResizeStopper();
 }

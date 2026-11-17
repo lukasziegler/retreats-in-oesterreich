@@ -1,6 +1,7 @@
 ---
-import type { Retreat } from "../utils/retreats";
+import { isUpcoming, type Retreat } from "../utils/retreats";
 import DateRange from "./DateRange.astro";
+import { blog } from "../data/settings";
 
 interface Props {
   retreat: Retreat;
@@ -10,6 +11,8 @@ interface Props {
   linkExternal?: boolean;
   /** Tags + Beschreibung anzeigen (kompakte Karten lassen beides weg) */
   compact?: boolean;
+  /** Karte zunächst ausblenden („Mehr laden“ in RetreatGrid) */
+  hidden?: boolean;
   class?: string;
 }
 
@@ -18,20 +21,46 @@ const {
   columns = "col-4 col-d-6 col-t-12",
   linkExternal = false,
   compact = false,
+  hidden = false,
   class: className,
 } = Astro.props;
 
-const { title, description, image, tags, start_date, end_date, external_url } =
-  retreat.data;
+const {
+  title,
+  description,
+  image,
+  tags,
+  start_date,
+  end_date,
+  external_url,
+  waitlist,
+} = retreat.data;
 const internalUrl = `/${retreat.id}/`;
 const href = linkExternal && external_url ? external_url : internalUrl;
 const externalAttrs =
   linkExternal && external_url ? { target: "_blank", rel: "noopener" } : {};
+
+// Status-Badge: vergangen / Buchung bald offen / Warteliste (z.B. ausgebucht)
+const upcomingRetreat = isUpcoming(retreat);
+const status = !upcomingRetreat
+  ? { label: blog.statusPast, modifier: "past" }
+  : waitlist === "soon"
+    ? { label: blog.statusSoon, modifier: "soon" }
+    : waitlist === true
+      ? { label: blog.statusWaitlist, modifier: "waitlist" }
+      : null;
 ---
 
-<div class:list={["article col", columns, className]}>
+<div class:list={["article col", columns, className]} hidden={hidden}>
   <div class="article__inner">
     <div class="article__head">
+      {
+        status && (
+          <span class={`article__status article__status--${status.modifier}`}>
+            {status.label}
+          </span>
+        )
+      }
       <a class="article__image" href={href} {...externalAttrs}>
         {
           image && (

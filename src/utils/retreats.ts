@@ -1,4 +1,5 @@
 import { getCollection, type CollectionEntry } from "astro:content";
+import { blog } from "../data/settings";
 
 export type Retreat = CollectionEntry<"retreats">;
 
@@ -26,9 +27,18 @@ export function past(retreats: Retreat[], now = new Date()): Retreat[] {
   return retreats.filter((r) => !isUpcoming(r, now));
 }
 
-/** Featured und bevorstehend – für den Slider auf der Startseite. */
-export function featured(retreats: Retreat[], now = new Date()): Retreat[] {
-  return upcoming(retreats, now).filter((r) => r.data.featured);
+/**
+ * Featured und bevorstehend – für den Hero auf der Startseite.
+ * Begrenzt auf die zeitlich nächsten `limit` Retreats.
+ */
+export function featured(
+  retreats: Retreat[],
+  now = new Date(),
+  limit: number = blog.featuredLimit,
+): Retreat[] {
+  return upcoming(retreats, now)
+    .filter((r) => r.data.featured)
+    .slice(0, limit);
 }
 
 /** Alle Tags mit Anzahl, alphabetisch sortiert. */
