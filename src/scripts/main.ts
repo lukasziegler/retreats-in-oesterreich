@@ -115,7 +115,9 @@ function initImageZoom(): void {
     const overlay = document.createElement("div");
     overlay.className = "zoom-overlay";
     const clone = document.createElement("img");
-    clone.src = target.currentSrc || target.src;
+    // Volle Auflösung aus dem Build-Schritt (optimize-images), sonst das,
+    // was gerade angezeigt wird
+    clone.src = target.dataset.zoomSrc || target.currentSrc || target.src;
     clone.alt = target.alt;
     overlay.appendChild(clone);
 
