@@ -194,7 +194,10 @@ export default function optimizeImages(
                 .filter(Boolean)
                 .join(" ");
               tags++;
-              return tag.replace(/\s*\/?>$/, ` ${extra}>`);
+              // Vorhandenes sizes wird oben übernommen und hier ersetzt
+              return tag
+                .replace(/\s+sizes\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/i, "")
+                .replace(/\s*\/?>$/, ` ${extra}>`);
             }),
           );
 

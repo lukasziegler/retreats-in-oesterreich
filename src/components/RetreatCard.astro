@@ -35,7 +35,13 @@ const externalAttrs =
       <a class="article__image" href={href} {...externalAttrs}>
         {
           image && (
-            <img src={image} alt={title} loading="lazy" decoding="async" />
+            <img
+              src={image}
+              alt={title}
+              loading="lazy"
+              sizes="(max-width: 768px) 100vw, 620px"
+              decoding="async"
+            />
           )
         }
       </a>

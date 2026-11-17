@@ -24,7 +24,11 @@ const countLabel = retreats.length < 2 ? "Retreat" : "Retreats";
     <div class="container">
       <div class="author__content">
         <div class="author__image">
-          {image && <img src={image} alt={name} decoding="async" />}
+          {
+            image && (
+              <img src={image} alt={name} sizes="220px" decoding="async" />
+            )
+          }
         </div>
         <h1 class="author__name">{name}</h1>
         {

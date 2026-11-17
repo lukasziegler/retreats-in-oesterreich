@@ -36,6 +36,7 @@ const authorCards = await Promise.all(
                     {author.data.image && (
                       <img
                         src={author.data.image}
+                        sizes="220px"
                         alt={author.data.name}
                         loading="lazy"
                         decoding="async"

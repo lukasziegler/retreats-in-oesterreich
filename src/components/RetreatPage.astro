@@ -109,6 +109,7 @@ const jsonLd = {
                     {author.data.image && (
                       <img
                         src={author.data.image}
+                        sizes="48px"
                         alt={author.data.name}
                         loading="lazy"
                         decoding="async"
@@ -119,6 +120,7 @@ const jsonLd = {
                   <span class="post__author__image">
                     <img
                       src={siteAuthor.avatar}
+                      sizes="48px"
                       alt={siteAuthor.name}
                       loading="lazy"
                     />
@@ -151,7 +153,12 @@ const jsonLd = {
           image && (
             <div class="col col-5 push-1 col-d-12 push-d-0">
               <div class="post-image">
-                <img src={image} alt={title} decoding="async" />
+                <img
+                  src={image}
+                  alt={title}
+                  sizes="(max-width: 1024px) 100vw, 520px"
+                  decoding="async"
+                />
               </div>
               {image_caption && (
                 <div
@@ -217,6 +224,7 @@ const jsonLd = {
               {previous.data.image && (
                 <img
                   src={previous.data.image}
+                  sizes="(max-width: 768px) 100vw, 240px"
                   alt={previous.data.title}
                   loading="lazy"
                   decoding="async"
@@ -266,6 +274,7 @@ const jsonLd = {
               {next.data.image && (
                 <img
                   src={next.data.image}
+                  sizes="(max-width: 768px) 100vw, 240px"
                   alt={next.data.title}
                   loading="lazy"
                   decoding="async"

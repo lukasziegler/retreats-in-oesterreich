@@ -23,7 +23,12 @@ const { Content } = await render(page);
       {
         image && (
           <div class="page-image">
-            <img src={image} alt={title} decoding="async" />
+            <img
+              src={image}
+              alt={title}
+              sizes="(max-width: 1024px) 100vw, 740px"
+              decoding="async"
+            />
           </div>
         )
       }
