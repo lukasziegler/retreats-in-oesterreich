@@ -19,5 +19,8 @@ export default defineConfig({
   redirects: {
     // Jekyll-Pagination-Relikt: /page/2/ existierte auf der alten Site
     "/page/2/": "/",
+    // Mesnerhof-Retreats 2025 → Folgetermine 2027 (Dateien umbenannt)
+    "/yoga-mesnerhof-november/": "/yoga-mesnerhof-juni/",
+    "/yoga-mesnerhof-dezember/": "/yoga-mesnerhof-august/",
   },
 });
