@@ -33,7 +33,7 @@ npm run format    # Prettier (mit prettier-plugin-astro)
 
 ## Constraints
 
-- **URLs sind SEO-kritisch** und müssen stabil bleiben: Retreats/Autoren auf Root-Ebene, `trailingSlash: 'always'`, Bilder unter `/images/…` (deshalb liegen sie in `public/`, nicht in `src/assets/`).
+- **URLs sind SEO-kritisch** und müssen stabil bleiben: Retreats/Autoren auf Root-Ebene, `trailingSlash: 'always'`, Bilder unter `/images/…` (deshalb liegen sie in `public/`, nicht in `src/assets/`). Die Sitemap liegt wie unter Jekyll unter `/sitemap.xml` (Kopie von `sitemap-index.xml` per [src/integrations/sitemap-alias.ts](src/integrations/sitemap-alias.ts)); robots.txt verweist darauf.
 - **GTM/Analytics** lädt nur nach Cookie-Zustimmung (`cookie-consent.ts`); aktiviert über `googleTagManagerId` in settings.ts (aktuell `null` = aus, kein Banner).
 - Retreat-Detailseiten rendern **JSON-LD Event-Schema** (in `RetreatPage.astro`) — bei Schema-Änderungen die Frontmatter-Felder synchron halten.
 - Neue Bilder vor dem Commit web-optimieren (max. ~1800px, JPEG q80–85).
