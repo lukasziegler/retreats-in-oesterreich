@@ -1,0 +1,57 @@
+---
+/**
+ * Inline-SVG-Icons (ersetzen die Ionicons-Webfont).
+ * Stroke-Icons erben die Schriftgröße/-farbe über die .icon-Klasse.
+ */
+interface Props {
+  name:
+    | "search"
+    | "close"
+    | "chevron-down"
+    | "arrow-forward"
+    | "arrow-back"
+    | "link"
+    | "instagram"
+    | "facebook"
+    | "twitter"
+    | "pinterest";
+  class?: string;
+}
+
+const { name, class: className } = Astro.props;
+
+const stroked: Record<string, string> = {
+  search:
+    '<circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>',
+  close:
+    '<line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>',
+  "chevron-down": '<polyline points="6 9 12 15 18 9"/>',
+  "arrow-forward":
+    '<line x1="3" y1="12" x2="21" y2="12"/><polyline points="14 5 21 12 14 19"/>',
+  "arrow-back":
+    '<line x1="21" y1="12" x2="3" y2="12"/><polyline points="10 5 3 12 10 19"/>',
+  link: '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>',
+  instagram:
+    '<rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>',
+};
+
+const filled: Record<string, string> = {
+  facebook:
+    '<path d="M13.5 21v-7h2.6l.4-3h-3V9.1c0-.9.25-1.5 1.55-1.5H16.6V4.9c-.28-.04-1.25-.12-2.38-.12-2.35 0-3.97 1.44-3.97 4.07V11H7.6v3h2.65v7Z"/>',
+  twitter:
+    '<path d="M22 5.8c-.7.3-1.5.6-2.4.7.8-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1a4.1 4.1 0 0 0-7.1 2.8c0 .3 0 .6.1.9A11.7 11.7 0 0 1 3.4 4.6a4.1 4.1 0 0 0 1.3 5.5c-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.6 3.3 4a4.2 4.2 0 0 1-1.9.1 4.1 4.1 0 0 0 3.8 2.9A8.2 8.2 0 0 1 2 18.4a11.6 11.6 0 0 0 6.3 1.8c7.5 0 11.7-6.3 11.7-11.7v-.5c.8-.6 1.5-1.3 2-2.2Z"/>',
+  pinterest:
+    '<path d="M12 2C6.5 2 2 6.5 2 12c0 4.2 2.6 7.9 6.4 9.3-.1-.8-.2-2 0-2.9l1.2-5s-.3-.6-.3-1.5c0-1.4.8-2.4 1.8-2.4.9 0 1.3.6 1.3 1.4 0 .9-.6 2.2-.9 3.4-.2 1 .5 1.8 1.5 1.8 1.8 0 3.2-1.9 3.2-4.7 0-2.4-1.7-4.1-4.2-4.1-2.9 0-4.6 2.2-4.6 4.4 0 .9.3 1.8.8 2.3.1.1.1.2.1.3l-.3 1.1c0 .2-.1.2-.3.1-1.2-.6-2-2.4-2-3.9 0-3.2 2.3-6.1 6.6-6.1 3.5 0 6.2 2.5 6.2 5.8 0 3.5-2.2 6.2-5.2 6.2-1 0-2-.5-2.3-1.2l-.6 2.4c-.2.9-.8 2-1.2 2.6.9.3 1.9.4 2.9.4 5.5 0 10-4.5 10-10S17.5 2 12 2Z"/>',
+};
+
+const isFilled = name in filled;
+const path = isFilled ? filled[name] : stroked[name];
+---
+
+<svg
+  class:list={["icon", { "icon--filled": isFilled }, className]}
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  set:html={path}
+/>

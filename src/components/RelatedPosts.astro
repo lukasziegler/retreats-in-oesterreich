@@ -1,0 +1,64 @@
+---
+import type { Retreat } from "../utils/retreats";
+import { allRetreats } from "../utils/retreats";
+import Icon from "./Icon.astro";
+import RetreatCard from "./RetreatCard.astro";
+
+interface Props {
+  current: Retreat;
+}
+
+const { current } = Astro.props;
+const maxRelated = 4;
+
+const retreats = await allRetreats();
+const related = retreats
+  .filter(
+    (r) =>
+      r.id !== current.id &&
+      r.data.tags.some((tag) => current.data.tags.includes(tag)),
+  )
+  .slice(0, maxRelated);
+
+const firstTag = current.data.tags[0];
+---
+
+{
+  related.length > 0 && (
+    <div class="container">
+      <section class="related-posts is-related animate">
+        <div class="row">
+          <div class="col col-12">
+            <div class="container__inner">
+              <div class="section__info">
+                <div class="section__head__small">
+                  <h2 class="section__title">Das könnte dir auch gefallen</h2>
+                  {firstTag && (
+                    <a
+                      href={`/tags/?tag=${encodeURIComponent(firstTag.toLowerCase())}`}
+                      class="section__link related-tag"
+                    >
+                      <div>
+                        See all <span>{firstTag}</span>
+                      </div>
+                      <Icon name="arrow-forward" />
+                    </a>
+                  )}
+                </div>
+              </div>
+              <div class="row">
+                {related.map((retreat) => (
+                  <RetreatCard
+                    retreat={retreat}
+                    columns="col-3 col-d-6 col-m-12"
+                    compact
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  )
+}

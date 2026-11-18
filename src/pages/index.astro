@@ -1,0 +1,64 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import RetreatGrid from "../components/RetreatGrid.astro";
+import Disclaimer from "../components/Disclaimer.astro";
+import { blog } from "../data/settings";
+import { allRetreats, featured, past, upcoming } from "../utils/retreats";
+
+const retreats = await allRetreats();
+const upcomingAll = upcoming(retreats);
+// Was oben im Hero steht, hier nicht nochmal zeigen
+const featuredIds = new Set(featured(retreats).map((r) => r.id));
+const upcomingRetreats = upcomingAll.filter((r) => !featuredIds.has(r.id));
+const pastRetreats = past(retreats);
+---
+
+<BaseLayout>
+  <Hero />
+
+  {
+    /* Gar nichts geplant → Hinweis. Alles schon im Hero → Sektion ausblenden. */
+    upcomingAll.length === 0 ? (
+      <div class="container">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{blog.upcomingTitle}</h2>
+            <p class="section__description">{blog.upcomingEmpty}</p>
+          </div>
+        </div>
+      </div>
+    ) : (
+      upcomingRetreats.length > 0 && (
+        <div class="container">
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">{blog.upcomingTitle}</h2>
+              <p class="section__description">{blog.upcomingDescription}</p>
+            </div>
+          </div>
+
+          <RetreatGrid
+            retreats={upcomingRetreats}
+            initial={blog.upcomingInitial}
+          />
+        </div>
+      )
+    )
+  }
+
+  {
+    pastRetreats.length > 0 && (
+      <div class="container">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{blog.pastTitle}</h2>
+          </div>
+        </div>
+        <RetreatGrid retreats={pastRetreats} initial={blog.pastInitial} />
+      </div>
+    )
+  }
+
+  <Disclaimer />
+</BaseLayout>

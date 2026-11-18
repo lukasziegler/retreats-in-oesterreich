@@ -1,0 +1,33 @@
+---
+/**
+ * Cookie-Banner mit Consent-Logik: GTM wird erst nach Zustimmung geladen.
+ * Wird nur gerendert, wenn eine GTM-ID in settings.ts gesetzt ist.
+ */
+import { googleTagManagerId } from "../data/settings";
+---
+
+{
+  googleTagManagerId && (
+    <>
+      <div id="cookie-notice" hidden data-gtm-id={googleTagManagerId}>
+        <div class="cookie-notice__headline">Cookies</div>
+        <span>
+          Um die Funktion dieser Website zu verbessern, möchten wir Tools von
+          Drittanbietern verwenden. Dafür benötigen wir deine Zustimmung.
+        </span>
+        <div class="cookie-notice__buttons">
+          <a id="cookie-notice-accept" class="btn btn--primary">
+            Zustimmen
+          </a>
+          <a id="cookie-notice-deny" class="btn btn--secondary">
+            Ablehnen
+          </a>
+        </div>
+      </div>
+      <script>
+        import {initCookieConsent} from '../scripts/cookie-consent';
+        initCookieConsent();
+      </script>
+    </>
+  )
+}

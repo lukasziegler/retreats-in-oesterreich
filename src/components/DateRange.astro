@@ -1,0 +1,21 @@
+---
+import { dateRange } from "../utils/dates";
+
+interface Props {
+  start: Date;
+  end: Date;
+  showDays?: boolean;
+}
+
+const { start, end, showDays = false } = Astro.props;
+const { parts, separator } = dateRange(start, end, showDays);
+---
+
+{
+  parts.map((part, i) => (
+    <>
+      {i > 0 && separator}
+      <time datetime={part.datetime}>{part.label}</time>
+    </>
+  ))
+}

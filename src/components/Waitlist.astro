@@ -1,0 +1,95 @@
+---
+/**
+ * Warteliste für ein Retreat: einfacher HTML-POST an ein Brevo-Formular,
+ * ohne Client-JS. Der Retreat-Slug landet im Brevo-Attribut RETREAT, so
+ * lassen sich Interessierte pro Retreat segmentieren und anschreiben.
+ */
+import { waitlist } from "../data/settings";
+import { isUpcoming, type Retreat } from "../utils/retreats";
+
+interface Props {
+  retreat: Retreat;
+}
+
+const { retreat } = Astro.props;
+const mode = retreat.data.waitlist;
+const upcoming = isUpcoming(retreat);
+const show =
+  waitlist.brevoFormAction !== null &&
+  (mode === undefined ? !upcoming : mode !== false);
+
+// past = verpasst · soon = noch nicht buchbar · open = ausgebucht
+const state = !upcoming ? "past" : mode === "soon" ? "soon" : "open";
+const title = {
+  past: waitlist.titlePast,
+  soon: waitlist.titleSoon,
+  open: waitlist.titleOpen,
+}[state];
+const description = {
+  past: waitlist.descriptionPast,
+  soon: waitlist.descriptionSoon,
+  open: waitlist.descriptionOpen,
+}[state];
+const idPrefix = `waitlist-${retreat.id}`;
+---
+
+{
+  show && (
+    <section class="waitlist" aria-labelledby={`${idPrefix}-title`}>
+      <h2 class="waitlist__title" id={`${idPrefix}-title`}>
+        {title}
+      </h2>
+      <p class="waitlist__description">{description}</p>
+
+      <form
+        class="waitlist__form"
+        action={waitlist.brevoFormAction}
+        method="POST"
+      >
+        <div class="waitlist__fields">
+          <label class="screen-reader-text" for={`${idPrefix}-name`}>
+            Vorname
+          </label>
+          <input
+            class="form__input"
+            id={`${idPrefix}-name`}
+            type="text"
+            name="VORNAME"
+            placeholder="Vorname"
+            autocomplete="given-name"
+          />
+          <label class="screen-reader-text" for={`${idPrefix}-email`}>
+            E-Mail-Adresse
+          </label>
+          <input
+            class="form__input"
+            id={`${idPrefix}-email`}
+            type="email"
+            name="EMAIL"
+            placeholder="E-Mail"
+            autocomplete="email"
+            required
+          />
+          <button class="button button--primary" type="submit">
+            {waitlist.buttonText}
+          </button>
+        </div>
+
+        <input type="hidden" name="RETREAT" value={retreat.id} />
+        <input type="hidden" name="locale" value="de" />
+        {/* Brevo-Honeypot gegen Spam-Bots: muss leer bleiben */}
+        <input
+          class="waitlist__honeypot"
+          type="text"
+          name="email_address_check"
+          value=""
+          tabindex="-1"
+          autocomplete="off"
+          aria-hidden="true"
+        />
+
+        <p class="waitlist__consent">{waitlist.consentText}</p>
+      </form>
+    </section>
+  )
+}

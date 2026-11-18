@@ -1,0 +1,54 @@
+---
+import { hero } from "../data/settings";
+import { allRetreats, featured } from "../utils/retreats";
+import RetreatCard from "./RetreatCard.astro";
+
+const featuredRetreats = featured(await allRetreats());
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          <h1 class="hero__title">{hero.title}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {
+    featuredRetreats.length > 0 && (
+      <div class="featured-section">
+        <div class="container">
+          <div class="row">
+            <div class="col col-12">
+              <div class="featured__info">
+                <div class="featured__head">
+                  <h2 class="featured__title">
+                    Entdecke unsere kommenden Retreats
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="featured__cards animate">
+          <div class="container">
+            <div class="row">
+              <div class="featured__posts">
+                {featuredRetreats.map((retreat) => (
+                  <RetreatCard
+                    retreat={retreat}
+                    linkExternal={Boolean(retreat.data.external_url)}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+</section>

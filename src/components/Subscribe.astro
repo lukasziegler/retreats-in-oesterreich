@@ -1,0 +1,54 @@
+---
+import { mailchimp } from "../data/settings";
+---
+
+{
+  mailchimp.enable && (
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="subscribe">
+            <div class="subscribe__inner">
+              <div class="subscribe__content">
+                <h3 class="subscribe__title">{mailchimp.title}</h3>
+                <p class="subscribe__description">{mailchimp.description}</p>
+              </div>
+              <form
+                class="subscribe-form validate"
+                action={`//${mailchimp.identifier.replaceAll("&amp;", "&")}`}
+                method="POST"
+                id="membedded-subscribe-form"
+                name="membedded-subscribe-form"
+                target="_blank"
+                novalidate
+              >
+                <label class="screen-reader-text" for="mce-EMAIL">
+                  E-Mail-Adresse
+                </label>
+                <input
+                  class="subscribe-email required email"
+                  id="mce-EMAIL"
+                  type="email"
+                  name="EMAIL"
+                  placeholder={mailchimp.inputText}
+                />
+                <button
+                  class="button button--primary subscribe-button"
+                  id="membedded-subscribe"
+                  type="submit"
+                  name="subscribe"
+                >
+                  {mailchimp.buttonText}
+                </button>
+              </form>
+            </div>
+            <div
+              class="subscribe__bg"
+              style={`background-image: url('${encodeURI(mailchimp.backgroundImage)}')`}
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
