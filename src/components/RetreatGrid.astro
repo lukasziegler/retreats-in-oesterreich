@@ -1,8 +1,8 @@
 ---
 /**
- * Karten-Raster mit „Mehr laden“: Alle Karten stehen im HTML (SEO, ohne JS
- * sichtbar), alles ab `initial` ist `hidden`. Der Button blendet pro Klick
- * die nächsten `blog.loadMoreStep` Karten ein (main.ts → initLoadMore).
+ * Card grid with "Mehr laden": all cards are in the HTML (SEO, visible
+ * without JS), everything from `initial` on is `hidden`. Each click reveals
+ * the next `blog.loadMoreStep` cards (main.ts → initLoadMore).
  */
 import RetreatCard from "./RetreatCard.astro";
 import { blog } from "../data/settings";
@@ -10,13 +10,13 @@ import type { Retreat } from "../utils/retreats";
 
 interface Props {
   retreats: Retreat[];
-  /** Anzahl sichtbarer Karten vor „Mehr laden“. */
+  /** Number of visible cards before "Mehr laden". */
   initial: number;
 }
 
 const { retreats, initial } = Astro.props;
 const hasMore = retreats.length > initial;
-// Ohne JavaScript: alle Karten zeigen, Button ausblenden
+// Without JavaScript: show all cards, hide the button
 const noscriptCss =
   ".load-more .article[hidden]{display:block!important}.load-more__actions{display:none}";
 ---

@@ -1,10 +1,10 @@
-# Baut die Astro-Site und deployt sie auf GitHub Pages.
+# Builds the Astro site and deploys it to GitHub Pages.
 #
-# Wird erst aktiv, wenn in den Repo-Settings unter Pages
-# "Source: GitHub Actions" eingestellt ist.
+# Only takes effect when the repo settings under Pages use
+# "Source: GitHub Actions".
 #
-# Der wöchentliche Cron-Trigger sorgt dafür, dass abgelaufene Retreats
-# automatisch in "Bisherige Retreats" wandern, auch ohne neuen Commit.
+# The weekly cron trigger moves finished retreats to "Bisherige Retreats"
+# automatically, even without a new commit.
 name: Deploy to GitHub Pages
 
 on:
@@ -43,8 +43,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: withastro/action@v3
         with:
-          # Default der Action ist Node 20, Astro 7 braucht >= 22.12.
-          # Synchron mit .node-version halten.
+          # The action defaults to Node 20, Astro 7 needs >= 22.12.
+          # Keep in sync with .node-version.
           node-version: 24
 
   deploy:

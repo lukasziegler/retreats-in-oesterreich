@@ -32,7 +32,7 @@ const author = retreat.data.author
   ? await getEntry(retreat.data.author)
   : undefined;
 
-// Vorheriges/nächstes Retreat entlang des Startdatums
+// Previous/next retreat by start date
 const chronological = (await allRetreats()).sort(
   (a, b) => a.data.start_date.valueOf() - b.data.start_date.valueOf(),
 );
@@ -45,7 +45,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site);
 const shareTitle = encodeURIComponent(title);
 const shareUrl = encodeURIComponent(pageUrl.href);
 
-// Event-Schema für Google Rich Results
+// Event schema for Google rich results
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Event",

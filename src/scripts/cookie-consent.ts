@@ -1,6 +1,6 @@
 /**
  * Cookie-Consent + Google Tag Manager.
- * GTM wird ausschließlich nach expliziter Zustimmung geladen (DSGVO).
+ * GTM is only loaded after explicit consent (GDPR).
  */
 
 const COOKIE_NAME = "cookie-notice-option";

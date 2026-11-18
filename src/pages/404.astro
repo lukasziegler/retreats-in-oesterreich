@@ -4,7 +4,7 @@ import Icon from "../components/Icon.astro";
 import RetreatCard from "../components/RetreatCard.astro";
 import { allRetreats, upcoming } from "../utils/retreats";
 
-// Bevorstehende zuerst; gibt es keine, die zuletzt stattgefundenen
+// Upcoming first; if there are none, the most recent past ones
 const retreats = await allRetreats();
 const upcomingRetreats = upcoming(retreats);
 const recent = (

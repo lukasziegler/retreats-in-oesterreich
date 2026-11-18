@@ -50,7 +50,7 @@ const tags = allTags(await allRetreats());
   </section>
 
   <script>
-    // Zeigt die Tag-Sektion aus dem ?tag=-Parameter (wie auf der Jekyll-Site)
+    // Shows the tag section from the ?tag= parameter (as on the Jekyll site)
     const tag = new URLSearchParams(window.location.search).get("tag");
     if (tag) {
       document.getElementById(tag)?.classList.remove("is-hidden");

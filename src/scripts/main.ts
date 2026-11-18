@@ -1,6 +1,6 @@
 /**
- * Globale Interaktivität (Port von js/common.js, ohne Dependencies):
- * Menü, Such-Overlay, „Mehr laden“, Bild-Zoom, Resize-Handling.
+ * Global interactivity (port of js/common.js, no dependencies):
+ * menu, search overlay, "Mehr laden", image zoom, resize handling.
  */
 import { initSearch } from "./search";
 
@@ -58,7 +58,7 @@ function initSearchOverlay(): void {
   }
 }
 
-/** „Mehr laden“ in Karten-Rastern (RetreatGrid.astro). */
+/** "Mehr laden" in card grids (RetreatGrid.astro). */
 function initLoadMore(): void {
   document.querySelectorAll<HTMLElement>("[data-load-more]").forEach((box) => {
     const button = box.querySelector<HTMLButtonElement>(".load-more__button");
@@ -75,12 +75,12 @@ function initLoadMore(): void {
   });
 }
 
-/** Klick-Zoom für Inhaltsbilder (ersetzt Lightense). */
+/** Click-to-zoom for content images (replaces Lightense). */
 function initImageZoom(): void {
   const selector =
     ".post__content img:not(.no-zoom), .page__content img:not(.no-zoom), .gallery img";
 
-  // Verlinkte Bilder nicht zoomen (Link hat Vorrang)
+  // Don't zoom linked images (the link wins)
   document.querySelectorAll<HTMLImageElement>(`${selector}`).forEach((img) => {
     if (img.closest("a")) img.classList.add("no-zoom");
   });
@@ -93,8 +93,8 @@ function initImageZoom(): void {
     const overlay = document.createElement("div");
     overlay.className = "zoom-overlay";
     const clone = document.createElement("img");
-    // Volle Auflösung aus dem Build-Schritt (optimize-images), sonst das,
-    // was gerade angezeigt wird
+    // Full resolution from the build step (optimize-images), otherwise
+    // whatever is currently displayed
     clone.src = target.dataset.zoomSrc || target.currentSrc || target.src;
     clone.alt = target.alt;
     overlay.appendChild(clone);
@@ -115,7 +115,7 @@ function initImageZoom(): void {
   });
 }
 
-/** Transitions während des Resizens unterdrücken. */
+/** Suppress transitions while resizing. */
 function initResizeStopper(): void {
   let resizeTimer: ReturnType<typeof setTimeout>;
   window.addEventListener("resize", () => {

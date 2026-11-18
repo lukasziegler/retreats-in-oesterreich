@@ -12,7 +12,7 @@ export const site = {
   title: "Retreats in Österreich",
   description:
     "Finde dein nächstes Retreat ganz in deiner Nähe. Unsere Vision ist es Retreats in Österreich leichter auffindbar zu machen und die Retreat-Organisatoren bei der Orga-Arbeit zu unterstützen.",
-  /** Fallback für og:image, wenn eine Seite kein eigenes Bild hat. */
+  /** Fallback og:image for pages without their own image. */
   defaultImage:
     "/images/stockphotos/generic/yogi-pose stephanie-greene-1aB-1s4BIEo-unsplash.jpg",
 } as const;
@@ -53,26 +53,26 @@ export const blog = {
   upcomingTitle: "Bevorstehende Retreats",
   upcomingDescription:
     "Wenn du dir unsicher bist, welches Retreat zu dir passt, melde dich – wir helfen gerne weiter.",
-  /** Wird statt der Liste gezeigt, wenn es gar keine bevorstehenden Retreats gibt. */
+  /** Shown instead of the list when there are no upcoming retreats at all. */
   upcomingEmpty:
     "Neue Termine sind in Planung. Schau gerne bald wieder vorbei.",
   pastTitle: "Bisherige Retreats",
-  /** Max. Anzahl Featured-Retreats oben im Hero (die zeitlich nächsten). */
+  /** Max. number of featured retreats in the hero (the soonest ones). */
   featuredLimit: 2,
-  /** Sichtbare Karten vor „Mehr laden“. */
+  /** Visible cards before "Mehr laden". */
   upcomingInitial: 6,
   pastInitial: 3,
-  /** Pro Klick auf „Mehr laden“ zusätzlich eingeblendete Karten. */
+  /** Cards revealed per click on "Mehr laden". */
   loadMoreStep: 6,
   loadMoreLabel: "Mehr laden",
-  /** Status-Badges auf den Retreat-Karten. */
+  /** Status badges on retreat cards. */
   statusPast: "Vergangen",
   statusSoon: "Buchung bald möglich",
   statusWaitlist: "Warteliste",
 } as const;
 
 export const mailchimp = {
-  /** Newsletter-Box im Footer (seit Juli 2026 deaktiviert). */
+  /** Newsletter box in the footer (disabled since July 2026). */
   enable: false,
   identifier:
     "retreats-in-oesterreich.us8.list-manage.com/subscribe/post?u=445350db8e4e179a39d000d7b&amp;id=6fa7268942&amp;f_id=008e14e1f0",
@@ -91,20 +91,20 @@ export const contact = {
 } as const;
 
 /**
- * Warteliste (Brevo). Wird auf vergangenen Retreats automatisch angezeigt,
- * auf bevorstehenden nur mit `waitlist: true` (ausgebucht) oder
- * `waitlist: soon` (Termin steht, Buchung noch nicht offen) im Frontmatter.
- * `waitlist: false` blendet sie überall aus.
+ * Waitlist (Brevo). Shown automatically on past retreats; on upcoming ones
+ * only with `waitlist: true` (fully booked) or `waitlist: soon` (date fixed,
+ * booking not open yet) in the frontmatter. `waitlist: false` hides it
+ * everywhere.
  */
 export const waitlist = {
   /**
-   * Action-URL des Brevo-Formulars (`https://….sibforms.com/serve/…`).
-   * `null` = Warteliste deaktiviert.
+   * Action URL of the Brevo form (`https://….sibforms.com/serve/…`).
+   * `null` = waitlist disabled.
    */
   brevoFormAction:
     "https://a7352418.sibforms.com/serve/MUIFAC0ZlO7fqkuxXvS7XgDaed0a5BOvjAPBBqVbI6ZSNhYHk_ibpz2zTgErnHh5yboHm0DFBtywXR--MOA4wuybzZKGaMqo2qvHYVFkCHmGE0uh_-ybrfnE-pdqk5E5TJ0PDWPrk_4GGSaByZifSZphG0kditpq8afGOlTLx57N3LiwILPt1LOdfwZ82iRDlFV80lw_WjKvQzNy2g==" as
       string | null,
-  /** Seite, auf die Brevo nach dem Absenden weiterleitet (in Brevo eintragen). */
+  /** Page Brevo redirects to after submitting (configure it in Brevo). */
   thankYouUrl: "/warteliste-danke/",
   titlePast: "Verpasst? Sei beim nächsten Mal dabei.",
   titleOpen: "Ausgebucht? Komm auf die Warteliste.",
@@ -121,7 +121,7 @@ export const waitlist = {
 };
 
 /**
- * Google Tag Manager: wird nur nach Cookie-Zustimmung geladen.
- * Auf `'GTM-MX94S3GK'` setzen, um Analytics (inkl. Cookie-Banner) zu aktivieren.
+ * Google Tag Manager: only loaded after cookie consent.
+ * Set to `'GTM-MX94S3GK'` to enable analytics (including the cookie banner).
  */
 export const googleTagManagerId: string | null = null;

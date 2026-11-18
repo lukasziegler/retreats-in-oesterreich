@@ -18,16 +18,16 @@ export function monthName(date: Date): string {
 }
 
 export interface DateRangePart {
-  /** ISO-Datum für das <time datetime>-Attribut */
+  /** ISO date for the <time datetime> attribute */
   datetime: string;
   label: string;
 }
 
 /**
- * Datumsspanne wie auf der Jekyll-Site (date_range.html):
+ * Date range as on the Jekyll site (date_range.html):
  * - showDays: "28.–30. April 2026" / "28. April – 3. Mai 2026"
- * - sonst:    "April 2026" / "April/Mai 2026"
- * Rückgabe als Teile (time-Elemente) + Separator.
+ * - otherwise: "April 2026" / "April/Mai 2026"
+ * Returned as parts (time elements) + separator.
  */
 export function dateRange(
   start: Date,
@@ -106,7 +106,7 @@ export function dateRange(
   };
 }
 
-/** Langes deutsches Datum, z.B. "8. März 2026" (für Post-Meta). */
+/** Long German date, e.g. "8. März 2026" (for post meta). */
 export function longDate(date: Date): string {
   return `${date.getDate()}. ${monthName(date)} ${date.getFullYear()}`;
 }

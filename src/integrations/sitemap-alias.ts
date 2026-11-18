@@ -1,10 +1,10 @@
 /**
- * Stellt die Sitemap zusätzlich unter /sitemap.xml bereit.
+ * Also serves the sitemap at /sitemap.xml.
  *
- * @astrojs/sitemap schreibt immer `sitemap-index.xml`, die alte Jekyll-Site
- * hatte `/sitemap.xml` (in der Google Search Console hinterlegt). Dieser
- * Schritt kopiert den Index nach dem Build auf den alten Namen, damit die
- * URL stabil bleibt. Muss in astro.config.mjs NACH sitemap() stehen.
+ * @astrojs/sitemap always writes `sitemap-index.xml`; the old Jekyll site
+ * used `/sitemap.xml` (registered in Google Search Console). This step
+ * copies the index to the old name after the build so the URL stays
+ * stable. Must come AFTER sitemap() in astro.config.mjs.
  */
 import type { AstroIntegration } from "astro";
 import { copyFile } from "node:fs/promises";
@@ -18,7 +18,7 @@ export default function sitemapAlias(): AstroIntegration {
           new URL("sitemap-index.xml", dir),
           new URL("sitemap.xml", dir),
         );
-        logger.info("sitemap-index.xml → sitemap.xml kopiert");
+        logger.info("copied sitemap-index.xml → sitemap.xml");
       },
     },
   };

@@ -1,8 +1,8 @@
 ---
 /**
- * Warteliste für ein Retreat: einfacher HTML-POST an ein Brevo-Formular,
- * ohne Client-JS. Der Retreat-Slug landet im Brevo-Attribut RETREAT, so
- * lassen sich Interessierte pro Retreat segmentieren und anschreiben.
+ * Waitlist for a retreat: plain HTML POST to a Brevo form, no client JS.
+ * The retreat slug goes into the Brevo attribute RETREAT, so sign-ups can
+ * be segmented and contacted per retreat.
  */
 import { waitlist } from "../data/settings";
 import { isUpcoming, type Retreat } from "../utils/retreats";
@@ -18,7 +18,7 @@ const show =
   waitlist.brevoFormAction !== null &&
   (mode === undefined ? !upcoming : mode !== false);
 
-// past = verpasst · soon = noch nicht buchbar · open = ausgebucht
+// past = missed · soon = not bookable yet · open = fully booked
 const state = !upcoming ? "past" : mode === "soon" ? "soon" : "open";
 const title = {
   past: waitlist.titlePast,

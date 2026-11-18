@@ -10,19 +10,19 @@ export default defineConfig({
   trailingSlash: "always",
   integrations: [
     sitemap({
-      // Danke-Seite nach Warteliste-Anmeldung gehört nicht in den Index
+      // Keep the waitlist thank-you page out of the index
       filter: (page) => !page.endsWith("/warteliste-danke/"),
     }),
-    // Index zusätzlich als /sitemap.xml (alte Jekyll-URL), nach sitemap()
+    // Also serve the index as /sitemap.xml (old Jekyll URL); must come after sitemap()
     sitemapAlias(),
-    // WebP-Varianten + srcset für Bilder aus public/images/ (nur im Build).
-    // minSize: nur Bilder ab dieser Dateigröße (Bytes) optimieren, 0 = alle.
+    // WebP variants + srcset for images in public/images/ (build only).
+    // minSize: only optimize images at least this many bytes, 0 = all.
     optimizeImages({ minSize: 0 }),
   ],
   redirects: {
-    // Jekyll-Pagination-Relikt: /page/2/ existierte auf der alten Site
+    // Jekyll pagination leftover: /page/2/ existed on the old site
     "/page/2/": "/",
-    // Mesnerhof-Retreats 2025 → Folgetermine 2027 (Dateien umbenannt)
+    // Mesnerhof retreats 2025 → follow-up dates 2027 (files renamed)
     "/yoga-mesnerhof-november/": "/yoga-mesnerhof-juni/",
     "/yoga-mesnerhof-dezember/": "/yoga-mesnerhof-august/",
   },

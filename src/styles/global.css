@@ -1,12 +1,12 @@
 /* ==========================================================================
-   Globale Styles – Port des Jekyll-Themes "Dann" (behutsam modernisiert):
-   - Custom Properties statt SCSS-Variablen (siehe tokens.css)
-   - natives CSS-Nesting statt SCSS
-   - clamp() für Display-Titel statt Breakpoint-Sprüngen
-   - CSS scroll-snap Slider statt tiny-slider
-   - natives lazy loading statt JS-LazyLoad
+   Global styles – port of the Jekyll theme "Dann" (gently modernized):
+   - custom properties instead of SCSS variables (see tokens.css)
+   - native CSS nesting instead of SCSS
+   - clamp() for display titles instead of breakpoint jumps
+   - static featured cards instead of tiny-slider
+   - native lazy loading instead of JS LazyLoad
 
-   Breakpoints (wie im Original):
+   Breakpoints (as in the original):
    wide 1300px · desktop 1024px · menu 1050px · tablet 768px · mobile 576px
    ========================================================================== */
 
@@ -227,7 +227,7 @@ a {
   }
 }
 
-/* Hervorgehobener Fließtext-Link (z.B. WKO-Hinweis im Disclaimer) */
+/* Highlighted body-text link (e.g. WKO note in the disclaimer) */
 a.link {
   font-weight: 600;
   border-bottom: 1px solid var(--border-alt-color);
@@ -375,7 +375,7 @@ table td {
 }
 
 /* ==========================================================================
-   2. Grid (nur die tatsächlich genutzten Klassen des 12er-Grids)
+   2. Grid (only the classes of the 12-column grid that are actually used)
    ========================================================================== */
 
 .container {
@@ -536,8 +536,8 @@ table td {
 
 .logo__link {
   padding: 4px 0;
-  /* Fluid auf Mobile, damit Logo + Hamburger in eine Zeile passen
-     (375px → ~25px, 320px → ~19px, ab ~450px wieder 32px) */
+  /* Fluid on mobile so logo + hamburger fit on one line
+     (375px → ~25px, 320px → ~19px, back to 32px from ~450px) */
   font-size: clamp(18px, 9.5vw - 11px, 32px);
   letter-spacing: var(--heading-letter-spacing);
   line-height: 1;
@@ -718,7 +718,7 @@ table td {
   }
 }
 
-/* Hamburger (ist ein <button> – Browser-Standardstyles zurücksetzen) */
+/* Hamburger (a <button> – reset browser default styles) */
 .hamburger {
   appearance: none;
   width: 28px;
@@ -758,8 +758,8 @@ table td {
   position: relative;
 }
 
-/* Explizit links verankern – sonst übernehmen sie das zentrierte
-   text-align des <button> und rutschen nach rechts */
+/* Anchor explicitly to the left – otherwise they inherit the <button>'s
+   centered text-align and shift to the right */
 .hamburger div::before,
 .hamburger div::after {
   content: "";
@@ -800,7 +800,7 @@ table td {
   padding: 0;
 
   @media (max-width: 1050px) {
-    /* <button> ist sonst nur so breit wie die Lupe → volle Breite, rechtsbündig */
+    /* Otherwise the <button> is only as wide as the magnifier → full width, right-aligned */
     width: 100%;
     margin-left: 0;
     justify-content: end;
@@ -1192,9 +1192,9 @@ table td {
   }
 }
 
-/* Featured-Karten (max. 2, siehe settings.ts): hängen unten aus dem dunklen
-   Hero heraus – padding-bottom hält den Schatten sichtbar, die negative
-   margin stellt die ursprüngliche Flusshöhe her. Am Handy untereinander. */
+/* Featured cards (max. 2, see settings.ts): hang out of the bottom of the
+   dark hero – padding-bottom keeps the shadow visible, the negative margin
+   restores the original flow height. Stacked on phones. */
 .featured__posts {
   display: flex;
   width: 100%;
@@ -1208,7 +1208,7 @@ table td {
 }
 
 /* ==========================================================================
-   6. Artikel-Karten
+   6. Article cards
    ========================================================================== */
 
 .article {
@@ -1236,7 +1236,7 @@ table td {
   position: relative;
 }
 
-/* Status-Badge auf dem Kartenbild (RetreatCard.astro) */
+/* Status badge on the card image (RetreatCard.astro) */
 .article__status {
   position: absolute;
   top: 16px;
@@ -1261,10 +1261,10 @@ table td {
   display: none;
 }
 
-/* Raster für Bevorstehende/Bisherige (RetreatGrid.astro): echtes CSS Grid
-   statt Flex-Spalten, damit alle Karten gleich breit sind – auch eine
-   einzelne Karte in der letzten Reihe. Abstände kommen weiter aus dem
-   Spalten-Padding (.col) und den negativen Rändern der .row. */
+/* Grid for upcoming/past retreats (RetreatGrid.astro): real CSS grid instead
+   of flex columns so all cards have the same width – including a lone card
+   in the last row. Gutters still come from the column padding (.col) and
+   the negative margins of .row. */
 .load-more .grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1282,7 +1282,7 @@ table td {
   }
 }
 
-/* „Mehr laden“ (RetreatGrid.astro) */
+/* "Mehr laden" (RetreatGrid.astro) */
 .load-more__actions {
   display: flex;
   justify-content: center;
@@ -1545,7 +1545,7 @@ table td {
   }
 }
 
-/* Warteliste (Brevo) unter Retreat-Inhalten */
+/* Waitlist (Brevo) below retreat content */
 .waitlist {
   max-width: 760px;
   margin: 64px auto 48px;
@@ -1581,7 +1581,7 @@ table td {
       font-family: inherit;
       white-space: nowrap;
 
-      /* Türkis-Hover wäre auf dem Petrol-Hintergrund kaum sichtbar */
+      /* A turquoise hover would barely show on the petrol background */
       &.button--primary:hover {
         color: var(--dark);
         background: var(--white);
@@ -2278,7 +2278,7 @@ table td {
   }
 }
 
-/* Post-Navigation (vorheriges/nächstes Retreat) */
+/* Post navigation (previous/next retreat) */
 .post__navigation {
   display: flex;
   justify-content: space-between;
@@ -2641,7 +2641,7 @@ table td {
 }
 
 /* ==========================================================================
-   13. Tags-Seite
+   13. Tags page
    ========================================================================== */
 
 .tags__inner {
@@ -2695,7 +2695,7 @@ table td {
 }
 
 /* ==========================================================================
-   14. Inline-Bilder & Bild-Zoom
+   14. Inline images & image zoom
    ========================================================================== */
 
 .inline-image--float-left {
@@ -2718,7 +2718,7 @@ table td {
   }
 }
 
-/* Klick-Zoom für Inhaltsbilder (ersetzt Lightense) */
+/* Click-to-zoom for content images (replaces Lightense) */
 .post__content img:not(.no-zoom),
 .page__content img:not(.no-zoom),
 .gallery img {

@@ -1,6 +1,6 @@
 /* ==========================================================================
-   Design-Tokens – Retreats in Österreich
-   Farbschema und Grundwerte des Dann-Themes, als Custom Properties.
+   Design tokens – Retreats in Österreich
+   Color scheme and base values of the Dann theme, as custom properties.
    ========================================================================== */
 
 :root {
@@ -63,11 +63,11 @@
   --font-size-h5: 18px;
   --font-size-h6: 16px;
 
-  /* Große Display-Titel (Hero, Post-Titel, …): fluid statt Breakpoint-Sprünge */
+  /* Large display titles (hero, post titles, …): fluid instead of breakpoint jumps */
   --font-size-display: clamp(28px, 2.5vw + 16px, 52px);
   --font-size-section: clamp(30px, 1.9vw + 17px, 44px);
 
-  /* Abstände & Layout */
+  /* Spacing & layout */
   --space-unit: 16px;
   --container-max-width: 1332px;
   --radius: 12px;
@@ -78,8 +78,8 @@
   --shadow-card: 0px 4px 35px rgba(0, 0, 0, 0.08);
   --shadow-dropdown: 0 15px 40px 5px rgba(0, 0, 0, 0.1);
 
-  /* Warteliste: Petrol-Verlauf aus der Primärfarbe mit Lichtakzent oben rechts.
-     Töne dunkel genug für weißen Fließtext (WCAG AA ≥ 4.5:1). */
+  /* Waitlist: petrol gradient from the primary color with a light accent top right.
+     Tones dark enough for white body text (WCAG AA ≥ 4.5:1). */
   --waitlist-background:
     radial-gradient(
       circle at 100% 0%,

@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
 import { allRetreats } from "../utils/retreats";
 
-/** Suchindex für die Client-Suche (Format wie das Jekyll search.json). */
+/** Search index for the client-side search (same format as Jekyll's search.json). */
 export const GET: APIRoute = async () => {
   const retreats = await allRetreats();
 

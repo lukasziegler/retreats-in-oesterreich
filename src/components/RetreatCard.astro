@@ -5,13 +5,13 @@ import { blog } from "../data/settings";
 
 interface Props {
   retreat: Retreat;
-  /** Spaltenklassen, z.B. "col-4 col-d-6 col-t-12" (Startseite) oder "col-3 col-d-6 col-m-12" (Related) */
+  /** Column classes, e.g. "col-4 col-d-6 col-t-12" (home page) or "col-3 col-d-6 col-m-12" (related) */
   columns?: string;
-  /** Karte verlinkt extern (Featured-Slider bei external_url) */
+  /** Card links externally (featured cards with external_url) */
   linkExternal?: boolean;
-  /** Tags + Beschreibung anzeigen (kompakte Karten lassen beides weg) */
+  /** Show tags + description (compact cards omit both) */
   compact?: boolean;
-  /** Karte zunächst ausblenden („Mehr laden“ in RetreatGrid) */
+  /** Initially hide the card ("Mehr laden" in RetreatGrid) */
   hidden?: boolean;
   class?: string;
 }
@@ -40,7 +40,7 @@ const href = linkExternal && external_url ? external_url : internalUrl;
 const externalAttrs =
   linkExternal && external_url ? { target: "_blank", rel: "noopener" } : {};
 
-// Status-Badge: vergangen / Buchung bald offen / Warteliste (z.B. ausgebucht)
+// Status badge: past / booking opens soon / waitlist (e.g. fully booked)
 const upcomingRetreat = isUpcoming(retreat);
 const status = !upcomingRetreat
   ? { label: blog.statusPast, modifier: "past" }

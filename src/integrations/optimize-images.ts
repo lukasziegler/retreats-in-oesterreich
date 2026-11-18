@@ -1,16 +1,16 @@
 /**
- * Build-Schritt: responsive WebP-Varianten für Bilder aus public/images/.
+ * Build step: responsive WebP variants for images from public/images/.
  *
- * Läuft nach dem Build über alle HTML-Seiten in dist/. Jedes
- * `<img src="/images/…">` ab `minSize` bekommt:
- *   - `srcset` mit WebP-Varianten (400, 800, 1200 px + Originalbreite),
- *   - `sizes`, `width`/`height` (Originalmaße → kein Layout-Shift,
- *     Layout bleibt identisch zu vorher),
- *   - `data-zoom-src` = WebP in voller Auflösung für die Lightbox.
+ * Runs after the build over all HTML pages in dist/. Every
+ * `<img src="/images/…">` of at least `minSize` gets:
+ *   - `srcset` with WebP variants (400, 800, 1200 px + original width),
+ *   - `sizes`, `width`/`height` (original dimensions → no layout shift,
+ *     layout stays identical to before),
+ *   - `data-zoom-src` = full-resolution WebP for the lightbox.
  *
- * `src` bleibt das Original-JPEG unter seiner bisherigen URL (SEO,
- * E-Mails, Social-Previews). Varianten landen in dist/images/_opt/ und
- * werden in node_modules/.astro/ zwischengespeichert.
+ * `src` keeps the original JPEG at its existing URL (SEO, emails, social
+ * previews). Variants go to dist/images/_opt/ and are cached in
+ * node_modules/.astro/.
  */
 import type { AstroIntegration } from "astro";
 import { createHash } from "node:crypto";
@@ -28,19 +28,19 @@ import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
 interface Options {
-  /** Nur Bilder ab dieser Dateigröße (Bytes) optimieren. 0 = alle. */
+  /** Only optimize images of at least this file size (bytes). 0 = all. */
   minSize?: number;
-  /** Zielbreiten der Varianten; größere als das Original entfallen. */
+  /** Target widths of the variants; widths above the original are skipped. */
   widths?: number[];
-  /** WebP-Qualität (0–100). */
+  /** WebP quality (0–100). */
   quality?: number;
 }
 
 const IMG_TAG = /<img\b(?:[^>"']|"[^"]*"|'[^']*')*>/gi;
 const ATTR = /([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+)))?/g;
 const RASTER = /\.(jpe?g|png)$/i;
-// Fallback für Browser ohne `sizes="auto"`: max. gerenderte Breite ist
-// ca. 900 px (Galerie am Desktop), am Handy die volle Breite.
+// Fallback for browsers without `sizes="auto"`: the widest rendered size
+// is about 900 px (desktop gallery), full width on phones.
 const SIZES_FALLBACK = "(max-width: 768px) 100vw, 900px";
 
 interface Variant {
@@ -104,7 +104,7 @@ export default function optimizeImages(
         let variantBytes = 0;
 
         async function process(src: string): Promise<Processed | null> {
-          // Fragment/Query abschneiden (z.B. Theme-Marker "#wide" für breite Bilder)
+          // Strip fragment/query (e.g. the theme's "#wide" marker for wide images)
           const rel = decodeSrc(src).replace(/[?#].*$/, "");
           if (!rel.startsWith("/images/") || !RASTER.test(rel)) return null;
           const file = path.join(publicDir, rel);
@@ -118,7 +118,7 @@ export default function optimizeImages(
             .digest("hex")
             .slice(0, 8);
           const meta = await sharp(buffer).metadata();
-          // EXIF-Rotation berücksichtigen (Hochformat-Handyfotos)
+          // Respect EXIF rotation (portrait phone photos)
           const rotated = (meta.orientation ?? 1) >= 5;
           const width = (rotated ? meta.height : meta.width) ?? 0;
           const height = (rotated ? meta.width : meta.height) ?? 0;
@@ -179,7 +179,7 @@ export default function optimizeImages(
                 .map((v) => `${v.url} ${v.width}w`)
                 .join(", ");
               const lazy = attrs.get("loading") === "lazy";
-              // "#wide"-Bilder laufen über die volle Viewport-Breite
+              // "#wide" images span the full viewport width
               const sizes =
                 attrs.get("sizes") ??
                 (src.endsWith("#wide") ? "100vw" : SIZES_FALLBACK);
@@ -194,7 +194,7 @@ export default function optimizeImages(
                 .filter(Boolean)
                 .join(" ");
               tags++;
-              // Vorhandenes sizes wird oben übernommen und hier ersetzt
+              // An existing sizes attribute is reused above and replaced here
               return tag
                 .replace(/\s+sizes\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/i, "")
                 .replace(/\s*\/?>$/, ` ${extra}>`);
@@ -212,9 +212,9 @@ export default function optimizeImages(
         const images = [...cache.values()].length;
         const done = (await Promise.all(cache.values())).filter(Boolean).length;
         logger.info(
-          `${done}/${images} Bilder optimiert (ab ${Math.round(minSize / 1024)} KB), ` +
-            `${tags} <img> auf ${pages} Seiten. Originale ${(originalBytes / 1e6).toFixed(1)} MB, ` +
-            `alle WebP-Varianten ${(variantBytes / 1e6).toFixed(1)} MB.`,
+          `optimized ${done}/${images} images (from ${Math.round(minSize / 1024)} KB), ` +
+            `${tags} <img> on ${pages} pages. Originals ${(originalBytes / 1e6).toFixed(1)} MB, ` +
+            `all WebP variants ${(variantBytes / 1e6).toFixed(1)} MB.`,
         );
       },
     },

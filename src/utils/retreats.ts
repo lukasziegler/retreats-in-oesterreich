@@ -3,7 +3,7 @@ import { blog } from "../data/settings";
 
 export type Retreat = CollectionEntry<"retreats">;
 
-/** Alle Retreats, neueste (nach Startdatum) zuerst. */
+/** All retreats, newest (by start date) first. */
 export async function allRetreats(): Promise<Retreat[]> {
   const retreats = await getCollection("retreats");
   return retreats.sort(
@@ -15,21 +15,21 @@ export function isUpcoming(retreat: Retreat, now = new Date()): boolean {
   return retreat.data.end_date.valueOf() >= now.valueOf();
 }
 
-/** Bevorstehende Retreats, das nächste zuerst. */
+/** Upcoming retreats, soonest first. */
 export function upcoming(retreats: Retreat[], now = new Date()): Retreat[] {
   return retreats
     .filter((r) => isUpcoming(r, now))
     .sort((a, b) => a.data.start_date.valueOf() - b.data.start_date.valueOf());
 }
 
-/** Vergangene Retreats, das jüngste zuerst. */
+/** Past retreats, most recent first. */
 export function past(retreats: Retreat[], now = new Date()): Retreat[] {
   return retreats.filter((r) => !isUpcoming(r, now));
 }
 
 /**
- * Featured und bevorstehend – für den Hero auf der Startseite.
- * Begrenzt auf die zeitlich nächsten `limit` Retreats.
+ * Featured and upcoming – for the hero on the home page.
+ * Limited to the `limit` soonest retreats.
  */
 export function featured(
   retreats: Retreat[],
@@ -41,7 +41,7 @@ export function featured(
     .slice(0, limit);
 }
 
-/** Alle Tags mit Anzahl, alphabetisch sortiert. */
+/** All tags with their retreats, sorted alphabetically. */
 export function allTags(
   retreats: Retreat[],
 ): { tag: string; retreats: Retreat[] }[] {

@@ -11,6 +11,11 @@ npm run check     # astro check — vor jedem Commit laufen lassen
 npm run format    # Prettier (mit prettier-plugin-astro)
 ```
 
+## Sprache
+
+- **Code-Kommentare, Bezeichner und Commit-Messages: Englisch.** Gilt auch für Log-Meldungen im Build.
+- **Deutsch** für alles, was Inhalt ist: UI-Texte (settings.ts, Komponenten-Strings), Markdown-Inhalte und diese CLAUDE.md.
+
 ## Architektur
 
 - **Content Collections** ([src/content.config.ts](src/content.config.ts)):

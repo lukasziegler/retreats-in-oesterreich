@@ -8,7 +8,7 @@ import { allRetreats, featured, past, upcoming } from "../utils/retreats";
 
 const retreats = await allRetreats();
 const upcomingAll = upcoming(retreats);
-// Was oben im Hero steht, hier nicht nochmal zeigen
+// Don't repeat what the hero already shows
 const featuredIds = new Set(featured(retreats).map((r) => r.id));
 const upcomingRetreats = upcomingAll.filter((r) => !featuredIds.has(r.id));
 const pastRetreats = past(retreats);
@@ -18,7 +18,7 @@ const pastRetreats = past(retreats);
   <Hero />
 
   {
-    /* Gar nichts geplant → Hinweis. Alles schon im Hero → Sektion ausblenden. */
+    /* Nothing planned → note. Everything already in the hero → hide section. */
     upcomingAll.length === 0 ? (
       <div class="container">
         <div class="section__info">

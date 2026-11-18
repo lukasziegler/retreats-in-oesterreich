@@ -1,6 +1,6 @@
 /**
- * Leichtgewichtige Client-Suche (Ersatz für SimpleJekyllSearch, ohne Dependencies).
- * Durchsucht den /search.json-Index: alle Suchbegriffe müssen in Titel oder Tags vorkommen.
+ * Lightweight client-side search (replaces SimpleJekyllSearch, no dependencies).
+ * Searches the /search.json index: every search term must appear in the title or tags.
  */
 
 export interface SearchEntry {
@@ -58,7 +58,7 @@ export function initSearch(
     return index;
   }
 
-  // Index beim Fokussieren vorladen, damit die erste Eingabe sofort Treffer zeigt
+  // Preload the index on focus so the first keystroke shows results right away
   input.addEventListener("focus", () => void loadIndex(), { once: true });
 
   input.addEventListener("input", async () => {
