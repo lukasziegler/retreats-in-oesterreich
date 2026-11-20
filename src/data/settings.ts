@@ -124,11 +124,12 @@ export const waitlist = {
       string | null,
   /** Page Brevo redirects to after submitting (configure it in Brevo). */
   thankYouUrl: "/warteliste-danke/",
-  titlePast: "Verpasst? Sei beim nächsten Mal dabei.",
-  titleOpen: "Ausgebucht? Komm auf die Warteliste.",
-  titleSoon: "Früh dran? Ab auf die Warteliste.",
+  titlePast: "Termin verpasst? Sei beim nächsten Mal dabei.",
+  titleOpen: "Retreat ausgebucht? Komm auf die Warteliste.",
+  titleSoon:
+    "Du willst unbedingt dabei sein?\nSichere dir einen der ersten Plätze.",
   descriptionPast:
-    "Trag dich ein und wir melden uns, sobald der nächste Termin feststeht – unverbindlich.",
+    "Trag dich ein und du hörst von uns, sobald der nächste Termin feststeht – ganz unverbindlich.",
   descriptionOpen:
     "Wird ein Platz frei oder gibt es einen Zusatztermin, erfährst du es als Erste:r.",
   descriptionSoon:

@@ -1600,6 +1600,8 @@ table td {
     margin-bottom: 8px;
     font-size: var(--font-size-h3);
     color: var(--white);
+    /* "\n" in the settings texts = line break */
+    white-space: pre-line;
   }
 
   .waitlist__description {
