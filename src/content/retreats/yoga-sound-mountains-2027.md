@@ -5,7 +5,9 @@ date: 2026-11-18
 start_date: 2027-06-17
 end_date: 2027-06-20
 author: lukas
-image: "/images/people/lukas-ziegler/lukas-handpan-orangerie--c-johannes.olszewski.jpg"
+image: "/images/retreat-partner/conny-sturm/hero-yoga.jpg"
+gallery:
+  - "/images/people/lukas-ziegler/lukas-handpan-orangerie--c-johannes.olszewski.jpg"
 tags: [yoga, handpan, salzburg]
 ---
 
@@ -90,30 +92,13 @@ Wir wohnen im <a href="https://www.rupertus.at/" target="_blank">Biohotel Rupert
 
 Je nach Verfügbarkeit gibt es Einzel-, Doppel- und Mehrbettzimmer. Falls du dir ein Zimmer mit einer bestimmten Person teilen möchtest, gib das bitte bei der Buchung an.
 
-### Preise
-
-**Yoga- & Klangprogramm:**
-
-- **350 €** Frühbucherpreis bis 31. Dezember 2026
-- **400 €** pro Person ab 1. Jänner 2027
-- Inkludiert: alle Yoga-Einheiten, Klangreisen, Workshops und Gruppenpraxis
-- Der Handpan-Workshop ist inkludiert. Eine Handpan kann für 30 € vor Ort bei Lukas ausgeliehen werden.
-
-**Unterkunft mit Vollpension** (pro Person, 3 Nächte):
-
-- Biozimmer „Morgensonne" (Einzelbelegung): **732 €**
-- Naturzimmer (Doppelbelegung): **645 €** – als Einzelzimmer: **750 €**
-- Zirbensuite „Abendrot" (Doppelbelegung): **708 €**
-
 ### Organisatorisches
 
+- **Preis:** Yoga- & Klangprogramm ab 350 € (Frühbucherpreis bis Ende 2026), zzgl. Unterkunft mit Vollpension im Biohotel ab ca. 650 € pro Person für 3 Nächte – je nach Zimmerkategorie
+- **Handpan-Workshop:** im Preis inkludiert, eine Leih-Handpan gibt es vor Ort für 30 €
 - **Anreise:** Donnerstag, 17. Juni 2027, Check-in ab 15:00
 - **Abreise:** Sonntag, 20. Juni 2027, Check-out bis 12:00
-- **Buchung:** Über die Anmeldung auf der Seite von Conny. Deine Anfrage wird an das Hotel weitergeleitet, das Buchung und Bezahlung direkt mit dir abwickelt. Die Plätze werden in der Reihenfolge der Anmeldung vergeben.
-- **Stornobedingungen:**
-  - bis 42 Tage vor Anreise: kostenlos
-  - 41 bis 8 Tage vor Anreise: **70 %**
-  - ab 7 Tagen vor Anreise: **90 %**
+- **Buchung:** Kontakt zum Hotel über <a href="https://connysturmyoga.com/retreats/yoga-sound-mountains" target="_blank">Conny Sturm</a>
 
 ---
 
