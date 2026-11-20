@@ -9,6 +9,7 @@ image: "/images/retreat-partner/conny-sturm/hero-yoga.jpg"
 gallery:
   - "/images/people/lukas-ziegler/lukas-handpan-orangerie--c-johannes.olszewski.jpg"
 tags: [yoga, handpan, salzburg]
+featured: true
 ---
 
 ## 17. - 20. Juni 2027
