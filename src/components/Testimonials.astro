@@ -1,0 +1,108 @@
+---
+/**
+ * Testimonial slider for retreat pages.
+ *
+ * Native scroll-snap track (swipe/trackpad/keyboard work without JS);
+ * src/scripts/testimonials.ts adds arrows, the progress bar and the active
+ * state. Breaks out of the 740px text column: on desktop the neighbours
+ * peek in on both sides, on mobile only the next one.
+ */
+import Icon from "./Icon.astro";
+import { testimonials as texts } from "../data/settings";
+import type { Retreat } from "../utils/retreats";
+
+interface Props {
+  retreat: Retreat;
+}
+
+const { retreat } = Astro.props;
+const items = retreat.data.testimonials;
+const title = retreat.data.testimonials_title ?? texts.title;
+const id = `testimonials-${retreat.id}`;
+const total = items.length;
+const pad = (n: number) => String(n).padStart(2, "0");
+---
+
+{
+  total > 0 && (
+    <section
+      class="testimonials"
+      aria-roledescription="Karussell"
+      aria-labelledby={`${id}-title`}
+      data-testimonials
+    >
+      <div class="testimonials__head">
+        <p class="testimonials__eyebrow">{texts.eyebrow}</p>
+        <h2 class="testimonials__title" id={`${id}-title`}>
+          {title}
+        </h2>
+      </div>
+
+      <div class="testimonials__track" id={`${id}-track`} tabindex="0">
+        {items.map((item, i) => (
+          <figure
+            class="testimonial"
+            role="group"
+            aria-roledescription="Zitat"
+            aria-label={`${i + 1} von ${total}`}
+          >
+            <blockquote class="testimonial__quote">
+              <p>{item.quote}</p>
+            </blockquote>
+            {(item.name || item.date) && (
+              <figcaption class="testimonial__meta">
+                {item.name && (
+                  <span class="testimonial__avatar" aria-hidden="true">
+                    {item.name.charAt(0)}
+                  </span>
+                )}
+                <span class="testimonial__source">
+                  {item.name && (
+                    <span class="testimonial__name">{item.name}</span>
+                  )}
+                  {item.date && (
+                    <span class="testimonial__date">{item.date}</span>
+                  )}
+                </span>
+              </figcaption>
+            )}
+          </figure>
+        ))}
+      </div>
+
+      {total > 1 && (
+        <div class="testimonials__controls">
+          <span class="testimonials__counter" aria-hidden="true">
+            <span data-testimonials-current>01</span> / {pad(total)}
+          </span>
+          <span class="testimonials__progress" aria-hidden="true">
+            <span
+              class="testimonials__progress-bar"
+              style={`--progress: ${1 / total}`}
+            />
+          </span>
+          <span class="testimonials__arrows">
+            <button
+              class="testimonials__arrow"
+              type="button"
+              aria-controls={`${id}-track`}
+              aria-label={texts.previousLabel}
+              data-testimonials-prev
+            >
+              <Icon name="arrow-back" />
+            </button>
+            <button
+              class="testimonials__arrow"
+              type="button"
+              aria-controls={`${id}-track`}
+              aria-label={texts.nextLabel}
+              data-testimonials-next
+            >
+              <Icon name="arrow-forward" />
+            </button>
+          </span>
+        </div>
+      )}
+    </section>
+  )
+}

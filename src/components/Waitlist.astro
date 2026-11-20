@@ -5,31 +5,25 @@
  * be segmented and contacted per retreat.
  */
 import { waitlist } from "../data/settings";
-import { isUpcoming, type Retreat } from "../utils/retreats";
+import { waitlistState, type Retreat } from "../utils/retreats";
 
 interface Props {
   retreat: Retreat;
 }
 
 const { retreat } = Astro.props;
-const mode = retreat.data.waitlist;
-const upcoming = isUpcoming(retreat);
-const show =
-  waitlist.brevoFormAction !== null &&
-  (mode === undefined ? !upcoming : mode !== false);
-
-// past = missed · soon = not bookable yet · open = fully booked
-const state = !upcoming ? "past" : mode === "soon" ? "soon" : "open";
+const state = waitlistState(retreat);
+const show = state !== null;
 const title = {
   past: waitlist.titlePast,
   soon: waitlist.titleSoon,
   open: waitlist.titleOpen,
-}[state];
+}[state ?? "past"];
 const description = {
   past: waitlist.descriptionPast,
   soon: waitlist.descriptionSoon,
   open: waitlist.descriptionOpen,
-}[state];
+}[state ?? "past"];
 const idPrefix = `waitlist-${retreat.id}`;
 ---
 

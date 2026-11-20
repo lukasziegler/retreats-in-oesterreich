@@ -90,6 +90,24 @@ export const contact = {
   email: "retreats.near.you@gmail.com",
 } as const;
 
+/** Testimonial slider on retreat pages (`testimonials` in the frontmatter). */
+export const testimonials = {
+  eyebrow: "Stimmen aus unseren Retreats",
+  title: "Was bleibt, wenn der letzte Ton verklingt",
+  previousLabel: "Vorheriges Zitat",
+  nextLabel: "Nächstes Zitat",
+} as const;
+
+/**
+ * Booking call-to-action (BookingBlock.astro) for retreats with
+ * `booking.url` that are bookable, i.e. show no waitlist.
+ */
+export const bookingCta = {
+  title: "Bereit für deine Auszeit?",
+  text: "Die Plätze sind begrenzt – sichere dir jetzt deinen Platz.",
+  buttonText: "Jetzt Platz sichern",
+} as const;
+
 /**
  * Waitlist (Brevo). Shown automatically on past retreats; on upcoming ones
  * only with `waitlist: true` (fully booked) or `waitlist: soon` (date fixed,

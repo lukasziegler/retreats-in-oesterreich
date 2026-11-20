@@ -88,4 +88,7 @@
     ),
     linear-gradient(135deg, #0c716d 0%, #174f63 100%);
   --waitlist-shadow: 0 20px 50px rgba(23, 79, 99, 0.3);
+
+  /* Testimonial cards: faint tint of the primary color */
+  --testimonial-background: #eef6f5;
 }

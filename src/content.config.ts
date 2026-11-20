@@ -28,6 +28,38 @@ const retreats = defineCollection({
      * open yet (interest list), false = never.
      */
     waitlist: z.union([z.boolean(), z.literal("soon")]).optional(),
+    /**
+     * Testimonial slider (Testimonials.astro). Placed where the markdown
+     * contains `<div data-slot="testimonials"></div>`, otherwise after the
+     * content.
+     */
+    testimonials: z
+      .array(
+        z.object({
+          quote: z.string(),
+          name: z.string().optional(),
+          /** When, as shown, e.g. "Mai 2025". */
+          date: z.string().optional(),
+        }),
+      )
+      .default([]),
+    /**
+     * Booking call-to-action (BookingBlock.astro), shown instead of the
+     * waitlist once the retreat is bookable (no `waitlist` set).
+     */
+    booking: z
+      .object({
+        url: z.string().url(),
+        /** Button text; default from settings.ts. */
+        label: z.string().optional(),
+        /** Short conversion text; default from settings.ts. */
+        text: z.string().optional(),
+        /** Selling points with check marks, e.g. cancellation terms. */
+        highlights: z.array(z.string()).default([]),
+      })
+      .optional(),
+    /** Overrides the default slider title from settings.ts. */
+    testimonials_title: z.string().optional(),
   }),
 });
 

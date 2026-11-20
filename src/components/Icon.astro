@@ -10,6 +10,7 @@ interface Props {
     | "chevron-down"
     | "arrow-forward"
     | "arrow-back"
+    | "check"
     | "link"
     | "instagram"
     | "facebook"
@@ -30,6 +31,7 @@ const stroked: Record<string, string> = {
     '<line x1="3" y1="12" x2="21" y2="12"/><polyline points="14 5 21 12 14 19"/>',
   "arrow-back":
     '<line x1="21" y1="12" x2="3" y2="12"/><polyline points="10 5 3 12 10 19"/>',
+  check: '<polyline points="20 6 9 17 4 12"/>',
   link: '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>',
   instagram:
     '<rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>',

@@ -1,0 +1,57 @@
+---
+/**
+ * Registration block of a retreat page, placed via
+ * `<div data-slot="booking"></div>` in the markdown (may appear several
+ * times; ContentSlots.astro keeps the ids unique).
+ *
+ * Waitlist (not bookable yet / fully booked / past) wins; otherwise a
+ * booking call-to-action if the frontmatter has `booking.url`.
+ */
+import Icon from "./Icon.astro";
+import Waitlist from "./Waitlist.astro";
+import { bookingCta } from "../data/settings";
+import { isUpcoming, waitlistState, type Retreat } from "../utils/retreats";
+
+interface Props {
+  retreat: Retreat;
+}
+
+const { retreat } = Astro.props;
+const { booking } = retreat.data;
+const showWaitlist = waitlistState(retreat) !== null;
+const showBooking = !showWaitlist && booking && isUpcoming(retreat);
+const titleId = `booking-${retreat.id}-title`;
+---
+
+{
+  showWaitlist ? (
+    <Waitlist retreat={retreat} />
+  ) : (
+    showBooking && (
+      <section class="booking-cta" aria-labelledby={titleId}>
+        <h2 class="booking-cta__title" id={titleId}>
+          {bookingCta.title}
+        </h2>
+        <p class="booking-cta__text">{booking.text ?? bookingCta.text}</p>
+        {booking.highlights.length > 0 && (
+          <ul class="booking-cta__highlights list-reset">
+            {booking.highlights.map((item) => (
+              <li>
+                <Icon name="check" />
+                {item}
+              </li>
+            ))}
+          </ul>
+        )}
+        <a
+          class="button booking-cta__button"
+          href={booking.url}
+          target="_blank"
+          rel="noopener"
+        >
+          {booking.label ?? bookingCta.buttonText}
+        </a>
+      </section>
+    )
+  )
+}

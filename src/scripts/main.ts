@@ -1,10 +1,11 @@
 /**
  * Global interactivity (port of js/common.js, no dependencies):
- * menu, search overlay, "Mehr laden", image zoom, hero gallery, resize
- * handling.
+ * menu, search overlay, "Mehr laden", image zoom, hero gallery,
+ * testimonial slider, resize handling.
  */
 import { initGallery } from "./gallery";
 import { initSearch } from "./search";
+import { initTestimonials } from "./testimonials";
 
 function initMenu(): void {
   const menuToggle = document.querySelector<HTMLElement>(".hamburger");
@@ -135,5 +136,6 @@ export function initSite(): void {
   initLoadMore();
   initImageZoom();
   initGallery();
+  initTestimonials();
   initResizeStopper();
 }

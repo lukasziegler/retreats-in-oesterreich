@@ -1,0 +1,50 @@
+---
+/**
+ * Renders markdown content (default slot) and places components (named
+ * slots) where the markdown has a placeholder:
+ *
+ *   <div data-slot="booking"></div>
+ *
+ * Markdown can't use components, so the rendered HTML is split at the
+ * placeholders at build time (no client JS). A placeholder may appear
+ * several times; repeated copies get an id suffix ("-2", "-3", …) so ids
+ * and label references stay unique. Named slots without a placeholder are
+ * rendered after the content, in the order of `names`.
+ */
+interface Props {
+  /** Named slots to place, e.g. ["testimonials", "booking"]. */
+  names: string[];
+  class?: string;
+}
+
+const { names, class: className } = Astro.props;
+
+/** Suffix ids and every attribute referencing one. */
+function withIdSuffix(html: string, n: number): string {
+  return html.replace(
+    /\b(id|for|aria-labelledby|aria-controls)="([^"]+)"/g,
+    `$1="$2-${n}"`,
+  );
+}
+
+let content = await Astro.slots.render("default");
+const trailing: string[] = [];
+
+for (const name of names) {
+  if (!Astro.slots.has(name)) continue;
+  const html = await Astro.slots.render(name);
+  const parts = content.split(`<div data-slot="${name}"></div>`);
+  if (parts.length > 1) {
+    content = parts
+      .map((part, i) =>
+        i === 0 ? part : (i === 1 ? html : withIdSuffix(html, i)) + part,
+      )
+      .join("");
+  } else {
+    trailing.push(html);
+  }
+}
+---
+
+<div class={className} set:html={content} />
+<Fragment set:html={trailing.join("")} />

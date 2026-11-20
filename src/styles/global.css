@@ -1580,8 +1580,9 @@ table td {
   }
 }
 
-/* Waitlist (Brevo) below retreat content */
-.waitlist {
+/* Waitlist (Brevo) and booking call-to-action: same petrol card */
+.waitlist,
+.booking-cta {
   max-width: 760px;
   margin: 64px auto 48px;
   padding: 48px;
@@ -1649,6 +1650,51 @@ table td {
 
     .waitlist__fields {
       grid-template-columns: 1fr;
+    }
+  }
+}
+
+.booking-cta {
+  .booking-cta__title {
+    margin-bottom: 8px;
+    font-size: var(--font-size-h3);
+    color: var(--white);
+  }
+
+  .booking-cta__text {
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.92);
+  }
+
+  .booking-cta__highlights {
+    display: grid;
+    gap: 8px;
+    margin-bottom: 28px;
+    font-size: 16px;
+
+    li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0;
+    }
+
+    .icon {
+      flex: 0 0 auto;
+      font-size: 18px;
+      stroke-width: 3;
+    }
+  }
+
+  /* White button: a turquoise one would barely show on the petrol card */
+  .booking-cta__button {
+    padding: 18px 32px;
+    color: var(--dark);
+    background: var(--white);
+
+    &:hover {
+      color: var(--white);
+      background: var(--dark);
     }
   }
 }
@@ -3146,6 +3192,286 @@ table td {
     a {
       position: static;
       margin-left: 0.5rem;
+    }
+  }
+}
+
+/* ==========================================================================
+   16. Testimonials (slider on retreat pages)
+   ========================================================================== */
+
+.testimonials {
+  /* Visible strip: gutter | slide | gap | peek of the next slide */
+  --gutter: calc(var(--space-unit) * 2);
+  --gap: 24px;
+  --slide-w: min(660px, 100vw - 240px);
+
+  /* Break out of the 740px text column to full viewport width */
+  width: 100vw;
+  margin: 64px calc(50% - 50vw) 56px;
+
+  /* Head and controls line up with the active card */
+  .testimonials__head,
+  .testimonials__controls {
+    width: var(--slide-w);
+    margin-inline: auto;
+  }
+
+  .testimonials__head {
+    margin-bottom: 24px;
+  }
+
+  .testimonials__eyebrow {
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--primary-color);
+  }
+
+  .testimonials__title {
+    margin: 0;
+    font-size: var(--font-size-h3);
+    line-height: 1.25;
+  }
+
+  .testimonials__track {
+    display: flex;
+    gap: var(--gap);
+    /* First and last slide can be centered */
+    padding: 8px calc(50vw - var(--slide-w) / 2);
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--primary-color);
+      outline-offset: -2px;
+    }
+  }
+
+  .testimonial {
+    position: relative;
+    display: flex;
+    flex: 0 0 var(--slide-w);
+    flex-direction: column;
+    margin: 0;
+    padding: 32px 40px 28px;
+    border-radius: 24px;
+    background: var(--testimonial-background);
+    scroll-snap-align: center;
+    transition: opacity 0.3s;
+
+    /* Quote mark: the glyph sits high in its box, so clip the empty part */
+    &::before {
+      content: "\201C";
+      display: block;
+      height: 36px;
+      margin-bottom: 16px;
+      font-size: 88px;
+      font-weight: 800;
+      line-height: 0.95;
+      color: var(--primary-color);
+    }
+  }
+
+  /* Neighbours recede once the script knows the active slide; a click
+     brings them to the front */
+  &.is-ready .testimonial:not(.is-active) {
+    opacity: 0.45;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+
+  /* Mouse drag on desktop (testimonials.ts) */
+  @media (hover: hover) and (pointer: fine) {
+    &.is-ready .testimonials__track {
+      cursor: grab;
+    }
+  }
+
+  &.is-dragging .testimonials__track {
+    cursor: grabbing;
+    scroll-snap-type: none;
+  }
+
+  .testimonial__quote {
+    margin: 0 0 24px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.65;
+    text-align: left;
+
+    &::after {
+      content: none;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .testimonial__meta {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: auto;
+  }
+
+  .testimonial__avatar {
+    display: grid;
+    flex: 0 0 44px;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--white);
+    background: var(--waitlist-background);
+  }
+
+  .testimonial__source {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.35;
+  }
+
+  .testimonial__name {
+    font-size: 16px;
+    font-weight: 800;
+  }
+
+  .testimonial__date {
+    font-size: 14px;
+    color: var(--text-second-color);
+  }
+
+  .testimonials__controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 28px;
+  }
+
+  /* Without JS the track still scrolls natively, but nothing would update */
+  &:not(.is-ready) .testimonials__controls {
+    display: none;
+  }
+
+  .testimonials__counter {
+    font-size: 14px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-second-color);
+  }
+
+  .testimonials__progress {
+    flex: 1;
+    height: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--border-second-color);
+  }
+
+  .testimonials__progress-bar {
+    display: block;
+    width: calc(var(--progress) * 100%);
+    height: 100%;
+    border-radius: inherit;
+    background: var(--primary-color);
+    transition: width 0.15s;
+  }
+
+  .testimonials__arrows {
+    display: flex;
+    gap: 10px;
+  }
+
+  .testimonials__arrow {
+    display: grid;
+    place-items: center;
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    border: 1px solid var(--border-second-color);
+    border-radius: 50%;
+    font-size: 20px;
+    color: var(--dark);
+    background: var(--white);
+    cursor: pointer;
+    transition: var(--transition);
+
+    &:hover:not(:disabled) {
+      color: var(--white);
+      border-color: var(--dark);
+      background: var(--dark);
+    }
+
+    &:disabled {
+      opacity: 0.35;
+      cursor: default;
+    }
+  }
+
+  /* Mobile: slides snap to the left edge, only the next one peeks in */
+  @media (max-width: 768px) {
+    /* Gap = gutter, so the previous slide ends exactly at the screen edge */
+    --gap: var(--gutter);
+    --peek: 24px;
+    --slide-w: calc(100vw - var(--gutter) - var(--gap) - var(--peek));
+
+    margin-block: 56px 48px;
+
+    .testimonials__head,
+    .testimonials__controls {
+      width: calc(100% - 2 * var(--gutter));
+    }
+
+    .testimonials__track {
+      padding-inline: var(--gutter) calc(var(--gap) + var(--peek));
+      scroll-padding-inline: var(--gutter);
+    }
+
+    .testimonial {
+      padding: 24px 22px 22px;
+      border-radius: 20px;
+      scroll-snap-align: start;
+
+      &::before {
+        height: 30px;
+        margin-bottom: 12px;
+        font-size: 72px;
+      }
+    }
+
+    .testimonial__quote {
+      margin-bottom: 24px;
+      font-size: 17px;
+    }
+
+    .testimonials__arrows {
+      display: none;
+    }
+  }
+
+  @media (max-width: 576px) {
+    --gutter: calc(var(--space-unit) + 4px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .testimonial,
+    .testimonials__progress-bar {
+      transition: none;
     }
   }
 }

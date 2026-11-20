@@ -1,11 +1,13 @@
 ---
 import { getEntry, render } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import BookingBlock from "./BookingBlock.astro";
+import ContentSlots from "./ContentSlots.astro";
 import DateRange from "./DateRange.astro";
 import HeroMosaic from "./HeroMosaic.astro";
 import Icon from "./Icon.astro";
 import RelatedPosts from "./RelatedPosts.astro";
-import Waitlist from "./Waitlist.astro";
+import Testimonials from "./Testimonials.astro";
 import { longDate } from "../utils/dates";
 import { mdInlineLinks } from "../utils/md";
 import { allRetreats, type Retreat } from "../utils/retreats";
@@ -177,11 +179,11 @@ const jsonLd = {
 
   <div class="container animate">
     <article class="post">
-      <div class="post__content">
+      <ContentSlots class="post__content" names={["testimonials", "booking"]}>
         <Content />
-      </div>
-
-      <Waitlist retreat={retreat} />
+        <Testimonials slot="testimonials" retreat={retreat} />
+        <BookingBlock slot="booking" retreat={retreat} />
+      </ContentSlots>
 
       <div class="post__share">
         <ul class="share__list list-reset">

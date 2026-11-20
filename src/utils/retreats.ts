@@ -1,5 +1,5 @@
 import { getCollection, type CollectionEntry } from "astro:content";
-import { blog } from "../data/settings";
+import { blog, waitlist } from "../data/settings";
 
 export type Retreat = CollectionEntry<"retreats">;
 
@@ -13,6 +13,24 @@ export async function allRetreats(): Promise<Retreat[]> {
 
 export function isUpcoming(retreat: Retreat, now = new Date()): boolean {
   return retreat.data.end_date.valueOf() >= now.valueOf();
+}
+
+export type WaitlistState = "past" | "soon" | "open";
+
+/**
+ * Which waitlist a retreat shows, or null for none: past = missed,
+ * soon = not bookable yet, open = fully booked (`waitlist` frontmatter).
+ */
+export function waitlistState(
+  retreat: Retreat,
+  now = new Date(),
+): WaitlistState | null {
+  if (waitlist.brevoFormAction === null) return null;
+  const mode = retreat.data.waitlist;
+  const upcoming = isUpcoming(retreat, now);
+  const show = mode === undefined ? !upcoming : mode !== false;
+  if (!show) return null;
+  return !upcoming ? "past" : mode === "soon" ? "soon" : "open";
 }
 
 /** Upcoming retreats, soonest first. */
