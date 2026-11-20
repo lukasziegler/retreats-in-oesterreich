@@ -2160,6 +2160,268 @@ table td {
   aspect-ratio: 3 / 2;
 }
 
+/* Hero mosaic (HeroMosaic.astro), 2–3 visible tiles.
+   Desktop: same 4:5 frame as .post-image – large tile on top, below one
+   wide tile (2) or two squares (3). Tablet: 3:2 frame, large tile left,
+   small tiles right. Mobile: 3:2 large tile, small tiles below. */
+.mosaic {
+  --mosaic-gap: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: var(--mosaic-gap);
+  aspect-ratio: 1 / 1.25;
+
+  @media (max-width: 1024px) {
+    aspect-ratio: 3 / 2;
+    grid-template-columns: 1fr calc(33.333% - var(--mosaic-gap) / 2);
+    grid-template-rows: 1fr 1fr;
+  }
+
+  @media (max-width: 576px) {
+    aspect-ratio: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+  }
+}
+
+.mosaic__item {
+  position: relative;
+  display: block;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--background-alt-color);
+  cursor: zoom-in;
+
+  img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    user-select: none;
+    transition: transform 0.4s ease;
+  }
+
+  &:hover img {
+    transform: scale(1.03);
+  }
+
+  &:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+  }
+
+  /* Large tile */
+  &:first-child {
+    grid-column: 1 / -1;
+
+    @media (max-width: 1024px) {
+      grid-column: 1;
+      grid-row: 1 / -1;
+    }
+
+    @media (max-width: 576px) {
+      grid-column: 1 / -1;
+      grid-row: auto;
+      aspect-ratio: 3 / 2;
+    }
+  }
+
+  /* Small tiles */
+  &:not(:first-child) {
+    aspect-ratio: 1;
+
+    @media (max-width: 1024px) {
+      grid-column: 2;
+      aspect-ratio: auto;
+    }
+
+    @media (max-width: 576px) {
+      grid-column: auto;
+      aspect-ratio: 1;
+    }
+  }
+
+}
+
+/* 2 tiles, both the same size: stacked on desktop (4:3, the large tile
+   keeps its size) and mobile (3:2), side by side on tablet. */
+.mosaic--2 {
+  aspect-ratio: auto;
+  grid-template-rows: auto auto;
+
+  .mosaic__item {
+    grid-column: 1 / -1;
+    grid-row: auto;
+    aspect-ratio: 4 / 3;
+  }
+
+  @media (max-width: 1024px) {
+    aspect-ratio: 3 / 2;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+
+    .mosaic__item {
+      grid-column: auto;
+      aspect-ratio: auto;
+    }
+  }
+
+  @media (max-width: 576px) {
+    aspect-ratio: auto;
+    grid-template-rows: auto auto;
+
+    .mosaic__item {
+      grid-column: 1 / -1;
+      aspect-ratio: 3 / 2;
+    }
+  }
+}
+
+.mosaic__more {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: clamp(22px, 2vw + 12px, 32px);
+  font-weight: 800;
+  color: var(--white);
+  background: rgba(18, 19, 21, 0.45);
+  transition: background 0.2s;
+
+  .mosaic__item:hover & {
+    background: rgba(18, 19, 21, 0.55);
+  }
+}
+
+/* Gallery dialog for the hero mosaic */
+.gallery-dialog {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 72px 88px;
+  border: 0;
+  background: var(--background-color);
+  color: var(--text-color);
+
+  &[open] {
+    display: flex;
+    animation: zoomFadeIn 0.2s ease;
+  }
+
+  &::backdrop {
+    background: var(--background-color);
+  }
+
+  @media (max-width: 768px) {
+    padding: 64px 16px 72px;
+  }
+}
+
+.gallery-dialog__figure {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  margin: 0;
+}
+
+.gallery-dialog__image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 4px;
+  user-select: none;
+}
+
+.gallery-dialog__button {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  font-size: 22px;
+  color: var(--text-color);
+  background: var(--background-color);
+  box-shadow: var(--shadow-card);
+  cursor: pointer;
+  transition: var(--transition);
+
+  /* No sticky hover color after a tap on touch devices */
+  @media (hover: hover) {
+    &:hover {
+      color: var(--white);
+      background: var(--button-background-hover);
+    }
+  }
+
+  &:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+  }
+}
+
+.gallery-dialog__close {
+  top: 16px;
+  right: 16px;
+}
+
+.gallery-dialog__prev,
+.gallery-dialog__next {
+  top: 50%;
+  transform: translateY(-50%);
+
+  @media (max-width: 768px) {
+    top: auto;
+    bottom: 12px;
+    transform: none;
+  }
+}
+
+.gallery-dialog__prev {
+  left: 24px;
+
+  @media (max-width: 768px) {
+    left: 16px;
+  }
+}
+
+.gallery-dialog__next {
+  right: 24px;
+
+  @media (max-width: 768px) {
+    right: 16px;
+  }
+}
+
+.gallery-dialog__counter {
+  position: absolute;
+  bottom: 24px;
+  left: 50%;
+  margin: 0;
+  transform: translateX(-50%);
+  font-size: 14px;
+  color: var(--text-second-color);
+
+  @media (max-width: 768px) {
+    bottom: 26px;
+  }
+}
+
 .post-image-caption,
 .page-image-caption {
   font-size: 12px;

@@ -2,6 +2,7 @@
 import { getEntry, render } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DateRange from "./DateRange.astro";
+import HeroMosaic from "./HeroMosaic.astro";
 import Icon from "./Icon.astro";
 import RelatedPosts from "./RelatedPosts.astro";
 import Waitlist from "./Waitlist.astro";
@@ -23,11 +24,17 @@ const {
   end_date,
   image,
   image_caption,
+  gallery,
   tags,
   external_url,
 } = retreat.data;
 
 const { Content } = await render(retreat);
+
+// Hero mosaic: card image first, gallery images after (without duplicates)
+const heroImages = image
+  ? [image, ...gallery.filter((src) => src !== image)]
+  : [];
 const author = retreat.data.author
   ? await getEntry(retreat.data.author)
   : undefined;
@@ -55,7 +62,9 @@ const jsonLd = {
   endDate: end_date.toISOString().slice(0, 10),
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   eventStatus: "https://schema.org/EventScheduled",
-  ...(image && { image: [new URL(encodeURI(image), Astro.site).href] }),
+  ...(heroImages.length > 0 && {
+    image: heroImages.map((src) => new URL(encodeURI(src), Astro.site).href),
+  }),
   url: external_url ?? pageUrl.href,
   location: {
     "@type": "Place",
@@ -152,14 +161,7 @@ const jsonLd = {
         {
           image && (
             <div class="col col-5 push-1 col-d-12 push-d-0">
-              <div class="post-image">
-                <img
-                  src={image}
-                  alt={title}
-                  sizes="(max-width: 1024px) 100vw, 520px"
-                  decoding="async"
-                />
-              </div>
+              <HeroMosaic images={heroImages} alt={title} />
               {image_caption && (
                 <div
                   class="post-image-caption"

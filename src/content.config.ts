@@ -13,6 +13,11 @@ const retreats = defineCollection({
     author: reference("authors").optional(),
     image: z.string().optional(),
     image_caption: z.string().optional(),
+    /**
+     * Additional images for the hero mosaic; `image` is always shown
+     * first. More than 3 images in total → "+N" tile opening the gallery.
+     */
+    gallery: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     /** Externally hosted retreat: cards in the featured slider link out. */

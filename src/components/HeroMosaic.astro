@@ -1,0 +1,111 @@
+---
+/**
+ * Hero image of a retreat page.
+ *
+ * 1 image  → single image, unchanged.
+ * 2 images → stacked (desktop/mobile) or side by side (tablet).
+ * 3+       → large image plus two small tiles; with more than 3 images the
+ *            third tile shows "+N". Every tile opens the gallery dialog
+ *            (src/scripts/gallery.ts) with all images.
+ *
+ * Images beyond the third live in a <template>: not loaded until the
+ * dialog shows them, but still picked up by the optimize-images build step
+ * (data-zoom-src).
+ */
+import Icon from "./Icon.astro";
+
+interface Props {
+  images: string[];
+  alt: string;
+}
+
+const { images, alt } = Astro.props;
+const visible = images.slice(0, 3);
+const rest = images.slice(3);
+const total = images.length;
+
+const sizesMain = "(max-width: 576px) 100vw, (max-width: 1024px) 66vw, 520px";
+const sizesThumb = "(max-width: 576px) 50vw, (max-width: 1024px) 33vw, 260px";
+
+function label(index: number): string {
+  if (index === 2 && rest.length > 0) return `Alle ${total} Bilder ansehen`;
+  return `Bild ${index + 1} von ${total} vergrößern`;
+}
+---
+
+{
+  total === 1 ? (
+    <div class="post-image">
+      <img
+        src={images[0]}
+        alt={alt}
+        sizes="(max-width: 1024px) 100vw, 520px"
+        decoding="async"
+      />
+    </div>
+  ) : (
+    <div class="hero-gallery" data-gallery>
+      <div class={`mosaic mosaic--${visible.length}`}>
+        {visible.map((src, i) => (
+          <button
+            type="button"
+            class="mosaic__item"
+            data-gallery-index={i}
+            aria-label={label(i)}
+          >
+            <img
+              src={src}
+              alt={i === 0 ? alt : `${alt} – Bild ${i + 1}`}
+              sizes={i === 0 ? sizesMain : sizesThumb}
+              decoding="async"
+            />
+            {i === 2 && rest.length > 0 && (
+              <span class="mosaic__more" aria-hidden="true">
+                +{rest.length}
+              </span>
+            )}
+          </button>
+        ))}
+      </div>
+
+      {rest.length > 0 && (
+        <template data-gallery-rest>
+          {rest.map((src, i) => (
+            <img src={src} alt={`${alt} – Bild ${i + 4}`} sizes="100vw" />
+          ))}
+        </template>
+      )}
+
+      <dialog class="gallery-dialog" aria-label="Bildergalerie">
+        <figure class="gallery-dialog__figure">
+          <img class="gallery-dialog__image" alt="" />
+        </figure>
+        <button
+          type="button"
+          class="gallery-dialog__button gallery-dialog__close"
+          data-gallery-close
+          aria-label="Galerie schließen"
+        >
+          <Icon name="close" />
+        </button>
+        <button
+          type="button"
+          class="gallery-dialog__button gallery-dialog__prev"
+          data-gallery-prev
+          aria-label="Vorheriges Bild"
+        >
+          <Icon name="arrow-back" />
+        </button>
+        <button
+          type="button"
+          class="gallery-dialog__button gallery-dialog__next"
+          data-gallery-next
+          aria-label="Nächstes Bild"
+        >
+          <Icon name="arrow-forward" />
+        </button>
+        <p class="gallery-dialog__counter" aria-live="polite" />
+      </dialog>
+    </div>
+  )
+}

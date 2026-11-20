@@ -1,7 +1,9 @@
 /**
  * Global interactivity (port of js/common.js, no dependencies):
- * menu, search overlay, "Mehr laden", image zoom, resize handling.
+ * menu, search overlay, "Mehr laden", image zoom, hero gallery, resize
+ * handling.
  */
+import { initGallery } from "./gallery";
 import { initSearch } from "./search";
 
 function initMenu(): void {
@@ -132,5 +134,6 @@ export function initSite(): void {
   initSearchOverlay();
   initLoadMore();
   initImageZoom();
+  initGallery();
   initResizeStopper();
 }
