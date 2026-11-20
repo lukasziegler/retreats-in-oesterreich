@@ -1261,11 +1261,11 @@ table td {
   display: none;
 }
 
-/* Grid for upcoming/past retreats (RetreatGrid.astro): real CSS grid instead
-   of flex columns so all cards have the same width – including a lone card
-   in the last row. Gutters still come from the column padding (.col) and
-   the negative margins of .row. */
-.load-more .grid {
+/* Card grid (RetreatGrid.astro, tag, author and 404 pages): real CSS grid
+   instead of flex columns so all cards have the same width – including a
+   lone card in the last row. Gutters still come from the column padding
+   (.col) and the negative margins of .row. */
+.row.grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
 
