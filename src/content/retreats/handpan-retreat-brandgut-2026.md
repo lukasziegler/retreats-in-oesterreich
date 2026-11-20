@@ -227,7 +227,7 @@ Lukas spielt leidenschaftlich gerne Handpan und baut dies in seine Klangreisen m
 Inmitten beeindruckender Berglandschaft lädt Lukas dich ein, innezuhalten, neue Energie zu tanken und deiner Neugierde für dieses Instrument zu folgen. Er schafft eine Atmosphäre voller Leichtigkeit, Vertrauen und Flow, durch die du das faszinierende Instrument der Handpan Schritt für Schritt erlernen kannst. Lukas' Unterrichtsstil basiert auf der <a href="https://maltemartenmethod.com/" target="_blank">Malte Marten Method</a>, wo er auch das dazugehörige <a href="https://www.maltemartenmethod.com/lukas-ziegler-handpan-teacher" target="_blank">Teacher Training</a> absolviert hat.
 
 Erfahre mehr über Lukas auf
-<a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/handpan.with.lukas">Linktree</a>.
+<a href="https://www.instagram.com/lukasziegler" target="_blank">Instagram</a> und auf <a href="https://linktr.ee/handpan.with.lukas" target="_blank">Linktree</a>.
 
 #### Alex
 
