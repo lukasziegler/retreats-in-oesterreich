@@ -29,7 +29,7 @@
     table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
     table { border-collapse: collapse !important; }
     img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }
-    a[x-apple-data-detectors], u + #body a, #MessageViewBody a {
+    a[x-apple-data-detectors] {
       color: inherit !important; text-decoration: none !important;
       font-size: inherit !important; font-family: inherit !important;
       font-weight: inherit !important; line-height: inherit !important;
@@ -55,7 +55,7 @@
       .c-link   { color: #2fd1c9 !important; }
       .divider  { border-top-color: #33363b !important; }
       .btn-td, .btn { background-color: #00a69f !important; }
-      .btn      { color: #121315 !important; }
+      .btn, .btn-label { color: #121315 !important; }
     }
     /* Dark Mode: Outlook.com / Outlook-Apps */
     [data-ogsc] .c-text  { color: #f1f2f4 !important; }
@@ -111,7 +111,7 @@
                 <!-- Button (VML für Outlook Desktop, sonst HTML) -->
                 <table role="presentation" class="btn-table" align="center" cellpadding="0" cellspacing="0" border="0" style="margin:0 auto;">
                   <tr>
-                    <td class="btn-td" align="center" style="border-radius:60px;background-color:#282929;">
+                    <td class="btn-td" align="center" style="border-radius:60px;background-color:#282929;color:#ffffff;">
                       <!--[if mso]>
                       <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://retreats-in-oesterreich.at/retreats/" style="height:56px;v-text-anchor:middle;width:300px;" arcsize="50%" stroke="f" fillcolor="#282929">
                         <w:anchorlock/>
@@ -119,7 +119,7 @@
                       </v:roundrect>
                       <![endif]-->
                       <!--[if !mso]><!-->
-                      <a href="https://retreats-in-oesterreich.at/retreats/" class="btn" target="_blank" style="display:inline-block;padding:17px 40px;border-radius:60px;background-color:#282929;color:#ffffff;font-family:'Mulish','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;line-height:22px;font-weight:700;text-align:center;text-decoration:none;mso-hide:all;">Weitere Retreats entdecken</a>
+                      <a href="https://retreats-in-oesterreich.at/retreats/" class="btn" target="_blank" style="display:inline-block;padding:17px 40px;border-radius:60px;background-color:#282929;color:#ffffff;font-family:'Mulish','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;line-height:22px;font-weight:700;text-align:center;text-decoration:none;mso-hide:all;"><span class="btn-label" style="color:#ffffff;">Weitere Retreats entdecken</span></a>
                       <!--<![endif]-->
                     </td>
                   </tr>
