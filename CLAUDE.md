@@ -15,7 +15,9 @@ npm run format    # Prettier (mit prettier-plugin-astro)
 
 Ein Entwickler (Lukas), gearbeitet wird primär mit Claude Code. Jeder Push auf `main` deployt sofort live.
 
-- **Kleine Updates** (Inhalte, Texte, Bilder, kleine Code-Änderungen): nach erfolgreichem `npm run check` und `npm run build` direkt auf `main` committen und pushen – ohne extra Rückfrage. Diese Freigabe ist dauerhaft für kleine Updates.
+- **Kleine Updates** (konkret beauftragte Einzeländerungen: ein Flag wie `featured`, ein Tippfehler, ein Link, ein Bild tauschen, kleine Code-Fixes): nach erfolgreichem `npm run check` und `npm run build` direkt auf `main` committen und pushen – ohne extra Rückfrage. Diese Freigabe ist dauerhaft für kleine Updates.
+- **Neue oder neu geschriebene Ausschreibungen und Seiten** (auch wenn es „nur Inhalt“ ist) sowie alles, wo Claude Texte selbst formuliert oder Entwürfe macht: erst lokal im Dev-Server zeigen, Push erst nach Lukas' ausdrücklicher Freigabe.
+- Am Ende jeder Runde klar sagen: **„lokal, nicht gepusht“** oder **„live auf main“**.
 - **Größere Umbauten** (neue Features, Layout-/Routing-Änderungen): Hat Lukas das Ergebnis lokal (Dev-Server) angeschaut und freigegeben, direkt auf `main` committen und pushen – kein PR nötig.
 - **Pull-Requests nur**, wenn Claude agentisch ohne Lukas' Freigabe arbeitet (z.B. Hintergrund- oder geplante Sessions, Änderungen, die er nicht lokal gesehen hat) oder bei **kritischen Umbauten** (Dependency-/Astro-Upgrades, Routing, alles was URLs, SEO, Sitemap oder den Deploy-Workflow betrifft). Dann eigener Branch und PR, Merge erst nach Rückmeldung.
 - Im Zweifel nachfragen, ob eine Änderung einen PR braucht.
