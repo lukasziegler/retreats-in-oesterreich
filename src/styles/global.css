@@ -227,6 +227,28 @@ a {
   }
 }
 
+/* Site-wide focus ring (same as buttons and mosaic tiles) instead of the
+   browser default, which follows the OS accent color. :where() keeps the
+   specificity at zero so component rules can still override it. */
+:where(:focus-visible) {
+  outline: 3px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+/* The outline follows border-radius: round off plain links, icon buttons
+   (search) and the "Über uns" dropdown toggle (a span), and give them a bit
+   more air. Zero specificity, so pills (tags, buttons) keep their own radius. */
+:where(a, button, .dropdown-toggle):where(:focus-visible) {
+  outline-offset: 4px;
+  border-radius: 8px;
+}
+
+/* Wrapped headline links: one ring around the whole title instead of one
+   fragment per line */
+:where(h1, h2, h3, h4, h5, h6) > :where(a) {
+  display: inline-block;
+}
+
 /* Highlighted body-text link (e.g. WKO note in the disclaimer) */
 a.link {
   font-weight: 600;
@@ -313,6 +335,12 @@ table td {
 
   &.button--primary:hover {
     background: var(--button-background-hover);
+  }
+
+  /* Same focus ring as the hero mosaic tiles */
+  &:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
   }
 
   &.button--big {
@@ -800,11 +828,12 @@ table td {
   padding: 0;
 
   @media (max-width: 1050px) {
-    /* Otherwise the <button> is only as wide as the magnifier → full width, right-aligned */
-    width: 100%;
-    margin-left: 0;
-    justify-content: end;
-    margin-top: 4px;
+    /* Right-aligned and only as wide as the magnifier (so the focus ring hugs
+       the icon); the padding keeps a comfortable tap target, the negative
+       margin keeps the icon flush with the menu links */
+    width: fit-content;
+    margin: 4px -8px 0 auto;
+    padding: 8px;
   }
 }
 
@@ -1533,6 +1562,12 @@ table td {
   &:focus {
     background-color: var(--darken-gray);
   }
+
+  /* Same ring as buttons; on the petrol cards it turns white (see .waitlist) */
+  &:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+  }
 }
 
 .pagination {
@@ -1554,6 +1589,11 @@ table td {
   color: var(--white);
   background: var(--waitlist-background);
   box-shadow: var(--waitlist-shadow);
+
+  /* A turquoise ring would vanish on the petrol background */
+  :focus-visible {
+    outline-color: var(--white);
+  }
 
   .waitlist__title {
     margin-bottom: 8px;
