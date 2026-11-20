@@ -11,6 +11,14 @@ npm run check     # astro check — vor jedem Commit laufen lassen
 npm run format    # Prettier (mit prettier-plugin-astro)
 ```
 
+## Workflow
+
+Ein Entwickler (Lukas), gearbeitet wird primär mit Claude Code. Jeder Push auf `main` deployt sofort live.
+
+- **Kleine Updates** (Inhalte, Texte, Bilder, kleine Code-Änderungen): nach erfolgreichem `npm run check` und `npm run build` direkt auf `main` committen und pushen – ohne extra Rückfrage. Diese Freigabe ist dauerhaft.
+- **Größere Umbauten** (neue Features, Layout-/Routing-Änderungen, Dependency-Upgrades, alles was URLs betrifft): eigener Branch und Pull-Request, Merge erst nach Rückmeldung.
+- Im Zweifel nachfragen, ob ein Update „klein“ oder „groß“ ist.
+
 ## Sprache
 
 - **Code-Kommentare, Bezeichner und Commit-Messages: Englisch.** Gilt auch für Log-Meldungen im Build.
