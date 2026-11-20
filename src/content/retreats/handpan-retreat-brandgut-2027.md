@@ -1,5 +1,5 @@
 ---
-title: Handpan Retreat 2027 (Viehhofen)
+title: Handpan & Yoga Retreat 2027 (Viehhofen)
 description: "Erlebe im Mai 2027 fünf Tage Handpan & Yoga im brandgut in Viehhofen, mitten in den Salzburger Bergen. Vertiefe dein Handpan-Spiel, finde in deinen eigenen Spielfluss, jamme mit Gleichgesinnten und genieße Yoga, Wellness und Bergluft. Für alle mit erster Spielerfahrung – ideal für Wiederkehrer:innen der Handpan Beginner Days. Kein eigenes Instrument notwendig."
 date: 2026-11-08
 start_date: 2027-05-05
@@ -32,6 +32,34 @@ gallery:
 tags: [handpan, yoga, salzburg]
 featured: true
 waitlist: soon
+booking:
+  url: https://www.brandgut.at/pauschalen/handpan-retreat/
+  label: Retreat beim brandgut buchen
+  text: Die Plätze sind begrenzt – sichere dir deinen Platz direkt beim brandgut.
+  highlights:
+    - Kostenlos stornierbar bis 3 Monate vor Anreise
+    - "Bring a Friend: ihr spart jeweils 50 €"
+    - Keine eigene Handpan notwendig
+testimonials:
+  - quote: "Eine liebevolle Organisation, die harmonische Verbindung aus Handpan und Yoga, sowie die achtsame Atmosphäre haben die Tage zu etwas ganz besonderem gemacht. Ich fühle mich entspannt, inspiriert, erfüllt und zutiefst dankbar. Eure Hingabe, euer Feingefühl und eure einzigartigen Skillsets haben es ermöglicht, sich spielerisch Neuem zu nähern, mit Freude und Neugier. Eure Wärme und Passion hat einen heilsamen, perfekt ausbalancierten Raum geschaffen."
+    name: Sandra
+    date: Mai 2025
+  - quote: "In lockerer Atmosphäre konnte ich mich ganz entspannt ans Handpanspielen herantasten. Lukas und Alex haben dafür Zeit und Raum gehalten. In Kombination mit dem traumhaften Bergblick und dem gemütlichen Hotel war es nicht nur ein Lern-, sondern auch ein echtes Relax-Wochenende."
+    date: September 2025
+  - quote: "Das Retreat von Lukas & Alex war eine wunderschöne Auszeit. Ich bin ohne große Erwartungen bezüglich dem Handpanspielen hergekommen und möchte jetzt unbedingt weiterspielen! Lukas hat sein Können toll vermittelt & die Yogastunden von Alex waren ein super schöner Start in den Tag! Die beiden haben sehr gut auf die Bedürfnisse aller geachtet und jeder konnte so sein, wie er wollte. Auch die Natur/Umgebung, Unterkunft & Verpflegung waren ein Highlight! Ich komme gerne wieder! Danke!"
+    name: Marianne
+    date: Mai 2025
+  - quote: "Ein wunderbares Handpan-Retreat für Anfänger! Lukas und Alex haben mit Leichtigkeit und Herzblut eine entspannte und stimmige Mischung aus Yoga und Handpan geschaffen – einfach schön!"
+    date: September 2025
+  - quote: "Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch."
+    name: Brigit
+    date: Mai 2025
+  - quote: "Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen."
+    name: Lana
+    date: Mai 2025
+  - quote: "Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!"
+    name: Steffi
+    date: Mai 2025
 ---
 
 ## 5. - 9. Mai 2027
@@ -41,10 +69,6 @@ waitlist: soon
 Träumst du auch davon? Mit deiner Handpan umgeben von Gleichgesinnten und beeindruckender Natur zu spielen? Tiefer einzutauchen in das Handpanspielen, gemeinsam mit anderen zu jammen, dabei deine Komfortzone zu erweitern – und all das kombiniert mit Yoga, Wellness und Bergluft in den Salzburger Bergen?
 
 Genau das machen wir vom **5. bis 9. Mai 2027**. Komm mit uns für **5 Tage Handpan, Yoga und Meditation** ins <a href="https://www.brandgut.at/" target="_blank">brandgut – Resort meets distillery</a> im Glemmtal/Viehhofen, zwischen Zell am See und Saalbach Hinterglemm. Dort waren wir bereits 2025 und 2026 für die Handpan Beginner Days – und 2027 findet hier erstmals auch unser Retreat für alle statt, die schon erste Erfahrungen mit der Handpan gesammelt haben.
-
-<!--
-<a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank" class="button button--primary subscribe-button js-sign-up">Retreat beim brandgut buchen</a>
--->
 
 **Ein Handpan-Retreat inmitten malerisch schöner Natur**
 
@@ -83,19 +107,20 @@ Falls du noch Anfänger:in bist, dann schau dir unser Retreat im Herbst an:<br>
 
 **Was 2027 neu ist:**
 
-- Unser Handpan-Retreat findet **erstmals im brandgut** statt – mit Wellness-Bereich, Yoga-Plattform und Blick auf die Salzburger Berge.
-- **5 statt 4 Tage**: Viele Teilnehmer:innen der Beginner Days haben sich gewünscht, länger bleiben zu können. Diesem Wunsch kommen wir nach – so bleibt mehr Zeit, um anzukommen, die besondere Atmosphäre in der Gruppe zu genießen und das Gelernte zu vertiefen.
+- Erstmals **5 statt 4 Tage im brandgut** – mit Wellness-Bereich, Yoga-Plattform und Blick auf die Salzburger Berge.
+- **Mehr Zeit für dich**: Viele Teilnehmer:innen der Beginner Days haben sich gewünscht, länger bleiben zu können. Diesem Wunsch kommen wir nach – so bleibt mehr Zeit, um anzukommen, die besondere Atmosphäre in der Gruppe zu genießen und das Gelernte zu vertiefen.
 - **Ideal für Wiederkehrer:innen**: Wenn du schon bei den Handpan Beginner Days dabei warst, knüpfen wir genau dort an, wo du aufgehört hast.
 
 **Was dieses Event besonders macht:**
 
 - 5-Tage **Auszeit in den Bergen**, in einer traumhaften Retreat-Location im Glemmtal/Viehhofen – zwischen Zell am See und Saalbach Hinterglemm <br> (1,5 Stunden entfernt von Salzburg, Kufstein, Chiemsee)
 - **Kein eigenes Instrument** notwendig (kann gegen Aufpreis geliehen werden)
-- Du wirst wieder die Möglichkeit haben, unterschiedliche **Handpans vor Ort auszuprobieren** (unterschiedliche Skalen + Handpanbauer)
-- Handpans von <a href="https://www.paterahandpan.com/" target="_blank">Patera</a> oder <a href="https://yataoshop.com/" target="_blank">Yatao</a> können auf Wunsch **gemietet werden**
+- Handpans **mehrerer beliebter Hersteller** können vor Ort ausprobiert werden (<a href="https://maginstruments.com/" target="_blank">MAG</a>, <a href="https://yataoshop.com/" target="_blank">Yatao</a>, <a href="https://www.paterahandpan.com/" target="_blank">Patera</a>)
 - Ein perfekt **aufeinander abgestimmtes Programm** mit Handpan-Unterricht, Yoga, Meditation und Wohlfühlatmosphäre im brandgut wartet auf dich
 
 Veranstalter dieses Komplettangebots ist das <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">brandgut – Resort meets distillery</a> (Viehhofen, Salzburg). Die Buchung erfolgt direkt beim brandgut. Alex und Lukas begleiten dich vor Ort als Yoga- bzw. Handpan-Kursleiter.
+
+<div data-slot="booking"></div>
 
 ### Unser Ablauf
 
@@ -114,7 +139,7 @@ _Donnerstag / Freitag / Samstag_
 - **16:00 – 17:00** Freies Spielen (mit Möglichkeit für Fragen)
 - **17:00 – 18:00** Handpan-Workshop oder Zeit zum Jammen
 - **18:30 – 19:30** Abendessen
-- **ab 20:00** Abendprogramm (Spa-Bereich, gemeinsames Jammen oder geselliges Beisammensein)
+- **ab 20:00** Abendprogramm (gemeinsames Jammen, geselliges Beisammensein, Spa-Bereich oder Zeit für dich)
 
 _Sonntag (Abreise)_
 
@@ -137,11 +162,13 @@ Die Handpan-Workshops werden auf Basis der **D-Kurd** Handpanskala unterrichtet.
 Da es sich um vertiefende Workshops handelt, werden **folgende Kenntnisse vorausgesetzt**:
 
 - **Mindestens 2 Monate Spielerfahrung**: Du bekommst problemlos Töne aus der Handpan und beherrschst den Anschlag sowohl mit den Fingern als auch mit dem Daumen.
-- Sicheres Beherrschen von **Akkordfolgen**: Du kannst wiederholt mehrere verschiedene Akkorde hintereinander spielen und zwischen 2-4-6 und 1-3-5 wechseln.
-- Du kannst **Bassnoten und Melodienoten unabhängig voneinander** spielen (Melodiehand + Basshand).
+- Sicheres Beherrschen von **Akkordfolgen**: Du kannst wiederholt mehrere verschiedene Akkorde hintereinander spielen.
+- Du kannst **Bassnoten und Melodienoten unabhängig voneinander** spielen.
 - Falls du Zweifel hast, ob du schon fit genug bist, um an den Workshops teilzunehmen, <a href="https://wa.me/qr/OHNIKZZWK43VC1" target="_blank">melde dich gerne bei Lukas</a>. Auf Wunsch erhältst du im Vorfeld Videos von Lukas, damit du die Grundlagen aus dem Anfängerkurs wiederholen kannst.
 
-Ansonsten sind **keine weiteren Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an die neuen Konzepte herangeführt, und durch die begrenzte Teilnehmerzahl besteht die Möglichkeit, individuell auf dich einzugehen. **Ideal ist dieses Retreat für alle, die seit 1 bis 3 Jahren spielen.** Egal wo du dich gerade auf deiner Reise befindest, wirst du bei diesem Retreat etwas Neues und reichlich Inspiration für dich finden – ob du gerade irgendwo feststeckst, dir die eigene Spielpraxis fehlt oder du gerne mit anderen zusammen spielen möchtest. Wir bauen auf den Grundlagen der Malte Marten Method auf und vertiefen den Zugang zum freien Spielen und gemeinsamen Musizieren (= Jammen).
+Ansonsten sind **keine weiteren Vorkenntnisse** notwendig. Du wirst Schritt für Schritt an die neuen Konzepte herangeführt, und durch die begrenzte Teilnehmerzahl können wir individuell auf dich eingehen. Am meisten nimmst du mit, wenn du schon eine Weile spielst – etwa seit 1 bis 3 Jahren. **Aber auch wenn du noch frisch dabei bist** und gerade erst begonnen hast, bist du herzlich willkommen: Für Neueinsteiger:innen bilden wir gerne eigene kleine Gruppen. Hilfreich ist, wenn du die Basics schon kannst. Falls du komplett bei null startest, sind die <a href="/handpan-beginner-days-2027/">Handpan Beginner Days im Herbst (30. September – 3. Oktober 2027)</a> der bessere Einstieg.
+
+Egal wo du dich gerade auf deiner Reise befindest, wirst du bei diesem Retreat etwas Neues und reichlich Inspiration für dich finden – ob du gerade irgendwo feststeckst, dir die eigene Spielpraxis fehlt oder du gerne mit anderen zusammen spielen möchtest. Wir bauen auf den Grundlagen der Malte Marten Method auf und vertiefen den Zugang zum freien Spielen und gemeinsamen Musizieren (= Jammen).
 
 Für die **Yogastunden** von Alex sind keine Yoga-Vorkenntnisse notwendig. Alex kombiniert klassische Yoga-Stunden mit dynamischen Einflüssen aus dem Animal Flow, um auch hier den spielerischen Aspekt mit in die Yoga-Praxis zu bringen. Sei gespannt!
 
@@ -195,7 +222,7 @@ Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 �
 **Wissenswertes:**
 
 - Nach der Buchung <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">über die brandgut Webseite</a> erhältst du deine Rechnung über die Gesamtkosten direkt vom Hotel.
-- Du kannst ab Salzburg mit den öffentlichen Verkehrsmitteln kostenlos anreisen, außerdem erhältst du die Viehhofen Sommercard.
+- Mit dem <a href="https://www.guestmobilityticket.at/" target="_blank">Salzburger Guest Mobility Ticket</a> fährst du während deines Aufenthalts kostenlos mit Bus und Bahn im Bundesland Salzburg – auch bei der An- und Abreise ab Salzburg. Das Ticket bekommst du über den QR-Code in deinem Online-Check-in beim brandgut.
 - Veranstalter dieses Pauschalangebots ist die Brandgut KG (5752 Viehhofen, Österreich). Buchung und Vertragsabschluss erfolgen direkt beim brandgut. Lukas Ziegler (Handpan) und Alex Pichler (Yoga) gestalten das Kursprogramm im Auftrag des Veranstalters.
 
 ### Gönn dir eine Verschnaufpause, bevor der Sommer beginnt.
@@ -204,44 +231,21 @@ Melde dich zusammen mit einer weiteren Person an und ihr erhaltet jeweils **50 �
 
 > Bist du neugierig geworden?
 
-Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im September 2026 waren wir für die <a href="/handpan-retreat-brandgut-2026/">Handpan Beginner Days</a> im brandgut, im Mai 2025 für die <a href="/handpan-beginner-workshop-2025/">Handpan Beginner Days</a> im Navistal und im Mai 2024 für das Ashtanga Yoga & Stille Retreat.
+Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im September 2026 waren wir für die <a href="/handpan-retreat-brandgut-2026/">Handpan Beginner Days</a> im brandgut und im Mai 2025 für die <a href="/handpan-beginner-workshop-2025/">Handpan Beginner Days</a> im Navistal.
 
 <a href="https://www.instagram.com/stories/highlights/18023731421770010/" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom September 2026 – Handpan Beginner Days im brandgut</a>
 
 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDUyMDc4NTIwMzQxMzM0?story_media_id=3622336467137992003_38222413&igsh=MWVwOWtkMWJ5MmVtaw==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2025 – Handpan Beginner Days</a>
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA1MzgzNDM0ODA5NzIy?story_media_id=3363642901962157768_38222413&igsh=MWR2cW1mb2VvNTFseg==" target="_blank" class="button button--primary subscribe-button js-highlights">Highlights vom Mai 2024 – Ashtanga Yoga & Stille</a>
-
 ---
 
-### Das sagen unsere bisherigen Teilnehmer über die Zeit mit uns
-
-- "Lieber Lukas, lieber Alex! Von Herzen danke für dieses wundervolle Retreat! Eine liebevolle Organisation, die harmonische Verbindung aus Handpan und Yoga, sowie die achtsame Atmosphäre haben die Tage zu etwas ganz besonderem gemacht. Ich fühle mich entspannt, inspiriert, erfüllt und zutiefst dankbar. Eure Hingabe, euer Feingefühl und eure einzigartigen Skillsets haben es ermöglicht, sich spielerisch Neuem zu nähern, mit Freude und Neugier. Eure Wärme und Passion hat einen heilsamen, perfekt ausbalancierten Raum geschaffen." – Sandra
-
-- "In lockerer Atmosphäre konnte ich mich ganz entspannt ans Handpanspielen herantasten. Lukas und Alex haben dafür Zeit und Raum gehalten. In Kombination mit dem traumhaften Bergblick und dem gemütlichen Hotel war es nicht nur ein Lern-, sondern auch ein echtes Relax-Wochenende."
-
-- "Das Retreat von Lukas & Alex war eine wunderschöne Auszeit. Ich bin ohne große Erwartungen bezüglich dem Handpanspielen hergekommen und möchte jetzt unbedingt weiterspielen! Lukas hat sein Können toll vermittelt & die Yogastunden von Alex waren ein super schöner Start in den Tag! Die beiden haben sehr gut auf die Bedürfnisse aller geachtet und jeder konnte so sein, wie er wollte. Auch die Natur/Umgebung, Unterkunft & Verpflegung waren ein Highlight! Ich komme gerne wieder! Danke!" – Marianne
-
-- "Ein wunderbares Handpan-Retreat für Anfänger! Lukas und Alex haben mit Leichtigkeit und Herzblut eine entspannte und stimmige Mischung aus Yoga und Handpan geschaffen – einfach schön!"
-
-- "Lukas und Alex sind wundervolle, einfühlsame und absolut liebenswerte junge Männer. Sie haben mir beigebracht, wie ich mich abgrenzen und doch öffnen kann und mir klar gemacht, wie dankbar man doch für das eigene Leben sein kann. Ihre Kurse waren übrigens absolut friedlich, lehrreich und sehr emotional. Ich danke euch von ganzem Herzen und umarme euch." – Brigit
-
-- "Ein Retreat mit Lukas und Alex ist sehr heilsam und bereichernd. So eine Achtsamkeit und liebevolle Präsenz, wie man selten erlebt. Sie gehen auf jeden ein und holen jeden da ab, wo er gerade ist. Man fühlt sich wohl und hat genügend Raum, um sich selbst neu kennen zu lernen. Ich kann es absolut empfehlen, in ihrer Gegenwart in Meditation, Yoga und in die Welt der Handpan einzutauchen." – Lana
-
-- "Bitte bietet viele dieser unvergleichbaren Retreats an! Sie bieten so viel Verbesserung durch positive Impulse - das braucht die ganze Welt so dringend!" – Steffi
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/retreats/brandgut/was-andere-sagen-2025.05.jpg" loading="lazy">
-  </div>
-  <em>Was Teilnehmer:innen vom Retreat im Mai 2025 sagen</em>
-</div>
+<div data-slot="testimonials"></div>
 
 ---
 
 ### Organisatorisches
 
-- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verkehrsmitteln gut zu erreichen**. Mit deiner Buchung erhältst du eine kostenlose Gästekarte, mit der du im Bundesland Salzburg gratis anreisen kannst. Auch beim Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle vorab den Kontakt unter euch her.
+- Unsere Unterkunft <a href="https://maps.app.goo.gl/dGYv9zWhLPsHBQ5f7" target="_blank">brandgut resort</a> befindet sich im Glemmtal, auf halber Strecke zwischen Zell am See und Saalbach Hinterglemm, und ist auch **mit den öffentlichen Verkehrsmitteln gut zu erreichen**. Mit dem <a href="https://www.guestmobilityticket.at/" target="_blank">Salzburger Guest Mobility Ticket</a> (QR-Code im Online-Check-in des brandgut) reist du im Bundesland Salzburg kostenlos mit Bus und Bahn an. Auch beim Bilden von **Fahrgemeinschaften** unterstütze ich dich gerne und stelle vorab den Kontakt unter euch her.
 
 - Für die Übernachtung gelten die <a href="https://www.wko.at/oe/tourismus-freizeitwirtschaft/hotellerie/agb-hotellerie.pdf" target="_blank">allgemeinen Geschäftsbedingungen der Hotellerie</a>
 
@@ -252,7 +256,7 @@ Dann schau dir auf Instagram die **Highlights der letzten Jahre** an! Im Septemb
 - **bis 1 Woche** vor Anreise: 90 % vom Gesamtpreis
 - in der **letzten Woche** vor dem Ankunftstag 100 % vom Gesamtpreis
 
-- Um Stornierungskosten zu vermeiden, kann ein **Ersatzteilnehmer** genannt werden.
+Um Stornierungskosten zu vermeiden, kann ein **Ersatzteilnehmer** genannt werden.
 
 Wir behalten uns vor, in dringenden Fällen das Retreat abzusagen. In diesen Fällen wird das Retreat verschoben und nachgeholt. Der Kunde wird dazu rechtzeitig informiert.
 
@@ -265,7 +269,7 @@ Wir behalten uns vor, in dringenden Fällen das Retreat abzusagen. In diesen Fä
 
 > Zur Anmeldung oder für Fragen
 
-Die Buchung beim brandgut öffnet in Kürze. Trag dich unten auf die Warteliste ein, dann erfährst du als Erste:r, sobald du deinen Platz sichern kannst – unverbindlich.
+Die Buchung beim brandgut öffnet in Kürze. Trag dich ganz unten auf der Seite in die Warteliste ein, dann erfährst du als Erste:r, sobald du deinen Platz sichern kannst – unverbindlich.
 
 <!--
 - Anmeldung direkt über <a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank">die Webseite vom brandgut</a><br />(dort auf <b>"Jetzt anfragen"</b> klicken),
@@ -397,10 +401,6 @@ Wir freuen uns auf die Tage mit dir!
 
 ## Komm mit 🏔️
 
-<!--
-<a href="https://www.brandgut.at/pauschalen/handpan-retreat/" target="_blank" class="button button--primary subscribe-button js-sign-up">Retreat beim brandgut buchen</a>
--->
-
----
+<div data-slot="booking"></div>
 
 ![Man](/images/retreats/brandgut/brandgut-come-as-you-are.jpg#wide)
